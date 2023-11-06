@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
+          "type": "variant_sku",
+          "settings": {
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -41,7 +46,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -96,6 +101,7 @@
       "block_order": [
         "vendor",
         "title",
+        "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "price",
         "variant_picker",
