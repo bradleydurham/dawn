@@ -1,0 +1,103 @@
+/* Custom Styles */
+
+/* Changes to base.css
+
+  Line 247 .page-width - max-width: var(--page-width); BD comment out
+  Line 451 .h1 font-size: calc(var(--font-heading-scale) * 3.2rem) - BD og was 4rem
+  Line 2185 .announcement bar background: linear-gradient(90deg,rgba(217,27,92,1) 0%,rgba(142,41,110,1) 25%,rgba(46,44,114,1) 50%,rgba(0,101,171,1) 75%,rgba(0,177,216,1) 100%) !important; - BD added this
+  Line 2212 .announcement-bar__message padding: 1.25rem 0; - BD edit OG 1rem 0
+  Line 2259 @media screen and (min-width: 1270px) - BD og was 990px
+  Line 2331 @media screen and (max-width: 1269px) - BD og was 989px
+  Line 2348 @media screen and (min-width: 1270px) - BD og was 990px
+  Line 2415 @media screen and (max-width: 1269px) - BD og was 989px
+  Line 2611 @media screen and (min-width: 1270px) - BD og was 990px
+  Line 2750 @media screen and (min-width: 1270px) - BD og was 990px
+  Line 2788 .ratio filter: brightness(0.97); - BD added this
+
+*/
+
+/* BD Custom CSS */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bd-flex {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.bd-flex a{
+  color: white;
+  fill: white;
+}
+
+.bd-flex a svg.icon {
+  margin-right: 10px;
+}
+
+svg.icon-bd {
+  fill: white;
+  margin-right: 10px;
+}
+
+.email, .phone, .quote-request, .upload {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.email, .quote-request {
+  margin-left: 30px;
+}
+
+@media screen and (max-width: 1335px) {
+  .bd-mobile-hide{
+    max-width: 50%;
+  }
+  
+  .bd-mobile-center {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 919px) {
+  .bd-mobile-hide {
+    display: none;
+  } 
+
+  .bd-mobile-center {
+    max-width: 100%;
+    display: inline-block;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .bd-collection-center {
+    max-width: 66.67%;
+    margin: auto;
+  } 
+}
+
+.button--inverse {
+  color: #D91B5C;
+  border: 1px solid #D91B5C;
+  background: white;
+}
+
+.button--inverse:hover {
+  border: 2px solid #D91B5C;
+}
+
+.bd-redirect-button {
+    display: block;
+    border: 1px solid #D91B5C;
+    color: #D91B5C;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.bd-redirect-button:hover {
+    border: 2px solid #D91B5C;
+}
