@@ -101,6 +101,69 @@
         "padding_bottom": 36
       }
     },
+    "1d188e17-350d-45ca-b51f-7b77c72cb55b": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-text-1",
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-title-1",
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-price-1",
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-variant_picker-1",
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-quantity_selector-1",
+        "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-buy_buttons-1"
+      ],
+      "settings": {
+        "product": "fbi-warning-decal",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "video": {
       "type": "video",
       "settings": {
@@ -120,6 +183,7 @@
   "order": [
     "image_banner",
     "multicolumn",
+    "1d188e17-350d-45ca-b51f-7b77c72cb55b",
     "video"
   ]
 }
