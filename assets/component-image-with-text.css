@@ -1,5 +1,8 @@
 .image-with-text .grid {
   margin-bottom: 0;
+    /* BD additions */
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
 .image-with-text .grid__item {
