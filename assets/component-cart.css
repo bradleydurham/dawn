@@ -53,6 +53,7 @@ cart-items.is-empty .title-wrapper-with-link,
 
 cart-items {
   display: block;
+  max-width: 1600px; /* BD added */
 }
 
 .cart__items {
