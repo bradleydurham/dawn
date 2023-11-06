@@ -54,28 +54,31 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Column_Crypto.jpg",
+            "title": "CRYPTO & ALT COINS",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/pages\/crypto-alt-coins"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Column_Security.jpg",
+            "title": "SECURITY",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/pages\/security"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Column_Specialty9.jpg",
+            "title": "SPECIALTY WRAPS",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/pages\/specialty"
           }
         }
       },
