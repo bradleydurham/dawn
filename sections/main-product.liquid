@@ -86,6 +86,92 @@
               >
                 {{- block.settings.text -}}
               </p>
+            
+            {% comment %}BD code start {% endcomment %}
+            {%- when 'variant_sku' -%} 
+              <div id="sku-{{ section.id }}" {{ block.shopify_attributes }} class="variant-sku form__label"> 
+                {% if product.selected_or_first_available_variant.sku != blank %}
+                  <p id="product-sku">SKU: {{ product.selected_or_first_available_variant.sku }} </p>
+                {% endif %}
+              </div>
+            
+            {% when 'bd_redirect_url' %}
+                {% if product.selected_or_first_available_variant.metafields.custom.custom_redirect !=blank %}
+                    <div id="redirect-{{ section.id }}" {{ block.shopify_attributes }} class="redirect-url">
+                        <a class="bd-redirect-button" href="{{ product.selected_or_first_available_variant.metafields.custom.custom_redirect.value.url }}">Customize</a>
+                    </div>
+                {% endif %}
+
+            {%- when 'design_options' -%}
+                <variant-radios
+                    class="no-js-hidden"
+                    data-section="{{ section.id }}"
+                    data-url="{{ product.url }}"
+                    {{ block.shopify_attributes }}
+                >
+                    <fieldset class="js product-form__input">
+                        <legend class="form__label">Artwork Options</legend>  
+                        
+                        <input type="radio" id="design-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design1 }}" form="{{ product_form_id }}" checked>
+                        <label for="design-{{ section.id }}">{{ block.settings.design1 }}</label>
+                        <input type="radio" id="upload-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design2 }}" form="{{ product_form_id }}">
+                        <label for="upload-{{ section.id }}">{{ block.settings.design2 }}</label>
+                    </fieldset>
+                </variant-radios>
+
+                {%- when 'customize_content' -%}
+                  <style>
+                    .bd-form {
+                      padding-top: 1.5rem;
+                    }
+                    
+                    .bd-input {
+                      border: 1px solid #ccc;
+                    }
+  
+                    .bd-input:focus, .bd-input:not(:placeholder-shown) {
+                      padding: 1.5rem !important;
+                    }
+  
+                    .bd-textarea {
+                      padding: 1.5rem;
+                    }
+  
+                    .bd-hide {
+                      display: none;
+                    }
+                  </style>
+                  
+                  <div
+                    id="custom_details-{{ section.id }}"
+                    data-section="{{ section.id }}"
+                    {{ block.shopify_attributes }}
+                    class="bd-{{ product.selected_or_first_available_variant.metafields.custom.show_additional_fields }}"
+                  >
+                  {% if product.selected_or_first_available_variant.metafields.custom.show_additional_fields != blank and product.selected_or_first_available_variant.metafields.custom.show_additional_fields == true %}
+                    {% if block.settings.c_content_1 != blank %}
+                      <div class="product-form__imput bd-form">
+                        <label class="form__label" for="customize1-{{ section.id }}">{{ block.settings.c_content_1 }}</label>
+                        <input class="field__input bd-input" type="text" id="customize1-{{ section.id }}" form="{{ product_form_id }}" name="properties[{{ block.settings.c_content_1 }}]" placeholder="">
+                      </div>
+                    {% endif %}
+                    {% if block.settings.c_content_2 != blank %}
+                      <div class="product-form__imput bd-form">
+                        <label class="form__label">{{ block.settings.c_content_2 }}</label>
+                        <input class="field__input bd-input" type="text" id="customize2-{{ section.id }}" form="{{ product_form_id }}" name="properties[{{ block.settings.c_content_2 }}]">
+                      </div>
+                    {% endif %}
+                    {% if block.settings.c_content_3 != blank %}
+                      <div class="product-form__imput bd-form">
+                        <label class="form__label">{{ block.settings.c_content_3 }}</label>
+                        <textarea class="text-area bd-textarea" id="customize3-{{ section.id }}" form="{{ product_form_id }}" name="properties[{{ block.settings.c_content_3 }}]" rows="5"></textarea>
+                    </div>
+                    {% endif %}
+                  {% endif %}
+                  </div>
+                
+            {% comment %}BD code end {% endcomment %}
+
             {%- when 'title' -%}
               <div class="product__title" {{ block.shopify_attributes }}>
                 <h1>{{ product.title | escape }}</h1>
@@ -711,6 +797,76 @@
         }
       ]
     },
+
+    {
+      "type": "variant_sku",
+      "name": "⚡️ Variant SKU",
+      "limit": 1
+    },
+    {
+        "type": "bd_redirect_url",
+        "name": "⚡️ Redirect URL",
+        "limit": 1
+        
+    },
+    {
+      "type": "design_options",
+      "name": "⚡️ Design Options",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "paragraph",
+          "content": "These options are instructional only. No additional fee(s) will be added to the cart."
+        },
+        {
+          "type": "text",
+          "id": "design1",
+          "label": "Option 1 Label",
+          "default": "Design It For Me"
+        },
+        {
+          "type": "text",
+          "id": "design2",
+          "label": "Option 2 Label",
+          "default": "Upload My Own Artwork"
+        }
+      ]
+    },
+    {
+      "type": "customize_content",
+      "name": "⚡️ Customization Notes",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "paragraph",
+          "content": "Leave blank any you don't want to use. Those will not be rendered on the front end."
+        },
+        {
+          "type": "header",
+          "content": "Text Input"
+        },
+        {
+          "type": "text",
+          "id": "c_content_1",
+          "label": "Single Line Input Label"
+        },
+        {
+          "type": "text",
+          "id": "c_content_2",
+          "label": "Second Single Line Input Label"
+        },
+        {
+          "type": "header",
+          "content": "Multi-line Input"
+        },
+        {
+          "type": "text",
+          "id": "c_content_3",
+          "label": "Multi-line Input Label"
+        }
+      ]
+    },
+
     {
       "type": "title",
       "name": "t:sections.main-product.blocks.title.name",
