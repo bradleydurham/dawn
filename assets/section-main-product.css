@@ -383,7 +383,7 @@ a.product__text {
 
 @media screen and (min-width: 750px) {
   .product__info-container {
-    max-width: 60rem;
+    /* max-width: 60rem; BD comment out */
   }
 
   .product__info-container .price--on-sale .price-item--regular {
@@ -468,7 +468,7 @@ a.product__text {
 }
 
 .product-form__buttons {
-  max-width: 44rem;
+  /* max-width: 44rem; BD comment out */
 }
 
 .product--no-media .product__info-container > modal-opener {
