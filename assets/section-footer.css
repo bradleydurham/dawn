@@ -1,5 +1,6 @@
 .footer {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  background: linear-gradient(90deg,rgba(217,27,92,1) 0%,rgba(142,41,110,1) 25%,rgba(46,44,114,1) 50%,rgba(0,101,171,1) 75%,rgba(0,177,216,1) 100%); /* BD Added this */
 }
 
 .footer:not(.color-background-1) {
