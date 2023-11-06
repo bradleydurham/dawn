@@ -5,9 +5,16 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
+          }
+        },
+        "872d1030-32f8-466b-a787-dd5091932543": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"pd_20\">\n{% render 'breadcrumb' %}\n<\/div>"
           }
         },
         "title": {
@@ -90,16 +97,11 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
         "vendor",
+        "872d1030-32f8-466b-a787-dd5091932543",
         "title",
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
@@ -111,8 +113,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -153,9 +154,10 @@
         "image-with-text-1"
       ],
       "settings": {
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/SharkSkin_26fca33a-5ce8-4e42-9c06-2416ab97b0c5.png",
+        "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
