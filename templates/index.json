@@ -263,6 +263,48 @@
         "padding_bottom": 36
       }
     },
+    "6edd2eff-f7cc-428f-8ac6-6debae78ba0e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buy More. Save More.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save 30% on 50 Packs of Stock Decals (excludes custom orders)<\/p>"
+          }
+        },
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop All Decals",
+            "button_link": "shopify:\/\/collections\/all-stock-decals",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-heading-1",
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-text-1",
+        "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1d188e17-350d-45ca-b51f-7b77c72cb55b": {
       "type": "featured-product",
       "blocks": {
@@ -348,6 +390,7 @@
     "d22b16eb-68af-44d2-8da0-c12f121f2f0e",
     "e9da02a6-a77d-443c-93f4-6e35d1790e26",
     "3be03cc4-7332-4d60-a295-06df102d5ace",
+    "6edd2eff-f7cc-428f-8ac6-6debae78ba0e",
     "1d188e17-350d-45ca-b51f-7b77c72cb55b",
     "video"
   ]
