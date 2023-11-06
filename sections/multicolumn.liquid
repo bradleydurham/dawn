@@ -101,6 +101,9 @@
                         assign image_width = 1
                       endif
                     -%}
+                    {%- if block.settings.link_label != blank -%}
+                      <a class="media" href="{{ block.settings.link }}">
+                    {%- endif -%}
                     {% capture sizes %}
                       (min-width: {{ settings.page_width }}px) calc(({{ settings.page_width }}px - {{ grid_space_desktop }}) * {{ image_width }} /  {{ number_of_columns }}),
                       (min-width: 990px) calc((100vw - {{ grid_space_desktop }}) * {{ image_width }} / {{ number_of_columns }}),
@@ -115,6 +118,9 @@
                         sizes: sizes,
                         class: 'multicolumn-card__image'
                     }}
+                    {%- if block.settings.link_label != blank -%}
+                      </a>
+                    {%- endif -%}
                   </div>
                 </div>
               {%- endif -%}
