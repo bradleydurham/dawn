@@ -1137,6 +1137,14 @@ class VariantSelects extends HTMLElement {
 
         if (price) price.classList.remove('hidden');
 
+         // BD code start 
+         const redirect = document.getElementById(`redirect-${this.dataset.section}`);
+         if (redirect) redirect.classList.remove('visibility-hidden'), this.updateRedirect(html);
+ 
+         const custom_details = document.getElementById(`custom_details-${this.dataset.section}`);
+         if (custom_details) custom_details.classList.remove('visibility-hidden'), this.updateCustomDetails(html);
+         // BD code end
+
         if (inventoryDestination)
           inventoryDestination.classList.toggle('hidden', inventorySource.innerText === '');
 
@@ -1155,6 +1163,24 @@ class VariantSelects extends HTMLElement {
         });
       });
   }
+
+  // BD Code start
+  updateRedirect(html) {
+    const id = `redirect-${this.dataset.section}`;
+    const destination = document.getElementById(id);
+    const source = html.getElementById(id);
+  
+    if (source && destination) destination.innerHTML = source.innerHTML;
+  }
+
+  updateCustomDetails(html) {
+        const id = `custom_details-${this.dataset.section}`;
+        const destination = document.getElementById(id);
+        const source = html.getElementById(id);
+      
+        if (source && destination) destination.innerHTML = source.innerHTML;
+  }
+  // BD code end
 
   toggleAddButton(disable = true, text, modifyClass = true) {
     const productForm = document.getElementById(`product-form-${this.dataset.section}`);
@@ -1186,7 +1212,17 @@ class VariantSelects extends HTMLElement {
     const volumeTable = document.getElementById(`Volume-${this.dataset.section}`);
     const qtyRules = document.getElementById(`Quantity-Rules-${this.dataset.section}`);
 
+     // BD Code Start
+     const redirect = document.getElementById(`redirect-${this.dataset.section}`);
+     const custom_details = document.getElementById(`custom_details-${this.dataset.section}`);
+     // BD code end
+
     if (!addButton) return;
+    // BD code start
+    if (redirect) redirect.classList.add('hidden');
+    if (custom_details) custom_details.classList.add('hidden');
+    // BD code end
+
     addButtonText.textContent = window.variantStrings.unavailable;
     if (price) price.classList.add('hidden');
     if (inventory) inventory.classList.add('hidden');
