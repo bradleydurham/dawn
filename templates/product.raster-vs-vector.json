@@ -34,13 +34,13 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
+        "description": {
+          "type": "description",
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -87,8 +87,8 @@
         "title",
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
-        "price",
         "description",
+        "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -111,52 +111,60 @@
         "padding_bottom": 12
       }
     },
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98": {
-      "type": "image-banner",
+    "6c77c09e-1451-4ec1-a06e-00f362475bd9": {
+      "type": "image-with-text",
       "blocks": {
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1": {
+        "d828ab2f-67d9-4fa2-95ca-44682db720c0": {
+          "type": "caption",
+          "settings": {
+            "caption": "Vector vs. Raster Images",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Don't see what you need? We Customize.",
+            "heading": "How to Get the Best Looking Prints",
             "heading_size": "h1"
           }
         },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1": {
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-text-1": {
           "type": "text",
           "settings": {
-            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
+            "text": "<p>As you can see, Vector images produce a <br\/>high-quality and smooth appearance that’s anything but pixelated. <\/p>",
             "text_style": "body"
           }
         },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1": {
-          "type": "buttons",
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-button-1": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Quote Request",
-            "button_link_1": "shopify:\/\/pages\/quote-request",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Upload a file, we will inspect it.",
+            "button_link": "shopify:\/\/pages\/file-upload",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1"
+        "d828ab2f-67d9-4fa2-95ca-44682db720c0",
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-heading-1",
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-text-1",
+        "template--16974247133440__6c77c09e-1451-4ec1-a06e-00f362475bd9-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "image": "shopify:\/\/shop_images\/Generic_70d88769-a6bc-490c-8b57-d133d7882811.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "related-products": {
@@ -180,7 +188,7 @@
   },
   "order": [
     "main",
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
+    "6c77c09e-1451-4ec1-a06e-00f362475bd9",
     "related-products"
   ]
 }
