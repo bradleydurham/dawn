@@ -39,6 +39,11 @@
           "settings": {
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -51,11 +56,6 @@
             "c_content_1": "List Networks",
             "c_content_2": "",
             "c_content_3": "Customization Details"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -96,9 +96,9 @@
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "price",
+        "quantity_selector",
         "variant_picker",
         "4ca5e63f-0040-45f3-adc9-a137a38adee2",
-        "quantity_selector",
         "buy_buttons",
         "description",
         "collapsible-row-0",
