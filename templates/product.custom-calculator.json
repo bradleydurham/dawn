@@ -97,6 +97,15 @@
             "content": "<p><strong>Fractional Inches To Equivalent Decimal Inches<\/strong><\/p><p>1\/8 = 0.125<\/p><p>1\/4 = 0.25<\/p><p>3\/8 = 0.375<\/p><p>1\/2 = 0.5<\/p><p>5\/8 = 0.62<\/p><p>3\/4 = 0.75<\/p><p>7\/8 = 0.875<\/p>",
             "page": ""
           }
+        },
+        "40c7a265-b1c0-4918-b58a-93f485023dc6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "mm TO DECIMAL INCHES",
+            "icon": "ruler",
+            "content": "<p><strong>mm To Equivalent Decimal Inches<\/strong><\/p><p>3.18 mm = 0.125 in.<\/p><p>6.35 mm = 0.25 in.<\/p><p>9.52 mm = 0.375 in.<\/p><p>12.7 mm = 0.5 in.<\/p><p>15.9 mm = 0.62 in.<\/p><p>19 mm = 0.75 in.<\/p><p>22.2 mm = 0.875 in.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -113,7 +122,8 @@
         "collapsible-row-0",
         "fe78057a-0754-461d-b47c-9ceda57dfae1",
         "collapsible-row-1",
-        "96dc70df-2a71-4118-aacd-65624b5d83ff"
+        "96dc70df-2a71-4118-aacd-65624b5d83ff",
+        "40c7a265-b1c0-4918-b58a-93f485023dc6"
       ],
       "settings": {
         "enable_sticky_info": true,
