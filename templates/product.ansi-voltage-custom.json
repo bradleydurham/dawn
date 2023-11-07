@@ -53,9 +53,9 @@
         "dae5b339-b996-4a66-916e-d6b105224330": {
           "type": "customize_content",
           "settings": {
-            "c_content_1": "",
+            "c_content_1": "Voltage",
             "c_content_2": "",
-            "c_content_3": "Customization Details"
+            "c_content_3": ""
           }
         },
         "buy_buttons": {
