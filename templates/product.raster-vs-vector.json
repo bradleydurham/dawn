@@ -39,6 +39,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -57,26 +62,21 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIALS & SPECS",
-            "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "heading": "What Are Vector Images and How Do They Work?",
+            "icon": "question_mark",
+            "content": "<p>Vector images are typically produced by design software and consist of paths and curves dictated by mathematical data. This means that when you zoom in on a vector image, everything remains smooth no matter how close you get. Since vector images are made up of an algorithm, they come with smaller file sizes.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "SHIPPING",
+            "heading": "What Are Raster Images and How Do They Work? ",
             "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
+            "content": "<p>Raster images typically come from cameras using pixel data. This means that when you zoom in on a Raster image, you can see the pixels, and the image becomes blurry. <\/p><p>However, Raster images with higher dots per inch (DPI) or pixels per inch (PPI) are more detailed and less blurry but the file sizes is much larger. <\/p>",
             "page": ""
           }
         }
@@ -88,10 +88,10 @@
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "price",
+        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "collapsible-row-0",
         "collapsible-row-1"
       ],
