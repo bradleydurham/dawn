@@ -240,12 +240,28 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "970ed6bd-7308-47a8-9915-a5afc548314f": {
+      "type": "video",
+      "settings": {
+        "heading": "Wrap Installation Process",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/qVYRiAXKiIo",
+        "cover_image": "shopify:\/\/shop_images\/NCR-SS88-INSTALL-THUMBNAIL.jpg",
+        "description": "Installation process for SharkSkin® ATM and Kiosk Wraps",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa",
     "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
-    "related-products"
+    "related-products",
+    "970ed6bd-7308-47a8-9915-a5afc548314f"
   ]
 }
