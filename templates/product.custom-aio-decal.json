@@ -79,6 +79,15 @@
             "page": ""
           }
         },
+        "dd87abdf-36ac-4138-9b41-688a81efb7da": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "CUSTOM DECAL PROOF APPROVAL",
+            "icon": "check_mark",
+            "content": "<p>For custom orders, a proof will be sent after order completion. <\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -102,6 +111,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
+        "dd87abdf-36ac-4138-9b41-688a81efb7da",
         "collapsible-row-1"
       ],
       "settings": {
