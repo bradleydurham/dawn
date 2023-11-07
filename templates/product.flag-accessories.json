@@ -22,6 +22,11 @@
           "settings": {
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
           "type": "variant_sku",
           "settings": {
@@ -32,11 +37,6 @@
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
           }
         },
         "variant_picker": {
@@ -67,7 +67,7 @@
           "settings": {
             "heading": "MATERIALS & SPECS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>May contain various materials, including aluminum, plastic, and carbon fiber.<\/p>",
             "page": ""
           }
         },
@@ -76,7 +76,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
+            "content": "<p>Ships within 3-5 days.<\/p>",
             "page": ""
           }
         }
@@ -85,9 +85,9 @@
         "vendor",
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
+        "price",
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
-        "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
