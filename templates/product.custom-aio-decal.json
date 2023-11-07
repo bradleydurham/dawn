@@ -45,6 +45,14 @@
             "picker_type": "button"
           }
         },
+        "4ca5e63f-0040-45f3-adc9-a137a38adee2": {
+          "type": "customize_content",
+          "settings": {
+            "c_content_1": "List Networks",
+            "c_content_2": "",
+            "c_content_3": "Customization Details"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -89,6 +97,7 @@
         "caption",
         "price",
         "variant_picker",
+        "4ca5e63f-0040-45f3-adc9-a137a38adee2",
         "quantity_selector",
         "buy_buttons",
         "description",
