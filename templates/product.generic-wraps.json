@@ -30,8 +30,8 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "text": "Select your machine make & model below. The image shown is for reference only. Please allow 3-5 days for production before shipping. Topper inserts are sold separately; see the bundle option below.",
+            "text_style": "body"
           }
         },
         "price": {
