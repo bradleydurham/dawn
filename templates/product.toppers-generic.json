@@ -30,12 +30,17 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "text": "Select your quantity and size below. Please allow 3-5 days for production prior to shipping.",
+            "text_style": "body"
           }
         },
         "price": {
           "type": "price",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
           "settings": {
           }
         },
@@ -45,16 +50,16 @@
             "picker_type": "button"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
+          }
+        },
+        "9f7ea5ce-52d0-455e-b28d-456bc653d2dd": {
+          "type": "bd_redirect_url",
+          "settings": {
           }
         },
         "description": {
@@ -67,7 +72,7 @@
           "settings": {
             "heading": "MATERIALS & SPECS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>Our topper inserts are rigid plastic, printed with UV-stable ink that adheres to the smooth insert surface to prevent smudges. GetBranded inserts work with a variety of toppers from ATM manufacturers.<\/p>",
             "page": ""
           }
         },
@@ -76,7 +81,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
+            "content": "<p>This is a print-on-demand item. Please allow 3-5 days after placing order for production prior to shipping.<\/p>",
             "page": ""
           }
         }
@@ -88,9 +93,10 @@
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "price",
-        "variant_picker",
         "quantity_selector",
+        "variant_picker",
         "buy_buttons",
+        "9f7ea5ce-52d0-455e-b28d-456bc653d2dd",
         "description",
         "collapsible-row-0",
         "collapsible-row-1"
