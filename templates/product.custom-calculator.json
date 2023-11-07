@@ -71,6 +71,15 @@
             "page": ""
           }
         },
+        "fe78057a-0754-461d-b47c-9ceda57dfae1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
+            "icon": "clipboard",
+            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/>Should you need to send us artwork, instructions for uploading your artwork will be in the confirmation email.<br\/>  <br\/>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -80,12 +89,12 @@
             "page": ""
           }
         },
-        "fe78057a-0754-461d-b47c-9ceda57dfae1": {
+        "96dc70df-2a71-4118-aacd-65624b5d83ff": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
-            "icon": "clipboard",
-            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/>Should you need to send us artwork, instructions for uploading your artwork will be in the confirmation email.<br\/>  <br\/>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "heading": "DECIMAL INCHES",
+            "icon": "ruler",
+            "content": "<p><strong>Fractional Inches To Equivalent Decimal Inches<\/strong><\/p><p>1\/8 = 0.125<\/p><p>1\/4 = 0.25<\/p><p>3\/8 = 0.375<\/p><p>1\/2 = 0.5<\/p><p>5\/8 = 0.62<\/p><p>3\/4 = 0.75<\/p><p>7\/8 = 0.875<\/p>",
             "page": ""
           }
         }
@@ -102,8 +111,9 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
+        "fe78057a-0754-461d-b47c-9ceda57dfae1",
         "collapsible-row-1",
-        "fe78057a-0754-461d-b47c-9ceda57dfae1"
+        "96dc70df-2a71-4118-aacd-65624b5d83ff"
       ],
       "settings": {
         "enable_sticky_info": true,
