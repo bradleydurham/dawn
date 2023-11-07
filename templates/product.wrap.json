@@ -30,7 +30,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "Select your machine make & model below. The image shown is for reference only. Please allow 3-5 days for production before shipping. Topper inserts are sold separately; see the bundle option below.",
+            "text": "This is a custom item. The image shown is for reference only. Select your custom options below. Please allow 3-5 days after artwork approval for production before shipping. Topper inserts are sold separately. Quantity discounts are available. See the options below.",
             "text_style": "body"
           }
         },
@@ -50,16 +50,18 @@
             "picker_type": "button"
           }
         },
+        "9547e720-2768-4069-850b-db2fbbeeb506": {
+          "type": "design_options",
+          "settings": {
+            "design1": "Design It For Me",
+            "design2": "Upload My Own Artwork"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
-          }
-        },
-        "8817ce3c-5138-4b2b-a7a5-9940e98e0a78": {
-          "type": "bd_redirect_url",
-          "settings": {
           }
         },
         "description": {
@@ -70,18 +72,18 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIALS & SPECS",
+            "heading": "MATERIAL OPTIONS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright<\/p>",
             "page": ""
           }
         },
         "dd87abdf-36ac-4138-9b41-688a81efb7da": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "PROOF APPROVAL",
+            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
             "icon": "clipboard",
-            "content": "<p>If you choose \"Send As-Is\", you will not receive a proof. Customized artwork requires proof approval prior to production.<\/p>",
+            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/><\/p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br\/><\/p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br\/><\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
             "page": ""
           }
         },
@@ -90,7 +92,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This item is printed on demand. Please allow 3-5 days for production prior to shipping.<\/p>",
+            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
             "page": ""
           }
         }
@@ -104,8 +106,8 @@
         "price",
         "quantity_selector",
         "variant_picker",
+        "9547e720-2768-4069-850b-db2fbbeeb506",
         "buy_buttons",
-        "8817ce3c-5138-4b2b-a7a5-9940e98e0a78",
         "description",
         "collapsible-row-0",
         "dd87abdf-36ac-4138-9b41-688a81efb7da",

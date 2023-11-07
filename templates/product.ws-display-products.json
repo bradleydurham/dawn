@@ -30,8 +30,8 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "text": "This is a custom item. The image shown is for reference only. Please allow 3-5 days after artwork approval for production prior to shipping. Quantity discounts are available. See below.",
+            "text_style": "body"
           }
         },
         "price": {
@@ -65,9 +65,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIALS & SPECS",
+            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/><\/p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br\/><\/p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br\/><\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
             "page": ""
           }
         },
@@ -111,54 +111,6 @@
         "padding_bottom": 12
       }
     },
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Don't see what you need? We Customize.",
-            "heading_size": "h1"
-          }
-        },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
-            "text_style": "body"
-          }
-        },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Quote Request",
-            "button_link_1": "shopify:\/\/pages\/quote-request",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -180,7 +132,6 @@
   },
   "order": [
     "main",
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
     "related-products"
   ]
 }
