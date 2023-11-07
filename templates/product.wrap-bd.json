@@ -74,7 +74,7 @@
           "settings": {
             "heading": "PROOF APPROVAL",
             "icon": "clipboard",
-            "content": "<p>If you choose \"Send As-Is\", you will not receive a proof. Customized artwork requires proof approval prior to production.<\/p>",
+            "content": "<p>No proof will be sent. <\/p><p>By purchasing this product, you are verifying the wrap as shown in the main product image.<\/p><p>If you need a new design, please purchase the custom wrap from our selection of <a href=\"\/collections\/atm-branding\" title=\"ATM Wraps\">ATM Wraps<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -83,7 +83,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This item is printed on demand. Please allow 3-5 days for production prior to shipping.<\/p>",
+            "content": "<p>Please allow 3-5 days for production prior to shipping.<\/p>",
             "page": ""
           }
         }
