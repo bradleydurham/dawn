@@ -65,9 +65,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "MATERIAL",
             "icon": "leather",
-            "content": "",
+            "content": "<p>This black, matte textured, vinyl is designed to simulate a chalkboard. The material features a permanent adhesive.<\/p><p>It is recommended to use chalk or chalk markers. Other types of pens or paints may be permanent.<\/p>",
             "page": ""
           }
         },
