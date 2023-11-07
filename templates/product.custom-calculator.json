@@ -24,11 +24,13 @@
         },
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
           "type": "variant_sku",
+          "disabled": true,
           "settings": {
           }
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -36,17 +38,20 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -141,52 +146,46 @@
         "padding_bottom": 12
       }
     },
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98": {
-      "type": "image-banner",
+    "4556abf4-1292-4698-a077-7d10275a5717": {
+      "type": "rich-text",
       "blocks": {
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1": {
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Don't see what you need? We Customize.",
+            "heading": "Having trouble with the calculator?",
             "heading_size": "h1"
           }
         },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1": {
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-text-1": {
           "type": "text",
           "settings": {
-            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
-            "text_style": "body"
+            "text": "<p>Contact our sales team with questions or a custom quote.<\/p>"
           }
         },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1": {
-          "type": "buttons",
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-button-1": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Quote Request",
-            "button_link_1": "shopify:\/\/pages\/quote-request",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label": "Quote Request",
+            "button_link": "shopify:\/\/pages\/quote-request",
+            "button_style_secondary": false,
+            "button_label_2": "Contact Us",
+            "button_link_2": "shopify:\/\/pages\/contact",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1"
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-heading-1",
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-text-1",
+        "template--16974141194496__4556abf4-1292-4698-a077-7d10275a5717-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -210,7 +209,7 @@
   },
   "order": [
     "main",
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
+    "4556abf4-1292-4698-a077-7d10275a5717",
     "related-products"
   ]
 }
