@@ -79,6 +79,12 @@
             "content": "<p>This is a stock item. Decals ship Monday through Friday. Delivery time will be dependent on shipping method chosen at checkout.<\/p>",
             "page": ""
           }
+        },
+        "dfc68113-e7bd-4df9-a7f7-0a105c3445bd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -93,7 +99,8 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1"
+        "collapsible-row-1",
+        "dfc68113-e7bd-4df9-a7f7-0a105c3445bd"
       ],
       "settings": {
         "enable_sticky_info": true,
