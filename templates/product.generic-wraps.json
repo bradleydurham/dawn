@@ -50,19 +50,16 @@
             "picker_type": "button"
           }
         },
-        "4ca5e63f-0040-45f3-adc9-a137a38adee2": {
-          "type": "customize_content",
-          "settings": {
-            "c_content_1": "List Networks",
-            "c_content_2": "",
-            "c_content_3": "Customization Details"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
+          }
+        },
+        "8817ce3c-5138-4b2b-a7a5-9940e98e0a78": {
+          "type": "bd_redirect_url",
+          "settings": {
           }
         },
         "description": {
@@ -82,9 +79,9 @@
         "dd87abdf-36ac-4138-9b41-688a81efb7da": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "CUSTOM DECAL PROOF APPROVAL",
+            "heading": "PROOF APPROVAL",
             "icon": "clipboard",
-            "content": "<p>For custom orders, a proof will be sent after order completion. <\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "content": "<p>If you choose \"Send As-Is\", you will not receive a proof. Customized artwork requires proof approval prior to production.<\/p>",
             "page": ""
           }
         },
@@ -93,7 +90,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
+            "content": "<p>This item is printed on demand. Please allow 3-5 days for production prior to shipping.<\/p>",
             "page": ""
           }
         }
@@ -107,8 +104,8 @@
         "price",
         "quantity_selector",
         "variant_picker",
-        "4ca5e63f-0040-45f3-adc9-a137a38adee2",
         "buy_buttons",
+        "8817ce3c-5138-4b2b-a7a5-9940e98e0a78",
         "description",
         "collapsible-row-0",
         "dd87abdf-36ac-4138-9b41-688a81efb7da",
