@@ -65,18 +65,18 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "MATERIALS & SPECS",
             "icon": "leather",
-            "content": "",
+            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "SHIPPING",
             "icon": "truck",
-            "content": "",
+            "content": "<p>This is a stock item. Decals ship Monday through Friday. Delivery time will be dependent on shipping method chosen at checkout.<\/p>",
             "page": ""
           }
         },
