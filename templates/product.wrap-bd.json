@@ -27,13 +27,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "Select your machine make & model below. The image shown is for reference only. Please allow 3-5 days for production before shipping. Topper inserts are sold separately; see the bundle option below.",
-            "text_style": "body"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -70,9 +63,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIALS & SPECS",
+            "heading": "MATERIAL OPTIONS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright<\/p>",
             "page": ""
           }
         },
@@ -100,7 +93,6 @@
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
-        "caption",
         "price",
         "quantity_selector",
         "variant_picker",
