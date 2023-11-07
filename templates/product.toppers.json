@@ -30,12 +30,17 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "text": "This is a custom item. The image shown is for reference only. Select your custom options below. Please allow 3-5 days after artwork approval for production prior to shipping. Quantity discounts are available. See below.",
+            "text_style": "body"
           }
         },
         "price": {
           "type": "price",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
           "settings": {
           }
         },
@@ -45,9 +50,12 @@
             "picker_type": "button"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "5f57c89f-e5ed-45f0-a2ec-5eee93c480e7": {
+          "type": "customize_content",
           "settings": {
+            "c_content_1": "",
+            "c_content_2": "",
+            "c_content_3": "Customization Details"
           }
         },
         "buy_buttons": {
@@ -67,7 +75,7 @@
           "settings": {
             "heading": "MATERIALS & SPECS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>Our topper inserts are rigid plastic, printed with UV-stable ink that adheres to the smooth insert surface to prevent smudges. GetBranded inserts work with a variety of toppers from ATM manufacturers.<\/p>",
             "page": ""
           }
         },
@@ -88,8 +96,9 @@
         "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "price",
-        "variant_picker",
         "quantity_selector",
+        "variant_picker",
+        "5f57c89f-e5ed-45f0-a2ec-5eee93c480e7",
         "buy_buttons",
         "description",
         "collapsible-row-0",
