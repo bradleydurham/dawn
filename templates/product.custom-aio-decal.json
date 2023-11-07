@@ -83,7 +83,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "CUSTOM DECAL PROOF APPROVAL",
-            "icon": "check_mark",
+            "icon": "clipboard",
             "content": "<p>For custom orders, a proof will be sent after order completion. <\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
             "page": ""
           }
