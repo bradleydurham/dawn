@@ -46,10 +46,11 @@
         "be825710-730d-4811-82b0-908ae6cc3e3d": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/chalkboard-100.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Chalkboard Wrap",
+            "link": "shopify:\/\/products\/chalkboard-wrap"
           }
         },
         "7b3c5574-64e3-4877-b6a3-8ff41e437cbc": {
