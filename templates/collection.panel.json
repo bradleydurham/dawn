@@ -36,10 +36,11 @@
         "75e9ddda-cd51-4fcb-8b73-47ca3e22db87": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Triton-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "https:\/\/getbranded.com\/collections\/triton-atm-branding?filter.p.product_type=Panel"
           }
         },
         "6fd0665d-636b-434d-a5c9-7607e980644b": {
