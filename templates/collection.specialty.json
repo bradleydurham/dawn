@@ -36,10 +36,11 @@
         "6b3a4ad6-a937-4479-8bec-2ba3912101d8": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/GB-RockSoild-hover2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "RockSolid™ Wraps",
+            "link": "shopify:\/\/collections\/rock-solid-wraps"
           }
         },
         "be825710-730d-4811-82b0-908ae6cc3e3d": {
