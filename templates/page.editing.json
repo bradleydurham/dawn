@@ -6,9 +6,107 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16977388929280__4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is video editing?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16977388929280__4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Video editing is the process of manipulating and rearranging video shots to create a new video. It is typically used to create a polished and cohesive final product from raw footage, such as a movie or television show. Video editors typically use specialized software to trim and arrange video clips, add visual effects and transitions, and insert audio tracks and other multimedia elements. Video editing can be a complex and time-consuming process, but it is an essential part of creating professional-quality video content.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16977388929280__4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0-heading-1",
+        "template--16977388929280__4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "341784a6-6b5f-49e1-ba54-dfd549e39542": {
+      "type": "rich-text",
+      "blocks": {
+        "31e6c48e-5cf2-4a56-a479-dffb6a76fd3b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Is video editing expensive?",
+            "heading_size": "h1"
+          }
+        },
+        "02142b74-8f53-41f1-a45b-74c7b8de03a4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The cost of video editing can vary greatly depending on the specific needs of the project and the tools and resources being used. For example, a small business may be able to edit a promotional video using a simple video editing software that costs a few hundred dollars, while a major film production may require a team of editors using expensive, professional-grade software and hardware, which could cost tens of thousands of dollars.<\/p><p>Overall, the cost of video editing can range from very affordable to quite expensive, depending on the project and the tools being used. It is important to carefully consider your budget and needs before choosing a video editing solution.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "31e6c48e-5cf2-4a56-a479-dffb6a76fd3b",
+        "02142b74-8f53-41f1-a45b-74c7b8de03a4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c49fd78c-e9c2-4e21-859d-1c0bc216981e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16977388929280__c49fd78c-e9c2-4e21-859d-1c0bc216981e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to start your project?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16977388929280__c49fd78c-e9c2-4e21-859d-1c0bc216981e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16977388929280__c49fd78c-e9c2-4e21-859d-1c0bc216981e-heading-1",
+        "template--16977388929280__c49fd78c-e9c2-4e21-859d-1c0bc216981e-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0",
+    "341784a6-6b5f-49e1-ba54-dfd549e39542",
+    "c49fd78c-e9c2-4e21-859d-1c0bc216981e"
   ]
 }
