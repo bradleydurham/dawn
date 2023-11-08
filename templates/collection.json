@@ -137,11 +137,11 @@
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Custom Decal Calculator",
+            "button_link_1": "shopify:\/\/products\/customcalculator",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Quote Request",
+            "button_link_2": "shopify:\/\/pages\/quote-request",
             "button_style_secondary_2": false
           }
         }
