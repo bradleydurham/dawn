@@ -41,8 +41,8 @@
       "settings": {
         "title": "{{ section.settings.collection.title }}",
         "heading_size": "h1",
-        "description": "",
-        "show_description": true,
+        "description": "<p>{{ section.settings.collection.metafields.custom.single_line_description.value }}<\/p>",
+        "show_description": false,
         "description_style": "body",
         "collection": "bitcoin-crypto-decal-sign-sticker",
         "products_to_show": 8,
