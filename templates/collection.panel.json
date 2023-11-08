@@ -56,10 +56,11 @@
         "23ed5909-9213-4fd6-92a9-0dde2e923cfe": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Tranax-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "https:\/\/getbranded.com\/collections\/tranax-atm-branding?filter.p.product_type=Panel"
           }
         }
       },
