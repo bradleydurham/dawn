@@ -116,12 +116,61 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4876907b-1831-40fd-8ec7-f327f05e6e55": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't see what you need? We Customize.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banners.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "ddccb593-73f9-47c9-8303-8c498b89f38d",
     "banner",
     "product-grid",
-    "34bf2c81-31ae-43d4-a307-3139501a5ed2"
+    "34bf2c81-31ae-43d4-a307-3139501a5ed2",
+    "4876907b-1831-40fd-8ec7-f327f05e6e55"
   ]
 }
