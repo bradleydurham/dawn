@@ -258,11 +258,215 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2e3c0ed3-c409-4645-beab-45fb3cf6ace6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16977408524544__2e3c0ed3-c409-4645-beab-45fb3cf6ace6-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What logo and graphics file types can you use for my order?",
+            "icon": "question_mark",
+            "row_content": "<ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator<\/li><li>Preferred logo format: <strong>Vector<\/strong><\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>. <\/p><p>Tips for uploading artwork files:<\/p><ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator<\/li><li>Preferred logo format: Vector<\/li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)<\/li><li>Fonts: Outline all fonts and include all fonts used with the artwork<\/li><li>Colors: CYMK for printing purposes. If PMS colors are provided, they will be converted to CMYK for print production<\/li><li>Before production, our team will let you know there are issues with low resolution and if vector art files are needed. <\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>. <\/p>",
+            "page": ""
+          }
+        },
+        "371e92d2-ded8-4996-a995-6ff4c4d4afa7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why are vector files needed for large print jobs?",
+            "icon": "question_mark",
+            "row_content": "<p>Using a Vector format allows you to create striking images that are scalable with zero loss in quality. With the vector format, you can use the same design file for large projects, including billboards and banners, and small projects like apparel embroidery and business cards.<\/p><p>If you have a raster file that comes from a camera using pixel data, we can reproduce your file in vector and convert the color space to CMYK. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "145eb388-b181-4632-8dd4-14a530958cef": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is a raster file?",
+            "icon": "question_mark",
+            "row_content": "<p>Raster images typically come from cameras using pixel data. This means that when you zoom in on a Raster image, you can see the pixels, and the image becomes blurry.<\/p><p>If you have a raster file, we can reproduce your file in vector format that is needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "efa1bda1-0e42-42b6-b659-6b8fd5287fb0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the required file size\/resolution for my logos and images?",
+            "icon": "question_mark",
+            "row_content": "<ul><li>Preferred logo format: Vector<\/li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)<\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "e9e92760-524d-4c50-9020-d229d3b83009": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What color formats can be used in my artwork?",
+            "icon": "question_mark",
+            "row_content": "<ul><li>CMYK color builds are preferred for achieving a printed color match. <\/li><li>RGB will be converted to CMYK for print production, however, the color may not exactly match the RGB color as there is not an exact conversion into CMYK. If you would like an exact color match, provide a CMYK color build. Color proofs are available.<\/li><li>PMS will be converted to CMYK for print production, however, the color may not exactly match the PMS color. If you would like an exact color match, provide a CMYK color build. Color proofs are available. <\/li><li>Hex codes are used for digital color builds and can be converted to CMYK, however, the color match is less precise as it must be converted to RGB and then CMYK. A color proof is highly recommended if you are asking for a Hex value. <\/li><li>Photos of color references and paint color codes are not usable.<\/li><\/ul><p>Color proofs are available - shipping charges apply.<\/p>",
+            "page": ""
+          }
+        },
+        "53d32959-d26b-459d-88a2-98d0fda2d8cd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can GetBranded design my decal or wrap?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. Creation of a graphic design is included with the purchase of a full wrap. <\/p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. <\/p><p>For information about other custom projects, reach out using the <a href=\"\/pages\/custom-project\" title=\"Custom Project\">Custom Project form.<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "d6673ce5-4917-41bb-920c-f69737ec0f4b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is graphic design included with my order?",
+            "icon": "question_mark",
+            "row_content": "<p>Creation of a graphic design is included with the purchase of a full wrap. <\/p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. <\/p>",
+            "page": ""
+          }
+        },
+        "38479bc4-d59c-4015-880c-b192bdac1480": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer graphic design services for non-wrap projects?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. Read more about our <a href=\"\/products\/contact-graphic-design\" title=\"Contract Graphic Design\">graphic design services here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "af5c9dff-5daa-4698-9298-40e64bba0e99": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you provide an artwork template I can use to create my design?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. <a href=\"\/pages\/templates\" title=\"Templates\">Find templates here<\/a>.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16977408524544__2e3c0ed3-c409-4645-beab-45fb3cf6ace6-collapsible_row-3",
+        "371e92d2-ded8-4996-a995-6ff4c4d4afa7",
+        "145eb388-b181-4632-8dd4-14a530958cef",
+        "efa1bda1-0e42-42b6-b659-6b8fd5287fb0",
+        "e9e92760-524d-4c50-9020-d229d3b83009",
+        "53d32959-d26b-459d-88a2-98d0fda2d8cd",
+        "d6673ce5-4917-41bb-920c-f69737ec0f4b",
+        "38479bc4-d59c-4015-880c-b192bdac1480",
+        "af5c9dff-5daa-4698-9298-40e64bba0e99"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Graphic Design",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fcc70751-a775-4ce1-aea2-17bb21253be6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16977408524544__fcc70751-a775-4ce1-aea2-17bb21253be6-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do I go for additional assistance?",
+            "icon": "question_mark",
+            "row_content": "<p>Reach out to our team via phone or email. <a href=\"tel:1-800–503-0314\" title=\"tel:1-800–503-0314\">1-800–503-0314<\/a> or <a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com<\/a><\/p><p>To request a quote on a special project, you may use the <a href=\"\/pages\/quote-request\" title=\"Quote Request\">Quote Request Form<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "99047cdf-3ffb-45b4-8559-ea5ca913dc52": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer international shipping options?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, we offer international shipping.<\/p>",
+            "page": ""
+          }
+        },
+        "a50bdd58-0b9a-4b3c-9ad0-2baefd4b641e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much is shipping?",
+            "icon": "question_mark",
+            "row_content": "<p>We offer many shipping options. Prices vary by carrier and delivery timelines.<\/p>",
+            "page": ""
+          }
+        },
+        "f26a23c8-9781-44c7-8fd0-f1f026cf5025": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use my own shipping account?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, additional fees apply. If you want to ship using a different carrier, we will provide you with the dimensions and weight to create the shipping label and schedule the pickup. If you provide a shipping label and schedule pickup, we will ship using your account. <\/p>",
+            "page": ""
+          }
+        },
+        "447d70cb-174e-42d3-86e2-9c30d53f9c8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can my order ship to multiple locations?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, a single order can ship to multiple locations. Additional fees apply. <\/p>",
+            "page": ""
+          }
+        },
+        "f0d71386-d6ab-4b75-bfb5-2faca3da76aa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What happens after I order?",
+            "icon": "question_mark",
+            "row_content": "<p>Upon your order confirmation, the GetBranded team will begin fulfilling your order. If any of your items are custom and enough information has been provided, our designers will begin preparing proofs for your review and approval. If we need more information, a salesperson will contact you to gather this information, and then a proof will be provided. <\/p>",
+            "page": ""
+          }
+        },
+        "89f086ba-b828-4563-8d24-5032dd708e6b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the return\/cancellation policies?",
+            "icon": "question_mark",
+            "row_content": "<p>Custom orders are final and can not be canceled once production begins. <\/p><p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. <\/p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. <\/p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16977408524544__fcc70751-a775-4ce1-aea2-17bb21253be6-collapsible_row-4",
+        "99047cdf-3ffb-45b4-8559-ea5ca913dc52",
+        "a50bdd58-0b9a-4b3c-9ad0-2baefd4b641e",
+        "f26a23c8-9781-44c7-8fd0-f1f026cf5025",
+        "447d70cb-174e-42d3-86e2-9c30d53f9c8f",
+        "f0d71386-d6ab-4b75-bfb5-2faca3da76aa",
+        "89f086ba-b828-4563-8d24-5032dd708e6b"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Service",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "cdda0e45-e151-4cda-a290-57251e93963e",
-    "8cdea21f-c62d-4def-86bb-01a3ab572b70"
+    "8cdea21f-c62d-4def-86bb-01a3ab572b70",
+    "2e3c0ed3-c409-4645-beab-45fb3cf6ace6",
+    "fcc70751-a775-4ce1-aea2-17bb21253be6"
   ]
 }
