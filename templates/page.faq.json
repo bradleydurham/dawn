@@ -6,9 +6,171 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "cdda0e45-e151-4cda-a290-57251e93963e": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16977408524544__cdda0e45-e151-4cda-a290-57251e93963e-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is SharkSkin®?",
+            "icon": "question_mark",
+            "row_content": "<p>SharkSkin® is the name of our exclusive material which combines high-quality vinyl, 3M™ adhesive, eco-friendly UV stable ink, and a matte, textured laminate. The result is an easy-to-use, durable and long-lasting material for a variety of products. <a href=\"\/pages\/sharkskin\" title=\"Material Overview\">Read more about SharkSkin® here.<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "a358e6bf-fbda-4884-b429-d1de40425a5b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is ColorPop™?",
+            "icon": "question_mark",
+            "row_content": "<p>ColorPop™is the combination of high-quality vinyl, 3M™ adhesive,  eco-friendly UV stable ink, and a glossy, smooth laminate that shows colors at their maximum vibrance. <\/p>",
+            "page": ""
+          }
+        },
+        "1465f6d3-f5f2-4bdc-9a15-b510cc32b370": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "6f310855-6d88-4348-8f7e-eece0c8c16f0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "a2614426-903f-46b6-8444-e135ff26491c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "ceaf4634-69ce-45d5-98b9-19106ffe5773": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "21cc535d-ab8c-46e7-b70c-52ebece1a5ed": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "5997b9d4-361e-4982-9ee6-a7a6dfac4f85": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "0672fb9f-c944-40c1-8342-63ade6dc4dd9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "b5ea892f-04e8-4cbb-a9ac-f68d345f76e2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "f19ea63e-dc90-4211-b84c-0f76c893f4b8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "d3399575-60b9-4061-956c-ed9eb1426b0d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1c751e49-18c6-4ec0-81dc-a38048f2a00c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "ad497121-e4fc-4422-a8cd-29b4fd8372e7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16977408524544__cdda0e45-e151-4cda-a290-57251e93963e-collapsible_row-1",
+        "a358e6bf-fbda-4884-b429-d1de40425a5b",
+        "1465f6d3-f5f2-4bdc-9a15-b510cc32b370",
+        "6f310855-6d88-4348-8f7e-eece0c8c16f0",
+        "a2614426-903f-46b6-8444-e135ff26491c",
+        "ceaf4634-69ce-45d5-98b9-19106ffe5773",
+        "21cc535d-ab8c-46e7-b70c-52ebece1a5ed",
+        "5997b9d4-361e-4982-9ee6-a7a6dfac4f85",
+        "0672fb9f-c944-40c1-8342-63ade6dc4dd9",
+        "b5ea892f-04e8-4cbb-a9ac-f68d345f76e2",
+        "f19ea63e-dc90-4211-b84c-0f76c893f4b8",
+        "d3399575-60b9-4061-956c-ed9eb1426b0d",
+        "1c751e49-18c6-4ec0-81dc-a38048f2a00c",
+        "ad497121-e4fc-4422-a8cd-29b4fd8372e7"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "cdda0e45-e151-4cda-a290-57251e93963e"
   ]
 }
