@@ -167,10 +167,102 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8cdea21f-c62d-4def-86bb-01a3ab572b70": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16977408524544__8cdea21f-c62d-4def-86bb-01a3ab572b70-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I place an order?",
+            "icon": "question_mark",
+            "row_content": "<p>Custom orders are easy at GetBranded. Place your order through any product page. Many custom products have design options for your input and selection, and if we require additional information, a representative will contact you. You will receive a proof for approval prior to production of custom items. Production begins upon receipt of approval. <\/p>",
+            "page": ""
+          }
+        },
+        "70c109a2-a3b3-4c95-900e-73f9827e5694": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What make\/model machine do I have?",
+            "icon": "question_mark",
+            "row_content": "<p>Most ATMs\/kiosks have an informational placard inside the cabinet, including manufacturer name, model, serial number, manufactured date and a barcode. Often it can be found inside the top of the cabinet, on the left side wall. <\/p><p>We can also assist in identifying the make and model of other kiosks by images. If you still have a question about your model, send us a picture of the front and the side of the cabinet for assistance. <\/p>",
+            "page": ""
+          }
+        },
+        "9e988ee4-2903-4e5c-946a-611f7610f2a9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your standard production time?",
+            "icon": "question_mark",
+            "row_content": "<p>3-5 business days for production on most products. <\/p><p>High quantity orders may require more time, in which case we will contact you about production times and options for shipping in stages as the products are completed.<\/p>",
+            "page": ""
+          }
+        },
+        "62a194ca-bf59-4db9-959c-ac987f03b5bb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there discounts available? Can any decal be bought as a bundle\/pack?",
+            "icon": "question_mark",
+            "row_content": "<p>Most decals have options for quantity discounts. See the individual product page for details.<\/p>",
+            "page": ""
+          }
+        },
+        "6e809e51-265f-4e07-9975-a85367a24a5d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I create my own decal or wrap and send in the artwork?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. If you would like your logo added to an existing wrap or decal design, please use the <a href=\"\/pages\/file-upload\" title=\"File Upload\">File Upload<\/a> option to submit your information. If you have an artwork design for a custom wrap or custom decal, you may submit your order using your own artwork through any product page or use the <a href=\"\/pages\/quote-request\" title=\"Quote Request\">Quote Request<\/a> form. Read the Tips for uploading artwork files section below.<\/p>",
+            "page": ""
+          }
+        },
+        "9de539b8-3b10-4689-9e88-6ae0625900cd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you provide an artwork template I can use to create my design?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. Find templates <a href=\"\/pages\/templates\" title=\"Templates\">here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "be37478f-c99c-4d41-b230-8fe128518ba8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I make payment on an unpaid order?",
+            "icon": "question_mark",
+            "row_content": "<p>Orders that DO NOT include the GB- prefix can only be paid via check. Please make your check payable to GetBranded.com and send it to: 109 Hurricane Creek Rd. Piedmont, SC 29673. All new orders and orders containing the GB- prefix can be paid online.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16977408524544__8cdea21f-c62d-4def-86bb-01a3ab572b70-collapsible_row-1",
+        "70c109a2-a3b3-4c95-900e-73f9827e5694",
+        "9e988ee4-2903-4e5c-946a-611f7610f2a9",
+        "62a194ca-bf59-4db9-959c-ac987f03b5bb",
+        "6e809e51-265f-4e07-9975-a85367a24a5d",
+        "9de539b8-3b10-4689-9e88-6ae0625900cd",
+        "be37478f-c99c-4d41-b230-8fe128518ba8"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Ordering & Production",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "cdda0e45-e151-4cda-a290-57251e93963e"
+    "cdda0e45-e151-4cda-a290-57251e93963e",
+    "8cdea21f-c62d-4def-86bb-01a3ab572b70"
   ]
 }
