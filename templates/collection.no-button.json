@@ -16,23 +16,11 @@
             "text": "{{ collection.metafields.custom.single_line_description.value }}",
             "text_style": "body"
           }
-        },
-        "template--16969087484160__ddccb593-73f9-47c9-8303-8c498b89f38d-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "#collection-description",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--16969087484160__ddccb593-73f9-47c9-8303-8c498b89f38d-heading-1",
-        "template--16969087484160__ddccb593-73f9-47c9-8303-8c498b89f38d-text-1",
-        "template--16969087484160__ddccb593-73f9-47c9-8303-8c498b89f38d-buttons-1"
+        "template--16969087484160__ddccb593-73f9-47c9-8303-8c498b89f38d-text-1"
       ],
       "settings": {
         "image": "{{ collection.image }}",
@@ -156,15 +144,6 @@
         "show_text_below": true
       }
     },
-    "05395e5e-c531-4b5a-9f98-289cf80b342a": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n        <hr>\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}<\/h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        <\/div>\n    <\/div>\n<\/div>\n{%- endif -%}",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -180,7 +159,6 @@
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
-    "05395e5e-c531-4b5a-9f98-289cf80b342a",
     "banner"
   ]
 }
