@@ -101,12 +101,110 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "fb9bde1f-59eb-4f3b-8607-c72bb208f9f0": {
+      "type": "rich-text",
+      "blocks": {
+        "ab81145c-49ef-4b56-8aee-24b4f9ce2a51": {
+          "type": "heading",
+          "settings": {
+            "heading": "Editing video for social media",
+            "heading_size": "h1"
+          }
+        },
+        "ff62f848-5fb6-4cfd-b9d8-8673f1461be7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Video editing for social media involves creating and refining video content for platforms such as Facebook, Instagram, TikTok, and others. This can include cutting and rearranging video clips, adding visual effects and transitions, inserting audio tracks, and creating custom graphics and titles.<\/p><p>When editing video for social media, it is important to consider the specific requirements and best practices of the platform you are using. For example, each platform has its own recommended aspect ratios and file formats, and some have length limits or other restrictions on video content.<\/p><p>In addition to technical considerations, it is also important to consider the audience and the purpose of the video when editing for social media. This can help you create engaging and effective content that resonates with your target audience and meets your goals.<\/p><p>Overall, video editing for social media involves a combination of technical skills and creative vision, and can be a powerful way to share your message with a wider audience.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ab81145c-49ef-4b56-8aee-24b4f9ce2a51",
+        "ff62f848-5fb6-4cfd-b9d8-8673f1461be7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "50850fb1-6e44-4c61-bb97-f2788f334552": {
+      "type": "rich-text",
+      "blocks": {
+        "f43eddba-849c-4ff4-97a0-793df3b62c9d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Using music on social media videos",
+            "heading_size": "h1"
+          }
+        },
+        "edcbed5c-535a-405c-9363-0c29ace9a502": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Using music in social media videos can help to set the mood and enhance the overall experience for viewers. However, it is important to be aware of copyright laws when using music in your videos.<\/p><p>In general, it is best to use music that you have the legal right to use. This could mean using music that you have created yourself, using music that is in the public domain, or using music that has been licensed for your use.<\/p><p>If you want to use popular music in your social media videos, you may need to obtain a license from the copyright holder. This can be done through a music licensing service or directly from the copyright holder.<\/p><p>It is important to note that using copyrighted music without permission can result in legal consequences, such as fines or the removal of your video from social media platforms. To avoid these issues, be sure to respect copyright laws and obtain the necessary permissions before using music in your social media videos.<\/p><p>We work with all our clients to make sure there are no legal hurdles to face down the road for the music and other assets used in your video.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f43eddba-849c-4ff4-97a0-793df3b62c9d",
+        "edcbed5c-535a-405c-9363-0c29ace9a502"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7b3cd881-70fb-4fe2-8b88-887e4260d145": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16977388929280__7b3cd881-70fb-4fe2-8b88-887e4260d145-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Energize your next social media campaign!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16977388929280__7b3cd881-70fb-4fe2-8b88-887e4260d145-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16977388929280__7b3cd881-70fb-4fe2-8b88-887e4260d145-heading-1",
+        "template--16977388929280__7b3cd881-70fb-4fe2-8b88-887e4260d145-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "4640ca0e-67f3-4b1d-b4fd-2b51e1d8e7e0",
     "341784a6-6b5f-49e1-ba54-dfd549e39542",
-    "c49fd78c-e9c2-4e21-859d-1c0bc216981e"
+    "c49fd78c-e9c2-4e21-859d-1c0bc216981e",
+    "fb9bde1f-59eb-4f3b-8607-c72bb208f9f0",
+    "50850fb1-6e44-4c61-bb97-f2788f334552",
+    "7b3cd881-70fb-4fe2-8b88-887e4260d145"
   ]
 }
