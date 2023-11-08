@@ -26,10 +26,11 @@
         "template--16977251303680__0a7f0837-2490-4fa2-ad25-59de3e971268-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/gbMTLHmain.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "MetalHeads™ Wraps",
+            "link": "shopify:\/\/collections\/metal-heads"
           }
         },
         "6b3a4ad6-a937-4479-8bec-2ba3912101d8": {
