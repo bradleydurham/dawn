@@ -46,10 +46,11 @@
         "6fd0665d-636b-434d-a5c9-7607e980644b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Hantle-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "https:\/\/getbranded.com\/collections\/hantle-atm-branding?filter.p.product_type=Panel"
           }
         },
         "23ed5909-9213-4fd6-92a9-0dde2e923cfe": {
