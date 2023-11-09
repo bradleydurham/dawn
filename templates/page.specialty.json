@@ -35,62 +35,6 @@
         "padding_bottom": 36
       }
     },
-    "ad4f085d-6ee3-4dec-9e24-5c7219b112fc": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "{{ section.settings.collection.title }}",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "metal-heads",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "62ece480-66b0-4f12-824f-12e3fd53b679": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "{{ section.settings.collection.title }}",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "rock-solid-wraps",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "6cb8d44d-90ba-4dc1-be32-40c1cf3059a6": {
       "type": "featured-product",
       "blocks": {
@@ -129,12 +73,6 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
-        },
-        "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -143,8 +81,7 @@
         "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-price-1",
         "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-variant_picker-1",
         "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-quantity_selector-1",
-        "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-buy_buttons-1",
-        "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-share-1"
+        "template--16981677342976__6cb8d44d-90ba-4dc1-be32-40c1cf3059a6-buy_buttons-1"
       ],
       "settings": {
         "product": "chalkboard-wrap",
@@ -160,13 +97,133 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ad4f085d-6ee3-4dec-9e24-5c7219b112fc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "{{ section.settings.collection.title }}",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "metal-heads",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "28c0494a-c6f7-4be0-8850-e173dfd9a840": {
+      "type": "featured-product",
+      "blocks": {
+        "17c5f78b-819a-43f5-8e89-1b635547b403": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "2be302a7-2799-4551-9812-4b0902d79cd9": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "8adfecac-1d51-4f1d-9312-12ecdf0c550a": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "c96a60da-9a8e-4732-a8c5-68571fbac8ab": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "3803cde9-768f-4556-9459-814502f88c02": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6398a72a-a819-4a82-bdfc-130553e496fe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "17c5f78b-819a-43f5-8e89-1b635547b403",
+        "2be302a7-2799-4551-9812-4b0902d79cd9",
+        "8adfecac-1d51-4f1d-9312-12ecdf0c550a",
+        "c96a60da-9a8e-4732-a8c5-68571fbac8ab",
+        "3803cde9-768f-4556-9459-814502f88c02",
+        "6398a72a-a819-4a82-bdfc-130553e496fe"
+      ],
+      "settings": {
+        "product": "magwrap",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "62ece480-66b0-4f12-824f-12e3fd53b679": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "{{ section.settings.collection.title }}",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "rock-solid-wraps",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "66cd509a-b113-4228-8971-2c27ee366cf6",
+    "6cb8d44d-90ba-4dc1-be32-40c1cf3059a6",
     "ad4f085d-6ee3-4dec-9e24-5c7219b112fc",
-    "62ece480-66b0-4f12-824f-12e3fd53b679",
-    "6cb8d44d-90ba-4dc1-be32-40c1cf3059a6"
+    "28c0494a-c6f7-4be0-8850-e173dfd9a840",
+    "62ece480-66b0-4f12-824f-12e3fd53b679"
   ]
 }
