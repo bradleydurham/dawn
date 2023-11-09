@@ -167,13 +167,43 @@
         "padding_bottom": 52
       }
     },
+    "5abadb7a-aa54-48bf-92d0-691b51230920": {
+      "type": "rich-text",
+      "blocks": {
+        "8f710538-81fe-4ba5-a921-148091895ed9": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is the difference between animation and motion graphics?",
+            "heading_size": "h1"
+          }
+        },
+        "0daef6b2-2f76-4269-8b4f-2f11b0d5689e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Animation and motion graphics are related, but they are not the same thing.<\/p><p>Animation is the process of creating the illusion of movement by displaying a series of static images or frames in rapid succession. It can be used to create a wide range of visual effects, such as character animation, special effects, and environmental effects.<\/p><p>Motion graphics, on the other hand, is a technique that involves using computer-generated graphics and animation to create the illusion of motion or change. It is often used to create visual effects for video and film, as well as for television, online video, and other forms of digital media. Motion graphics can be used to enhance the visual appeal of a video or film by adding movement and visual interest to static graphics or images.<\/p><p>One key difference between the two is that animation typically involves creating a series of images or frames that are strung together to create the illusion of movement, while motion graphics involves the use of computer-generated graphics and animation to create the illusion of motion. Another difference is that animation is often used to create more complex, highly stylized visual effects, while motion graphics are typically used to create simpler, more streamlined effects.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8f710538-81fe-4ba5-a921-148091895ed9",
+        "0daef6b2-2f76-4269-8b4f-2f11b0d5689e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "7b3cd881-70fb-4fe2-8b88-887e4260d145": {
       "type": "rich-text",
       "blocks": {
         "template--16977388929280__7b3cd881-70fb-4fe2-8b88-887e4260d145-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Energize your next social media campaign!",
+            "heading": "Ready to start your project?",
             "heading_size": "h1"
           }
         },
@@ -210,6 +240,7 @@
     "c49fd78c-e9c2-4e21-859d-1c0bc216981e",
     "fb9bde1f-59eb-4f3b-8607-c72bb208f9f0",
     "275f3882-f2b0-4925-b858-f6d78dd89d40",
+    "5abadb7a-aa54-48bf-92d0-691b51230920",
     "7b3cd881-70fb-4fe2-8b88-887e4260d145"
   ]
 }
