@@ -12,25 +12,25 @@
             "menu": "footer"
           }
         },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": "<p>GetBranded.com specializes in high-quality products and services that help independent operators and financial institutions demonstrate compliance, grow their customer base, and increase transactions.<\/p><p><\/p><p><a href=\"\/pages\/about\" target=\"_blank\" title=\"About\">Read More About Us<\/a><\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact Us\">Contact Us<\/a><\/p><p><\/p><p>All trademarks, service marks, & trade names of GetBranded.com used in the site are trademarks or registered trademarks of Get Branded, LLC.<\/p><p><\/p><p><a href=\"\/policies\/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy<\/a><\/p><p><a href=\"\/policies\/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Terms Of Service<\/a><\/p><p><a href=\"\/pages\/confidentiality-agreement\" target=\"_blank\" title=\"Confidentiality Agreement\">Confidentiality Agreement<\/a><\/p><p><\/p>"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "GB2B",
+            "menu": "gb2b-menu"
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-2",
+        "footer-1"
       ],
       "settings": {
         "color_scheme": "accent-2",
