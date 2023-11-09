@@ -7,20 +7,83 @@
         "padding_bottom": 28
       }
     },
+    "d80a8497-aeab-4bb3-b15b-711d40c97013": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Animation",
+            "text": "<p>Character creation and simple animation can help bring your explainer video or presentation to life. Our team is skilled with creating exactly these types of animations.<\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/animation-motion-graphics"
+          }
+        },
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Motion Graphics",
+            "text": "<p>Want to catch someone's attention, wow an audience, or simply have great looking on-screen graphics, motion graphics can help. <\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/animation-motion-graphics"
+          }
+        },
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Video Editing",
+            "text": "<p>Our video editors will work with you to develop and finalize any video project. This can be a project we started or one using your existing video and audio assets. <\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/video-editing"
+          }
+        },
+        "ac702df4-6e54-46c8-8e83-46047660aad6": {
+          "type": "column",
+          "settings": {
+            "title": "Video Production",
+            "text": "<p>From production, to shooting, to sound, coordinating with professional talent, and finally mixing the final video, we are your one-stop-shop. <\/p>",
+            "link_label": "Read More",
+            "link": "shopify:\/\/pages\/video-production"
+          }
+        }
+      },
+      "block_order": [
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-1",
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-2",
+        "template--16981703000320__d80a8497-aeab-4bb3-b15b-711d40c97013-column-3",
+        "ac702df4-6e54-46c8-8e83-46047660aad6"
+      ],
+      "settings": {
+        "title": "Our Services",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Contact Us to Get Started",
+        "button_link": "shopify:\/\/pages\/contact",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2": {
       "type": "rich-text",
       "blocks": {
         "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "What is video production?",
+            "heading": "Should I have videos for my business?",
             "heading_size": "h1"
           }
         },
         "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Video production is the process of creating video content for a variety of purposes, such as entertainment, education, advertising, or communication. It involves a number of tasks, including pre-production (planning and scripting), production (shooting and recording audio), and post-production (editing and finishing the video). Video production can be done using a variety of methods, such as live action (filming real people or objects), animation, or a combination of both. It can be used to create a wide range of content, including movies, television shows, music videos, corporate videos, and more.<\/p>"
+            "text": "<p>Motion graphics is a technique that involves using computer-generated graphics and animation to create the illusion of motion or change. It is often used to create visual effects for video and film, as well as for television, online video, and other forms of digital media. Motion graphics can be used to enhance the visual appeal of a video or film by adding movement and visual interest to static graphics or images. It is also used to create interactive graphics for websites and other digital media.<\/p>"
           }
         }
       },
@@ -43,14 +106,14 @@
         "5ffe473d-c58f-4792-a0c2-7ed8bbd8a6b4": {
           "type": "heading",
           "settings": {
-            "heading": "Our team",
+            "heading": "Are videos cost-effective for business marketing?",
             "heading_size": "h1"
           }
         },
         "5aba24a1-0ba4-43ab-a3b1-63827ef42fa2": {
           "type": "text",
           "settings": {
-            "text": "<p>Utilizing our team of video production experts, we have created videos ranging from social media shorts, product introduction videos, highlight reels, hype videos, how-to and instructional videos, and much more. We take a systematic approach to each project taking into account desired outcomes and budget. Based on our years of experience we can make recommendations to help guide your project to be successful and within your budget.<\/p>"
+            "text": "<p>Videos can be an effective and cost-efficient way to promote your business, but the cost will depend on a number of factors, including the type of video you want to create, the length of the video, and the level of production value you want to achieve.<\/p><p>For example, a simple explainer video with animated graphics and a voiceover might cost a few hundred dollars to produce, while a more complex video with live action footage, special effects, and professional actors could cost thousands of dollars.<\/p><p>It's also important to consider the ongoing costs of hosting and promoting your videos. You may need to pay to host your videos on a platform like YouTube or Vimeo, and you may need to invest in advertising your videos on social media or through other channels in order to reach a larger audience.<\/p><p>Overall, it's a good idea to set a budget for your video marketing efforts and to consider the potential return on investment when deciding how much to spend.<\/p>"
           }
         }
       },
@@ -105,6 +168,7 @@
   },
   "order": [
     "main",
+    "d80a8497-aeab-4bb3-b15b-711d40c97013",
     "60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2",
     "fd306505-8e0d-472f-955e-936880dccfb3",
     "60913c22-e300-4e78-930f-26278c7bf9d6"
