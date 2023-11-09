@@ -22,7 +22,7 @@ html {
   scroll-behavior: smooth;
 }
 
-.announcement-bar__message .bd_left {
+.bd_left {
   display: flex;
 }
 
