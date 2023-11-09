@@ -60,53 +60,6 @@
         "padding_bottom": 36
       }
     },
-    "5aac1f43-c974-49bd-b250-8301f7b2e285": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Try Our Custom Decal Calculator.",
-            "heading_size": "h1"
-          }
-        },
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Need to order quickly or looking for a fast quote? Try our Custom Decal Calculator. We get to work as soon as the order is received. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Try Now",
-            "button_link": "shopify:\/\/products\/customcalculator",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-heading-1",
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-text-1",
-        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Custom_db1a1f20-b081-443e-893f-a5f6e8ef82bc.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1024cbad-a3a8-4165-bcb0-62f50abb9817": {
       "type": "rich-text",
       "blocks": {
@@ -129,7 +82,7 @@
             "button_label": "Request A Quote",
             "button_link": "shopify:\/\/pages\/quote-request",
             "button_style_secondary": false,
-            "button_label_2": "Send FeedBack",
+            "button_label_2": "",
             "button_link_2": "shopify:\/\/pages\/feedback",
             "button_style_secondary_2": false
           }
@@ -187,7 +140,6 @@
   "order": [
     "main",
     "bcb82855-9c3e-4fb3-a105-2772575038d7",
-    "5aac1f43-c974-49bd-b250-8301f7b2e285",
     "1024cbad-a3a8-4165-bcb0-62f50abb9817",
     "2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5"
   ]
