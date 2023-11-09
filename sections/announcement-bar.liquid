@@ -28,15 +28,13 @@
     {%- endif -%}
     {% comment %} BD code start {% endcomment %}
     {%- if section.settings.show_social == blank -%}
-      <div class="localization-wrapper">
-        <div class="grid--4-col-tablet grid__item bd-mobile-hide">
-          <div class="announcement-bar__message bd-left">
-            <a class="link--text phone" href="tel:18005030314">{% render 'icon-bd-phone' %} 1.800.503.0314</a>
+      <div class="bd-mobile-hide">
+        <div class="announcement-bar__message bd-left">
+          <a class="link--text phone" href="tel:18005030314">{% render 'icon-bd-phone' %} 1.800.503.0314</a>
 
-            <a class="link--text email" href="mailto:sales@getbranded.com">
-              {%- render 'icon-bd-mail' %} sales@getbranded.com</a
-            >
-          </div>
+          <a class="link--text email" href="mailto:sales@getbranded.com">
+            {%- render 'icon-bd-mail' %} sales@getbranded.com</a
+          >
         </div>
       </div>
     {%- endif -%}
