@@ -26,7 +26,7 @@ html {
   display: flex;
 }
 
-.annoucement-bar div:empty {
+.annoucement-bar:empty {
   display: flex;
   width: 100%;
 }
