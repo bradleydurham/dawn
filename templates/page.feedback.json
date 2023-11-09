@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bcb82855-9c3e-4fb3-a105-2772575038d7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Email",
+            "text": "<p><a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getranded.com<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Phone",
+            "text": "<p><a href=\"tel:1-800-503-0314\" title=\"tel:1-800-503-0314\">1-800-503-0314<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Physical Address",
+            "text": "<p>109 Hurricane Creek Road<\/p><p>Piedmont, SC 29673<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-1",
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-2",
+        "template--16969087156480__bcb82855-9c3e-4fb3-a105-2772575038d7-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5aac1f43-c974-49bd-b250-8301f7b2e285": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Try Our Custom Decal Calculator.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Need to order quickly or looking for a fast quote? Try our Custom Decal Calculator. We get to work as soon as the order is received. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try Now",
+            "button_link": "shopify:\/\/products\/customcalculator",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-heading-1",
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-text-1",
+        "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Custom_db1a1f20-b081-443e-893f-a5f6e8ef82bc.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1024cbad-a3a8-4165-bcb0-62f50abb9817": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "We love hearing from our customers.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request A Quote",
+            "button_link": "shopify:\/\/pages\/quote-request",
+            "button_style_secondary": false,
+            "button_label_2": "Send FeedBack",
+            "button_link_2": "shopify:\/\/pages\/feedback",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-heading-1",
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-text-1",
+        "template--16969087156480__1024cbad-a3a8-4165-bcb0-62f50abb9817-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-heading-1",
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-paragraph-1",
+        "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bcb82855-9c3e-4fb3-a105-2772575038d7",
+    "5aac1f43-c974-49bd-b250-8301f7b2e285",
+    "1024cbad-a3a8-4165-bcb0-62f50abb9817",
+    "2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5"
+  ]
+}
