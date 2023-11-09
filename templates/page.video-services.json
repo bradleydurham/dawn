@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is video production?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Video production is the process of creating video content for a variety of purposes, such as entertainment, education, advertising, or communication. It involves a number of tasks, including pre-production (planning and scripting), production (shooting and recording audio), and post-production (editing and finishing the video). Video production can be done using a variety of methods, such as live action (filming real people or objects), animation, or a combination of both. It can be used to create a wide range of content, including movies, television shows, music videos, corporate videos, and more.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-heading-1",
+        "template--16981696413952__60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fd306505-8e0d-472f-955e-936880dccfb3": {
+      "type": "rich-text",
+      "blocks": {
+        "5ffe473d-c58f-4792-a0c2-7ed8bbd8a6b4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our team",
+            "heading_size": "h1"
+          }
+        },
+        "5aba24a1-0ba4-43ab-a3b1-63827ef42fa2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Utilizing our team of video production experts, we have created videos ranging from social media shorts, product introduction videos, highlight reels, hype videos, how-to and instructional videos, and much more. We take a systematic approach to each project taking into account desired outcomes and budget. Based on our years of experience we can make recommendations to help guide your project to be successful and within your budget.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5ffe473d-c58f-4792-a0c2-7ed8bbd8a6b4",
+        "5aba24a1-0ba4-43ab-a3b1-63827ef42fa2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "60913c22-e300-4e78-930f-26278c7bf9d6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16981696413952__60913c22-e300-4e78-930f-26278c7bf9d6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to start your project?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16981696413952__60913c22-e300-4e78-930f-26278c7bf9d6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16981696413952__60913c22-e300-4e78-930f-26278c7bf9d6-heading-1",
+        "template--16981696413952__60913c22-e300-4e78-930f-26278c7bf9d6-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "60bc8b00-9db8-4711-a0e4-b0b8d03b9cd2",
+    "fd306505-8e0d-472f-955e-936880dccfb3",
+    "60913c22-e300-4e78-930f-26278c7bf9d6"
+  ]
+}
