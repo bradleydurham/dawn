@@ -26,6 +26,19 @@
     {%- if section.settings.show_social and social_icons -%}
       {%- render 'social-icons' -%}
     {%- endif -%}
+    {% comment %} BD code start {% endcomment %}
+    {%- if section.settings.show_social == blank -%}
+      <div class="grid--4-col-tablet grid__item bd-mobile-hide">
+        <div class="announcement-bar__message bd-left">
+          <a class="link--text phone" href="tel:18005030314">{% render 'icon-bd-phone' %} 1.800.503.0314</a>
+
+          <a class="link--text email" href="mailto:sales@getbranded.com">
+            {%- render 'icon-bd-mail' %} sales@getbranded.com</a
+          >
+        </div>
+      </div>
+    {%- endif -%}
+    {% comment %} BD code start {% endcomment %}
     {%- if section.blocks.size == 1 -%}
       <div
         class="announcement-bar{% if section.settings.show_social %} announcement-bar--one-announcement{% endif %}"
