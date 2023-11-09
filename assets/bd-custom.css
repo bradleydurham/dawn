@@ -59,10 +59,10 @@ svg.icon-bd {
   margin-left: 30px;
 }
 
-@media screen and (max-width: 1335px) {
-  .bd-mobile-hide{
+@media screen and (max-width: 990px) {
+ /* .bd-mobile-hide{
     max-width: 50%;
-  }
+  } */
   
   .bd-mobile-center {
     display: none;
