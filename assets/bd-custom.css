@@ -22,6 +22,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.announcement-bar__message .bd_left {
+  display: flex;
+}
+
 .bd-flex {
   display: flex;
   justify-content: flex-end;
