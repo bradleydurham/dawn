@@ -150,7 +150,7 @@
 
     {% comment %} BD Custom Code start {% endcomment %}
     {%- if section.settings.enable_country_selector == blank and section.settings.enable_language_selector == blank %}
-      <div class="grid--4-col-tablet grid__item bd-mobile-hide">
+      <div class="bd-mobile-hide">
         <div class="announcement-bar__message bd-flex">
           <a class="link--text upload" href="/pages/file-upload">
             {% render 'icon-bd-upload' %}
