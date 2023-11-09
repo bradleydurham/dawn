@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "&nbsp;",
+            "text": "",
             "link": ""
           }
         }
