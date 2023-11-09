@@ -6,9 +6,114 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "e9c53387-bcc2-4cb6-b373-cdc8af96993b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16981670822144__e9c53387-bcc2-4cb6-b373-cdc8af96993b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "There are several benefits to having a professional presentation:",
+            "heading_size": "h1"
+          }
+        },
+        "template--16981670822144__e9c53387-bcc2-4cb6-b373-cdc8af96993b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Impresses your audience: A professional presentation reflects well on you and your business, and can help you make a strong impression on your audience.<\/li><li>Communicates your message clearly: A professional presentation is well-organized and easy to follow, which helps your audience understand your message and take away key points.<\/li><li>Increases credibility: A professional presentation can increase your credibility and help you establish yourself as an expert in your field.<\/li><li>Enhances your brand: A professional presentation can help you promote your brand and differentiate yourself from competitors.<\/li><li>Increases engagement: A professional presentation is more likely to hold the attention of your audience and keep them engaged throughout the presentation.<\/li><li>Makes you stand out: In a world where everyone is competing for attention, a professional presentation can help you stand out and get noticed.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16981670822144__e9c53387-bcc2-4cb6-b373-cdc8af96993b-heading-1",
+        "template--16981670822144__e9c53387-bcc2-4cb6-b373-cdc8af96993b-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "aa1ef860-9929-4dd8-9a4a-f24e343df3f4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to start your project?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-heading-1",
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-text-1",
+        "template--16981670822144__aa1ef860-9929-4dd8-9a4a-f24e343df3f4-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "61d95433-59d2-4d91-b00c-6d42a6de5ef8": {
+      "type": "rich-text",
+      "blocks": {
+        "db7e9ed7-2e07-4c46-86d5-57323b75f70a": {
+          "type": "heading",
+          "settings": {
+            "heading": "The process of creating a presentation typically involves the following steps:",
+            "heading_size": "h1"
+          }
+        },
+        "f9036a1c-ebcd-43c6-8074-57698a4091df": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Define your audience and purpose: The first step in creating a presentation is to understand who your audience is and what you want to achieve with your presentation. This will help you tailor your content and delivery to meet the needs and expectations of your audience.<\/li><li>Develop an outline: Once you have a clear idea of your audience and purpose, the next step is to create an outline of your presentation. This should include the main points you want to cover and the order in which you want to cover them.<\/li><li>Create your slides: After you have an outline, you can start creating your slides. Keep in mind that each slide should only contain one key point or message. Use clear, concise language and include visual elements (such as charts, images, and graphics) to help illustrate your points.<\/li><li>Practice your delivery: Practice makes perfect! It's important to rehearse your presentation to ensure that you are comfortable with the material and can deliver it smoothly. This is also a good opportunity to fine-tune your slides and make any necessary adjustments.<\/li><li>Deliver your presentation: When it's time to give your presentation, make sure to introduce yourself and engage with your audience. Use eye contact, gestures, and voice inflection to keep your audience interested and involved.<\/li><li>Follow up: After your presentation, it's a good idea to follow up with your audience to see if they have any questions or feedback. This can help you improve your presentation skills and ensure that your message was effectively communicated.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "db7e9ed7-2e07-4c46-86d5-57323b75f70a",
+        "f9036a1c-ebcd-43c6-8074-57698a4091df"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "e9c53387-bcc2-4cb6-b373-cdc8af96993b",
+    "aa1ef860-9929-4dd8-9a4a-f24e343df3f4",
+    "61d95433-59d2-4d91-b00c-6d42a6de5ef8"
   ]
 }
