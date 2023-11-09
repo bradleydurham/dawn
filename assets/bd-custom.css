@@ -28,7 +28,6 @@ html {
 
 .utility-bar {
   background: linear-gradient(90deg,rgba(217,27,92,1) 0%,rgba(142,41,110,1) 25%,rgba(46,44,114,1) 50%,rgba(0,101,171,1) 75%,rgba(0,177,216,1) 100%)!important;
-  min-height: 58px;
 }
 
 .bd-flex {
