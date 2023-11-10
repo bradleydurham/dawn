@@ -120,3 +120,9 @@ svg.icon-bd {
 .bd-redirect-button:hover {
     border: 2px solid #D91B5C;
 }
+
+/* Cart page */
+
+cart-items {
+  margin: auto;
+}
