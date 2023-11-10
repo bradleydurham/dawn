@@ -126,3 +126,9 @@ svg.icon-bd {
 cart-items {
   margin: auto;
 }
+
+.cart__footer {
+  max-width: 1600px;
+  margin: auto;
+  padding: 0 5rem;
+}
