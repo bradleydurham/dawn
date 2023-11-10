@@ -50,6 +50,14 @@
             "picker_type": "button"
           }
         },
+        "885b19eb-b7e0-4839-9a9b-762933859a39": {
+          "type": "customize_content",
+          "settings": {
+            "c_content_1": "Full Legal Name (no phone number or website)",
+            "c_content_2": "If DBA (no phone number or website)",
+            "c_content_3": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -99,6 +107,7 @@
         "price",
         "quantity_selector",
         "variant_picker",
+        "885b19eb-b7e0-4839-9a9b-762933859a39",
         "buy_buttons",
         "description",
         "collapsible-row-0",
