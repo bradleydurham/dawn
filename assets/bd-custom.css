@@ -139,14 +139,23 @@ cart-items {
   display: inline-flex;
   justify-content: space-between;
   align-items: stretch;
-  gap: 1rem;
 }
 
-.desktop-bd-1 {
+.volume-discount-container-bd.desktop-bd-1, .volume-discount-container-bd.mobile-bd-1 {
   flex-direction: column;
+  width: 100%;  
+  gap: 0;
 }
 
 .volume-discount-item-bd {
-  border: 1px solid #121212;
-  border-radius: 1rem;
+  text-align: center;
+  padding: 1rem 2 rem;
+}
+
+.volume-discount-item-bd.desktop-bd-1, .volume-discount-item-bd.mobile-bd-1 {
+
+}
+
+.volume-discount-item-bd.desktop-bd-1.even {
+  background: #fefefe;
 }
