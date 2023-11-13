@@ -137,10 +137,13 @@ cart-items {
 
 .volume-discount-container-bd {
   display: inline-flex;
-  flex-flow: row wrap;
   justify-content: space-between;
   align-items: stretch;
-  gap: 0.5rem;
+  gap: 1rem;
+}
+
+.desktop-bd-1 {
+  flex-direction: column;
 }
 
 .volume-discount-item-bd {
