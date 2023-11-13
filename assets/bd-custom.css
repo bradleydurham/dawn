@@ -132,3 +132,18 @@ cart-items {
   margin: auto;
   padding: 0 5rem;
 }
+
+/* Volume Discounts */
+
+.volume-discount-container-bd {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 0.5rem;
+}
+
+.volume-discount-item-bd {
+  border: 1px solid #121212;
+  border-radius: 1rem;
+}

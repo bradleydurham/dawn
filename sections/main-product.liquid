@@ -175,34 +175,32 @@
                     id="volume_discount-{{ section.id }}"
                     data-section="{{ section.id }}"
                     {{ block.shopify_attributes }}
-                    class="volume-bd"
+                    class="volume-discount-bd"
                   >
                     {% if block.settings.vol_discount_header != blank %}
-                      <div class="volume-header-bd">
-                        <h2 class="volume-header-text-bd">{{ block.settings.vol_discount_header }}</h2>
+                      <div class="volume-discount-header-bd">
+                        <h2 class="volume-discount-header-text-bd">{{ block.settings.vol_discount_header }}</h2>
                       </div>
                     {% endif %}
-                    <div class="volume-discount-levels-bd desktop-bd-{{ block.settings.desktop_col }} mobile-bd-{{ block.settings.mobile_col }}">
-                      <ul class="volume-discount-container-bd">
+                    <div class="volume-discount-container-bd desktop-bd-{{ block.settings.desktop_col }} mobile-bd-{{ block.settings.mobile_col }}">
                         {% if block.settings.vol_dicount_1 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_1 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_1 }}</div>
                         {% endif %}
                         {% if block.settings.vol_dicount_2 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_2 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_2 }}</div>
                         {% endif %}
                         {% if block.settings.vol_dicount_3 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_3 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_3 }}</div>
                         {% endif %}
                         {% if block.settings.vol_dicount_4 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_4 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_4 }}</div>
                         {% endif %}
                         {% if block.settings.vol_dicount_5 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_5 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_5 }}</div>
                         {% endif %}
                         {% if block.settings.vol_dicount_6 != blank %}
-                          <li class="volume-discount-item-bd">{{ block.settings.vol_dicount_6 }}</li>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_6 }}</div>
                         {% endif %}
-                      </ul>
                     </div>
                   </div>
                 
