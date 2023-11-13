@@ -135,6 +135,12 @@ cart-items {
 
 /* Volume Discounts */
 
+.volume-discount-header-bd {
+  background: #0065AB;
+  color: white;
+  text-align: center;
+}
+
 .volume-discount-container-bd {
   display: inline-flex;
   justify-content: space-between;
