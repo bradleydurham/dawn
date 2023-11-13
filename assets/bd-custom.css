@@ -145,6 +145,7 @@ cart-items {
   flex-direction: column;
   width: 100%;  
   gap: 0;
+  border: 1px solid rgba(18,18,18,0.75);
 }
 
 .volume-discount-item-bd {
@@ -153,9 +154,9 @@ cart-items {
 }
 
 .volume-discount-item-bd.desktop-bd-1, .volume-discount-item-bd.mobile-bd-1 {
-
+  border-bottom: 1px solid rgba(18,18,18,0.75);
 }
 
 .volume-discount-item-bd.desktop-bd-1.even {
-  background: #fefefe;
+  background: #eee;
 }
