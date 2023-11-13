@@ -148,9 +148,13 @@ cart-items {
   border: 1px solid rgba(18,18,18,0.75);
 }
 
+.volume-discount-container-bd.desktop-bd-1:last-child, .volume-discount-container-bd.mobile-bd-1:last-child {
+  border: 0;
+}
+
 .volume-discount-item-bd {
   text-align: center;
-  padding: 1rem 2 rem;
+  padding: 1rem 2rem;
 }
 
 .volume-discount-item-bd.desktop-bd-1, .volume-discount-item-bd.mobile-bd-1 {
