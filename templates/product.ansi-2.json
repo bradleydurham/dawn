@@ -85,6 +85,20 @@
           "settings": {
             "custom_liquid": ""
           }
+        },
+        "eb0592c8-414e-4c3e-882c-40a1d5272c17": {
+          "type": "volume_discount",
+          "settings": {
+            "desktop_col": 6,
+            "mobile_col": 2,
+            "vol_discount_header": "Header Text",
+            "vol_dicount_1": "",
+            "vol_dicount_2": "",
+            "vol_dicount_3": "",
+            "vol_dicount_4": "Save 10% with a purchase of 50 or more",
+            "vol_dicount_5": "Save 10% with a purchase of 50 or more",
+            "vol_dicount_6": "Save 10% with a purchase of 50 or more"
+          }
         }
       },
       "block_order": [
@@ -100,7 +114,8 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "dfc68113-e7bd-4df9-a7f7-0a105c3445bd"
+        "dfc68113-e7bd-4df9-a7f7-0a105c3445bd",
+        "eb0592c8-414e-4c3e-882c-40a1d5272c17"
       ],
       "settings": {
         "enable_sticky_info": true,
