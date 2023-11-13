@@ -148,10 +148,6 @@ cart-items {
   border: 1px solid rgba(18,18,18,0.75);
 }
 
-.volume-discount-container-bd.desktop-bd-1:last-child, .volume-discount-container-bd.mobile-bd-1:last-child {
-  border: 0;
-}
-
 .volume-discount-item-bd {
   text-align: center;
   padding: 1rem 2rem;
@@ -159,6 +155,10 @@ cart-items {
 
 .volume-discount-item-bd.desktop-bd-1, .volume-discount-item-bd.mobile-bd-1 {
   border-bottom: 1px solid rgba(18,18,18,0.75);
+}
+
+.volume-discount-item-bd.desktop-bd-1:last-child, .volume-discount-item-bd.mobile-bd-1:last-child {
+  border-bottom: 0;
 }
 
 .volume-discount-item-bd.desktop-bd-1.even {
