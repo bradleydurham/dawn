@@ -138,7 +138,7 @@ cart-items {
 .volume-discount-header-bd {
   background: #0065AB;
   text-align: center;
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .volume-discount-header-bd.desktop-bd-1, .volume-discount-header-bd.mobile-bd-1 {
