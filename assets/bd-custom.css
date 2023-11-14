@@ -148,6 +148,11 @@ cart-items {
 .volume-discount-header-text-bd {
   color: white;
   margin: 0;
+  font-family: var(--font-body-family);
+  font-style: var(--font-body-style);
+  font-weight: var(--font-body-weight);
+  font-size: 1.5rem;
+  letter-spacing: .1rem;
 }
 
 .volume-discount-container-bd {
