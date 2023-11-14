@@ -227,6 +227,12 @@ cart-items {
   margin-top: 1rem;
 }
 
+@media (max-width: 1800px) {
+  .volume-discount-container-bd.column-6 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
 @media (max-width: 1269px) {
   .volume-discount-container-bd.column-6  {
     grid-template-columns: 1fr;
