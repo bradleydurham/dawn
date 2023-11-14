@@ -162,7 +162,7 @@ cart-items {
   padding: 1rem 2rem;
 }
 
-@media  (max-width: 1079px) {
+@media (max-width: 1079px) {
   .volume-discount-container-bd {
     flex-direction: column;
     width: 100%;  
