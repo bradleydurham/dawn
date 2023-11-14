@@ -60,12 +60,12 @@
         "eb0592c8-414e-4c3e-882c-40a1d5272c17": {
           "type": "volume_discount",
           "settings": {
-            "desktop_col": 3,
+            "desktop_col": 4,
             "vol_discount_header": "Header Text",
             "vol_dicount_1": "Save 10% with a purchase of 50 or more",
             "vol_dicount_2": "Save 10% with a purchase of 50 or more",
             "vol_dicount_3": "Save 10% with a purchase of 50 or more",
-            "vol_dicount_4": "",
+            "vol_dicount_4": "Save 10% with a purchase of 50 or more",
             "vol_dicount_5": "",
             "vol_dicount_6": ""
           }
