@@ -188,7 +188,7 @@ cart-items {
 }
 
 /* 2 col */
-.volume-discount-container-bd.column-1 {
+.volume-discount-container-bd.column-2 {
   grid-template-columns: 1fr 1fr;
   width: 100%;  
   gap: 1rem;
