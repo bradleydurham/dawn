@@ -195,6 +195,13 @@ cart-items {
   margin-top: 1rem;
 }
 
+/* 3 col */
+.volume-discount-container-bd.column-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;  
+  gap: 1rem;
+  margin-top: 1rem;
+}
 
 @media (max-width: 1269px) {
   .volume-discount-container-bd {
