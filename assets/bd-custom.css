@@ -187,6 +187,14 @@ cart-items {
   background: #eee;
 }
 
+/* 2 col */
+.volume-discount-container-bd.column-1 {
+  grid-template-columns: 1fr 1fr;
+  width: 100%;  
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
 
 @media (max-width: 1269px) {
   .volume-discount-container-bd {
