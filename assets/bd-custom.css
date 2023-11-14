@@ -162,22 +162,22 @@ cart-items {
   padding: 1rem 2rem;
 }
 
-.volume-discount-container-bd {
-  flex-direction: column;
-  width: 100%;  
-  gap: 0;
-  border: 1px solid rgba(18,18,18,0.75);
-}
-
-.volume-discount-item-bd {
-  border-bottom: 1px solid rgba(18,18,18,0.75);
-}
-
-.volume-discount-item-bd:last-child {
-  border-bottom: 0;
-}
-
 @media  (max-width: 1079px) {
+  .volume-discount-container-bd {
+    flex-direction: column;
+    width: 100%;  
+    gap: 0;
+    border: 1px solid rgba(18,18,18,0.75);
+  }
+
+  .volume-discount-item-bd {
+    border-bottom: 1px solid rgba(18,18,18,0.75);
+  }
+
+  .volume-discount-item-bd:last-child {
+    border-bottom: 0;
+  }
+
   .volume-discount-item-bd.even {
     background: #eee;
   }
