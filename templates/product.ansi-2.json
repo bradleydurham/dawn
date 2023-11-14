@@ -61,7 +61,7 @@
           "type": "volume_discount",
           "settings": {
             "desktop_col": 2,
-            "mobile_col": 1,
+            "mobile_col": 2,
             "vol_discount_header": "Header Text",
             "vol_dicount_1": "Save 10% with a purchase of 50 or more",
             "vol_dicount_2": "Save 10% with a purchase of 50 or more",
