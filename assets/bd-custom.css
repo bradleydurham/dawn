@@ -141,10 +141,6 @@ cart-items {
   padding: 1.25rem;
 }
 
-.volume-discount-header-bd.desktop-bd-1, .volume-discount-header-bd.mobile-bd-1 {
-  margin: 0;
-}
-
 .volume-discount-header-text-bd {
   color: white;
   margin: 0;
@@ -164,4 +160,23 @@ cart-items {
 .volume-discount-item-bd {
   text-align: center;
   padding: 1rem 2rem;
+}
+
+.volume-discount-container-bd {
+  flex-direction: column;
+  width: 100%;  
+  gap: 0;
+  border: 1px solid rgba(18,18,18,0.75);
+}
+
+.volume-discount-item-bd {
+  border-bottom: 1px solid rgba(18,18,18,0.75);
+}
+
+.volume-discount-item-bd.desktop-bd-1:last-child {
+  border-bottom: 0;
+}
+
+.volume-discount-item-bd.even {
+  background: #eee;
 }
