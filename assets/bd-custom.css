@@ -222,8 +222,22 @@ cart-items {
   margin-top: 1rem;
 }
 
-.volume-discount-item-bd.desktop-bd-4, .volume-discount-item-bd.mobile-bd-4 {
+.volume-discount-item-bd.desktop-bd-4 {
   max-width: 24%;
+  border: 1px solid rgba(18,18,18,0.75);
+  border-radius: 1rem;
+}
+
+/* 5 col */
+.volume-discount-container-bd.desktop-bd-5 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.volume-discount-item-bd.desktop-bd-5 {
+  max-width: 19%;
   border: 1px solid rgba(18,18,18,0.75);
   border-radius: 1rem;
 }
