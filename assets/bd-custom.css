@@ -213,3 +213,17 @@ cart-items {
   border: 1px solid rgba(18,18,18,0.75);
   border-radius: 1rem;
 }
+
+/* 4 col */
+.volume-discount-container-bd.desktop-bd-4, .volume-discount-container-bd.mobile-bd-4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.volume-discount-item-bd.desktop-bd-4, .volume-discount-item-bd.mobile-bd-4 {
+  max-width: 24%;
+  border: 1px solid rgba(18,18,18,0.75);
+  border-radius: 1rem;
+}
