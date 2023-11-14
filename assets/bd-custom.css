@@ -218,7 +218,7 @@ cart-items {
 
 @media (min-width: 1920px) {
   .volume-discount-item-bd {
-    max-width: 18.5%;
+    max-width: 100%;
   }
 }
 
