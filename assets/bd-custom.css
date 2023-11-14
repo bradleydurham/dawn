@@ -173,7 +173,7 @@ cart-items {
   border-bottom: 1px solid rgba(18,18,18,0.75);
 }
 
-.volume-discount-item-bd.desktop-bd-1:last-child {
+.volume-discount-item-bd:last-child {
   border-bottom: 0;
 }
 
