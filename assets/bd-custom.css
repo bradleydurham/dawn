@@ -203,6 +203,30 @@ cart-items {
   margin-top: 1rem;
 }
 
+/* 4 col */
+.volume-discount-container-bd.column-4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 100%;  
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* 5 col */
+.volume-discount-container-bd.column-5 {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;  
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* 6 col */
+.volume-discount-container-bd.column-6 {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;  
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
 @media (max-width: 1269px) {
   .volume-discount-container-bd {
     grid-template-columns: 1fr;
