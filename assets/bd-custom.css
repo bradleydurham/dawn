@@ -177,6 +177,8 @@ cart-items {
   border-bottom: 0;
 }
 
-.volume-discount-item-bd.even {
-  background: #eee;
+@media  (max-width: 1079px) {
+  .volume-discount-item-bd.even {
+    background: #eee;
+  }
 }
