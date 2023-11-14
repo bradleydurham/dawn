@@ -182,3 +182,18 @@ cart-items {
     background: #eee;
   }
 }
+
+@media (min-width: 1080px) {
+  .volume-discount-container-bd {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .volume-discount-item-bd {
+    border: 1px solid rgba(18,18,18,0.75);
+    border-radius: 1rem;
+    min-width: 32%;
+  }  
+}
