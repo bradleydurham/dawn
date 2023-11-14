@@ -152,9 +152,7 @@ cart-items {
 }
 
 .volume-discount-container-bd {
-  display: inline-flex;
-  justify-content: space-between;
-  align-items: stretch;
+  display: grid;
 }
 
 .volume-discount-item-bd {
@@ -169,7 +167,7 @@ cart-items {
 
 @media (max-width: 1269px) {
   .volume-discount-container-bd {
-    flex-direction: column;
+    grid-template-columns: 1fr;
     width: 100%;  
     gap: 0;
     border: 1px solid rgba(18,18,18,0.75);
@@ -189,7 +187,7 @@ cart-items {
     background: #eee;
   }
 }
-
+/*
 @media (min-width: 1270px) {
   .volume-discount-container-bd {
     flex-direction: row;
@@ -218,7 +216,7 @@ cart-items {
 
 @media (min-width: 1920px) {
   .volume-discount-item-bd {
-    max-width: 100%;
+    max-width: 18.5%;
   }
 }
 
@@ -226,4 +224,4 @@ cart-items {
   .volume-discount-container-bd {
     flex-wrap: nowrap;
   }
-}
+}*/
