@@ -186,19 +186,19 @@
                         {% if block.settings.vol_dicount_1 != blank %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_1 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_2 != blank %}
+                        {% if block.settings.vol_dicount_2 != blank and block.settings.desktop_col >= 2 %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_2 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_3 != blank %}
+                        {% if block.settings.vol_dicount_3 != blank and block.settings.desktop_col >= 3 %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_3 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_4 != blank %}
+                        {% if block.settings.vol_dicount_4 != blank and block.settings.desktop_col >= 4 %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_4 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_5 != blank %}
+                        {% if block.settings.vol_dicount_5 != blank and block.settings.desktop_col >= 5 %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_5 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_6 != blank %}
+                        {% if block.settings.vol_dicount_6 != blank and block.settings.desktop_col >= 6 %}
                           <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_6 }}</div>
                         {% endif %}
                     </div>
