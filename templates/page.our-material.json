@@ -121,7 +121,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-2",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -152,7 +152,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
