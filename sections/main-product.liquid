@@ -182,24 +182,24 @@
                         <h2 class="volume-discount-header-text-bd">{{ block.settings.vol_discount_header }}</h2>
                       </div>
                     {% endif %}
-                    <div class="volume-discount-container-bd column-{{ block.settings.desktop_col }}">
+                    <div class="volume-discount-container-bd">
                         {% if block.settings.vol_dicount_1 != blank %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_1 }}</div>
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_1 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_2 != blank and block.settings.desktop_col >= 2 %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_2 }}</div>
+                        {% if block.settings.vol_dicount_2 != blank %}
+                          <div class="volume-discount-item-bd even">{{ block.settings.vol_dicount_2 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_3 != blank and block.settings.desktop_col >= 3 %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_3 }}</div>
+                        {% if block.settings.vol_dicount_3 != blank %}
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_3 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_4 != blank and block.settings.desktop_col >= 4 %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_4 }}</div>
+                        {% if block.settings.vol_dicount_4 != blank %}
+                          <div class="volume-discount-item-bd even">{{ block.settings.vol_dicount_4 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_5 != blank and block.settings.desktop_col >= 5 %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }}">{{ block.settings.vol_dicount_5 }}</div>
+                        {% if block.settings.vol_dicount_5 != blank %}
+                          <div class="volume-discount-item-bd">{{ block.settings.vol_dicount_5 }}</div>
                         {% endif %}
-                        {% if block.settings.vol_dicount_6 != blank and block.settings.desktop_col >= 6 %}
-                          <div class="volume-discount-item-bd column-{{ block.settings.desktop_col }} even">{{ block.settings.vol_dicount_6 }}</div>
+                        {% if block.settings.vol_dicount_6 != blank %}
+                          <div class="volume-discount-item-bd even">{{ block.settings.vol_dicount_6 }}</div>
                         {% endif %}
                     </div>
                   </div>
@@ -874,16 +874,6 @@
         {
           "type": "paragraph",
           "content": "Remember to set up discount levels in the Shopify Admin."
-        },
-        {
-          "type": "range",
-          "id": "desktop_col",
-          "min": 1,
-          "max": 6,
-          "step": 1,
-          "unit": "col",
-          "label": "Desktop Columns",
-          "default": 3
         },
         {
           "type": "text",
