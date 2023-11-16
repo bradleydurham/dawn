@@ -165,10 +165,10 @@ cart-items {
   border-bottom: 1px solid rgba(18,18,18,0.75);
 }
 
-.volume-discount-item-bd.column-1:last-child {
+.volume-discount-item-bd:last-child {
   border-bottom: 0;
 }
 
-.volume-discount-item-bd.column-1.even {
+.volume-discount-item-bd.even {
   background: #eee;
 }
