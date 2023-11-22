@@ -17,7 +17,7 @@ class CartRemoveButton extends HTMLElement {
         json_data[install_id] = install_quantity-1;
        
       }
-
+console.log(json_data);
       fetch('/cart/update.js', {
         body: JSON.stringify({
           updates: json_data
@@ -62,7 +62,7 @@ class CartItems extends HTMLElement {
   }
 
   onChange(event) {
-    alert(event.target.value);
+   // alert(event.target.value);
     if(event.target.value == 0 ){
 
             var json_data = {};
