@@ -18,25 +18,23 @@ class CartRemoveButton extends HTMLElement {
        
       }
 
-    fetch('/cart/update.js', {
-    body: JSON.stringify({updates: json_data
-    }),
-    credentials: 'same-origin',
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Requested-With':'xmlhttprequest' 
-    },
-    method: 'POST'
-        }).then(function(response) {
-                   
-          return response.json();
-                   
-        }).then(function(json) {
-                window.location.reload();
-        }).catch(function(err) {
-          
-          console.error(err)
-          });
+      fetch('/cart/update.js', {
+        body: JSON.stringify({
+          updates: json_data
+        }),
+        credentials: 'same-origin',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-Requested-With':'xmlhttprequest' 
+        },
+        method: 'POST'
+      }).then(function(response) {
+        return response.json();
+      }).then(function(json) {
+        window.location.reload();
+      }).catch(function(err) {
+        console.error(err)
+      });
 
     });
   }
@@ -77,26 +75,24 @@ class CartItems extends HTMLElement {
 
            }
               
-          //alert(JSON.stringify(json_data));
+          alert(json_data);
           fetch('/cart/update.js', {
-          body: JSON.stringify({updates: json_data
-          }),
-          credentials: 'same-origin',
-          headers: {
-            'Content-Type': 'application/json',
-            'X-Requested-With':'xmlhttprequest' 
-          },
-          method: 'POST'
-              }).then(function(response) {
-                         
-                return response.json();
-                         
-              }).then(function(json) {
-                      window.location.reload();
-              }).catch(function(err) {
-                
-                console.error(err)
-                });
+            body: JSON.stringify({
+              updates: json_data
+            }),
+            credentials: 'same-origin',
+            headers: {
+              'Content-Type': 'application/json',
+              'X-Requested-With':'xmlhttprequest' 
+            },
+            method: 'POST'
+          }).then(function(response) {
+            return response.json();
+          }).then(function(json) {
+            window.location.reload();
+          }).catch(function(err) {
+            console.error(err)
+          });
            
       
        
