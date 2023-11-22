@@ -50,6 +50,9 @@
       <a href="{{ routes.all_products_collection_url }}" class="underlined-link">
         {{- 'general.continue_shopping' | t -}}
       </a>
+      <button type="button" id="clean_cart" class="button" name="clean_cart" onclick="clear_all()">
+        Clear Cart
+      </button>
     </div>
 
     <div class="cart__warnings">
