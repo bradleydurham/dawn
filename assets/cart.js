@@ -17,7 +17,7 @@ class CartRemoveButton extends HTMLElement {
         json_data[install_id] = install_quantity-1;
        
       }
-console.log(this);
+console.log(json_data);
       fetch('/cart/update.js', {
         body: JSON.stringify({
           updates: json_data
