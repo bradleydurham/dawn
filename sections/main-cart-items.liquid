@@ -98,7 +98,7 @@
               <tbody>
                 {%- for item in cart.items -%}
                   {% if item.properties["_parent"] != blank %}
-                    <input type="hidden" id="install_cart_{{ item.variant_id }}" value="{{ item.variant_id }}" class="install" data-quantity="{{ item.quantity }}">
+                    <input type="text" id="install_cart_{{ item.variant_id }}" value="{{ item.variant_id }}" class="install" data-quantity="{{ item.quantity }}">
                     {% continue %}
                   {% endif %}
                   <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
