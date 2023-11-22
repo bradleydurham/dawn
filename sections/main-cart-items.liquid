@@ -22,6 +22,24 @@
 {%- unless settings.cart_type == 'drawer' -%}
   <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 {%- endunless -%}
+<script>
+
+  function clear_all(){
+    fetch('/cart/clear.js', {
+    credentials: 'same-origin',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Requested-With':'xmlhttprequest' 
+    },
+    method: 'GET'
+        }).then(function(response) {
+        }).then(function(json) {
+         window.location.reload();
+        }).catch(function(err) {
+        console.error(err)
+        });
+  }
+</script>
 
 <script src="{{ 'quantity-popover.js' | asset_url }}" defer="defer"></script>
 
@@ -79,8 +97,12 @@
 
               <tbody>
                 {%- for item in cart.items -%}
+                  {% if item.properties["_parent"] != blank %}
+                    <input type="hidden" id="install_cart_{{ item.variant_id }}" value="{{ item.variant_id }}" class="install" data-quantity="{{ item.quantity }}">
+                    {% continue %}
+                  {% endif %}
                   <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
-                    <td class="cart-item__media">
+                    <td class="cart-item__media">***
                       {% if item.image %}
                         {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
                         <a href="{{ item.url }}" class="cart-item__link" aria-hidden="true" tabindex="-1"> </a>
