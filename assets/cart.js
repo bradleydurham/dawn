@@ -62,7 +62,7 @@ class CartItems extends HTMLElement {
   }
 
   onChange(event) {
-   // alert(event.target.value);
+    alert(event.target.value);
     if(event.target.value == 0 ){
 
             var json_data = {};
@@ -75,7 +75,7 @@ class CartItems extends HTMLElement {
 
            }
               
-          alert(json_data);
+          //alert(JSON.stringify(json_data));
           fetch('/cart/update.js', {
             body: JSON.stringify({
               updates: json_data
