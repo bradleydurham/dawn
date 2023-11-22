@@ -1019,13 +1019,28 @@ class VariantSelects extends HTMLElement {
   }
 
   updateVariantInput() {
-    const productForms = document.querySelectorAll(
-      `#product-form-${this.dataset.section}, #product-form-installment-${this.dataset.section}`
-    );
+    const productForms = document.querySelectorAll(`#product-form-${this.dataset.section}, #product-form-installment-${this.dataset.section}`);
     productForms.forEach((productForm) => {
       const input = productForm.querySelector('input[name="id"]');
       input.value = this.currentVariant.id;
       input.dispatchEvent(new Event('change', { bubbles: true }));
+      const prueab = document.querySelector('input[name="cod_variable_'+input.value+'"]');
+     document.getElementById("ins_id").value = prueab.value;
+     document.getElementById("ins_price").value = prueab.dataset.price;
+
+      let dollarUS = Intl.NumberFormat("en-US", {
+        style: "decimal",
+        currency: "USD", 
+        useGrouping: true,
+        maximumSignificantDigits: 2,
+      });
+
+      var price_cal = prueab.dataset.price / 100;
+      if(prueab.dataset.price){
+        document.getElementById("text_install").innerHTML = "$" +price_cal +".00 setup fee";
+      }else{
+        document.getElementById("text_install").innerHTML = "";
+      }
     });
   }
 
