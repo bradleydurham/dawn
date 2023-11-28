@@ -117,14 +117,6 @@
         "padding_bottom": 12
       }
     },
-    "de66572a-642e-4d97-8e89-e900c93cea71": {
-      "type": "bd-where-to-buy",
-      "settings": {
-        "title": "Also Available at:",
-        "content_alignment": "center",
-        "color_scheme": ""
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -172,6 +164,14 @@
         "padding_bottom": 36
       }
     },
+    "de66572a-642e-4d97-8e89-e900c93cea71": {
+      "type": "bd-where-to-buy",
+      "settings": {
+        "title": "Also Available at:",
+        "content_alignment": "center",
+        "color_scheme": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -189,55 +189,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "56ca96ee-6ae7-4d5a-b677-dd24f4412136": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-heading-1",
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-text-1",
-        "template--21605241553187__56ca96ee-6ae7-4d5a-b677-dd24f4412136-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "right",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "de66572a-642e-4d97-8e89-e900c93cea71",
     "image-with-text",
-    "related-products",
-    "56ca96ee-6ae7-4d5a-b677-dd24f4412136"
+    "de66572a-642e-4d97-8e89-e900c93cea71",
+    "related-products"
   ]
 }
