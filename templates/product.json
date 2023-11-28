@@ -117,6 +117,12 @@
         "padding_bottom": 12
       }
     },
+    "de66572a-642e-4d97-8e89-e900c93cea71": {
+      "type": "bd-where-to-buy",
+      "settings": {
+        "title": "Where to Buy"
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -218,6 +224,7 @@
   },
   "order": [
     "main",
+    "de66572a-642e-4d97-8e89-e900c93cea71",
     "image-with-text",
     "multicolumn",
     "related-products"
