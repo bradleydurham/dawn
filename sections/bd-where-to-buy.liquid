@@ -10,7 +10,9 @@
       </div>
       <div class="logos">
         {% for where_to_buy in product.metafields.custom.where_to_buy.value %}
-          <a href="https://google.com">{{ where_to_buy.store_logo | image_url: width: 200 | image_tag }}</a>
+          <a href="{{ where_to_buy.external_link_to_product }}">
+            {{- where_to_buy.store_logo | image_url: width: 200 | image_tag -}}
+          </a>
         {% endfor %}
       </div>
     </div>
