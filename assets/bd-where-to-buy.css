@@ -10,3 +10,9 @@
     justify-items: center;
     align-items: center;
 }
+
+@media (max-width: 990px) {
+    .where-to-buy-logos {
+        grid-template-columns: 1fr 1fr;
+    }
+}
