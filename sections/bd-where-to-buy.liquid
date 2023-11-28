@@ -1,18 +1,21 @@
 {% if product.metafields.custom.where_to_buy != blank %}
+  {{ 'bd-where-to-buy.css' | asset_url | stylesheet_tag }}
   <section
     id="WhereToBuy-{{ section.id }}"
     class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
     data-section="{{ section.id }}"
   >
-    <div class="page-width">
-      <div class="where-to-buy {{ section.settings.content_alignment }}">
+    <div class="page-width where-to-buy-container">
+      <div class="where-to-buy-header {{ section.settings.content_alignment }}">
         <h2>{{ section.settings.title }}</h2>
       </div>
-      <div class="logos">
+      <div class="where-to-buy-logos">
         {% for where_to_buy in product.metafields.custom.where_to_buy.value %}
-          <a href="{{ where_to_buy.external_link_to_product }}">
-            {{- where_to_buy.store_logo | image_url: width: 200 | image_tag -}}
-          </a>
+          <div class="where-to-buy-item">
+            <a href="{{ where_to_buy.external_link_to_product }}">
+              {{- where_to_buy.store_logo | image_url: width: 200 | image_tag -}}
+            </a>
+          </div>
         {% endfor %}
       </div>
     </div>
