@@ -1,4 +1,8 @@
-<h2>Additional Places to Purchase</h2>
+<section
+  id="WhereToBuy-{{ section.id }}"
+  class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
+  data-section="{{ section.id }}"
+></section>
 
 {% schema %}
 {
@@ -9,14 +13,20 @@
     {
       "type": "text",
       "id": "title",
-      "label": "Slideshow"
+      "label": "Headline"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "scheme-5"
     }
   ],
   "presets": [
     {
       "name": "Where to Buy",
       "settings": {
-        "title": "Where to Buy"
+        "title": "Also available at:"
       }
     }
   ]
