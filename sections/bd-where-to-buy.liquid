@@ -12,9 +12,9 @@
         {% for where_to_buy in product.metafields.custom.where_to_buy.value %}
           <a href="https://google.com"
             ><img
-              height="100"
+              height="50"
               width="auto"
-              src="https://cdn.shopify.com/s/files/1/0827/5660/0099/files/walmartLogo.svg?v=1701186798"
+              src="{{ where_to_buy.store_logo | file_url }}"
           ></a>
         {% endfor %}
       </div>
