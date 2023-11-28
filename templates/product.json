@@ -121,6 +121,7 @@
       "type": "bd-where-to-buy",
       "settings": {
         "title": "Also Available at:",
+        "content_alignment": "center",
         "color_scheme": ""
       }
     },
@@ -130,7 +131,7 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "{{ product.metafields.custom.technology.value.title.value }}",
             "heading_size": "h1"
           }
         },
