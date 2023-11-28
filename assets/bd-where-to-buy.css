@@ -1,3 +1,8 @@
+.where-to-buy-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 .where-to-buy-logos {
     display: grid;
     grid-auto-flow: column;
