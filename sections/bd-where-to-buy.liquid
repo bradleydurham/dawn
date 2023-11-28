@@ -8,6 +8,16 @@
       <div class="where-to-buy {{ section.settings.content_alignment }}">
         <h2>{{ section.settings.title }}</h2>
       </div>
+      <div class="logos">
+        {% for where_to_buy in product.metafields.custom.where_to_buy %}
+          <a href="https://google.com"
+            ><img
+              height="100"
+              width="auto"
+              src="https://cdn.shopify.com/s/files/1/0827/5660/0099/files/walmartLogo.svg?v=1701186798"
+          ></a>
+        {% endfor %}
+      </div>
     </div>
   </section>
 {% endif %}
