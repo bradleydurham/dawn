@@ -1,14 +1,16 @@
-<section
-  id="WhereToBuy-{{ section.id }}"
-  class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
-  data-section="{{ section.id }}"
->
-  <div class="page-width">
-    <div class="where-to-buy {{ section.settings.content_alignment }}">
-      <h2>{{ section.settings.title }}</h2>
+{% if product.metafields.custom.where_to_buy != blank %}
+  <section
+    id="WhereToBuy-{{ section.id }}"
+    class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
+    data-section="{{ section.id }}"
+  >
+    <div class="page-width">
+      <div class="where-to-buy {{ section.settings.content_alignment }}">
+        <h2>{{ section.settings.title }}</h2>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+{% endif %}
 
 {% schema %}
 {
