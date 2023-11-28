@@ -162,6 +162,7 @@
                                 <dd>{{ option.value }}</dd>
                               </div>
                             {%- endfor -%}
+                            {% if item.properties["_variant_price"] != blank%}<br><dt>Setup Fee:  </dt><dd> {{ item.properties["_variant_price"] | money }}</dd> {% endif %}
                           {%- endif -%}
 
                           {%- for property in item.properties -%}
