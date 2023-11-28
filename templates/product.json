@@ -120,7 +120,8 @@
     "de66572a-642e-4d97-8e89-e900c93cea71": {
       "type": "bd-where-to-buy",
       "settings": {
-        "title": "Where to Buy"
+        "title": "Also Available at:",
+        "color_scheme": ""
       }
     },
     "image-with-text": {
