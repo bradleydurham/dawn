@@ -50,19 +50,6 @@
           "settings": {
           }
         },
-        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "Pairs well with",
-            "make_collapsible_row": true,
-            "icon": "price_tag",
-            "product_list_limit": 10,
-            "products_per_page": 3,
-            "pagination_style": "counter",
-            "image_ratio": "square",
-            "enable_quick_add": true
-          }
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -70,6 +57,19 @@
             "icon": "leather",
             "content": "",
             "page": ""
+          }
+        },
+        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 2,
+            "products_per_page": 2,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
           }
         },
         "collapsible-row-1": {
@@ -109,8 +109,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
         "collapsible-row-0",
+        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3"
