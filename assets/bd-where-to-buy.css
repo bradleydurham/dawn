@@ -17,3 +17,9 @@
         grid-template-columns: 1fr 1fr;
     }
 }
+
+@media (max-width: 550px) {
+    .wtb-mobile {
+        max-width: 150px;
+    }
+}
