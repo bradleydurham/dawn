@@ -19,7 +19,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.custom.tagline.value }}",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         },
         "price": {
@@ -48,6 +48,8 @@
         "description": {
           "type": "description",
           "settings": {
+            "heading": "Product Description",
+            "icon": "question_mark"
           }
         },
         "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08": {
