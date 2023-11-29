@@ -201,12 +201,75 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-1",
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-2",
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-3",
+        "template--21605241553187__b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd-collapsible_row-4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/odor_control.svg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "de66572a-642e-4d97-8e89-e900c93cea71",
-    "related-products"
+    "related-products",
+    "b1a5aa2d-ff59-4e12-ab4c-0cd6916c0fbd"
   ]
 }
