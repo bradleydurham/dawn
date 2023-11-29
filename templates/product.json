@@ -68,7 +68,7 @@
           "settings": {
             "heading": "{{ product.metafields.custom.material_description.value.title.value }}",
             "icon": "leather",
-            "content": "{{ product.metafields.custom.material_description.value.description | metafield_tag }}",
+            "content": "<p>{{ product.metafields.custom.material_description.value.description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -77,7 +77,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "content": "",
+            "content": "{{ product.metafields.custom.shipping_policy.value.description | metafield_tag }}",
             "page": ""
           }
         }
