@@ -135,7 +135,7 @@
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
