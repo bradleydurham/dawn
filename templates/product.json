@@ -53,9 +53,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "{{ product.metafields.custom.material_description.value.title.value }}",
             "icon": "leather",
-            "content": "",
+            "content": "{{ product.metafields.custom.material_description.value.description | metafield_tag }}",
             "page": ""
           }
         },
@@ -75,26 +75,8 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Shipping",
             "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
             "content": "",
             "page": ""
           }
@@ -111,9 +93,7 @@
         "description",
         "collapsible-row-0",
         "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3"
+        "collapsible-row-1"
       ],
       "settings": {
         "enable_sticky_info": true,
