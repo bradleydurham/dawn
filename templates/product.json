@@ -177,7 +177,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "{{ product.metafields.custom.video_or_featured_image.value.title.value }}",
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
