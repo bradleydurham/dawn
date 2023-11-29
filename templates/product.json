@@ -50,15 +50,6 @@
           "settings": {
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "{{ product.metafields.custom.material_description.value.title.value }}",
-            "icon": "leather",
-            "content": "{{ product.metafields.custom.material_description.value.description | metafield_tag }}",
-            "page": ""
-          }
-        },
         "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08": {
           "type": "complementary",
           "settings": {
@@ -70,6 +61,15 @@
             "pagination_style": "counter",
             "image_ratio": "square",
             "enable_quick_add": true
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ product.metafields.custom.material_description.value.title.value }}",
+            "icon": "leather",
+            "content": "{{ product.metafields.custom.material_description.value.description | metafield_tag }}",
+            "page": ""
           }
         },
         "collapsible-row-1": {
@@ -91,8 +91,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
         "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
+        "collapsible-row-0",
         "collapsible-row-1"
       ],
       "settings": {
