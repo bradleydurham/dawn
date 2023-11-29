@@ -18,7 +18,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "{{ product.metafields.custom.tagline.value }}",
             "text_style": "subtitle"
           }
         },
@@ -50,39 +50,34 @@
           "settings": {
           }
         },
+        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 2,
+            "products_per_page": 2,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "{{ product.metafields.custom.material_description.value.title.value }}",
             "icon": "leather",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.material_description.value.description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Shipping",
             "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
+            "content": "{{ product.metafields.custom.shipping_policy.value.description | metafield_tag }}",
             "page": ""
           }
         }
@@ -96,10 +91,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
         "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3"
+        "collapsible-row-1"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -184,7 +178,7 @@
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false,
+        "show_rating": true,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
