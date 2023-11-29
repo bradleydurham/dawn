@@ -26,13 +26,13 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "none",
+            "icon_1": "apple",
             "image_1": "{{ product.metafields.custom.product_attributes.value.first_icon.value }}",
             "heading_1": "{{ product.metafields.custom.product_attributes.value.first_attribute.value }}",
-            "icon_2": "none",
+            "icon_2": "banana",
             "image_2": "{{ product.metafields.custom.product_attributes.value.second_icon.value }}",
             "heading_2": "{{ product.metafields.custom.product_attributes.value.second_attribute.value }}",
-            "icon_3": "none",
+            "icon_3": "bottle",
             "image_3": "{{ product.metafields.custom.product_attributes.value.third_icon.value }}",
             "heading_3": "{{ product.metafields.custom.product_attributes.value.third_attribute.value }}"
           }
