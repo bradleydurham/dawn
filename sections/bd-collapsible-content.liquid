@@ -1,7 +1,6 @@
 {{ 'component-accordion.css' | asset_url | stylesheet_tag }}
 {{ 'collapsible-content.css' | asset_url | stylesheet_tag }}
 
-
 {%- style -%}
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
@@ -54,33 +53,25 @@
           {% endif %}
           {%- if section.settings.video != blank -%}
             <div class="grid__item collapsible-content__grid-item">
-              <div class="collapsible-content__media collapsible-content__media--{{ section.settings.image_ratio }} media global-media-settings gradient">
-
-                  
-                    {%- if section.settings.video == null and section.settings.video_url != null -%}
-                      <a
-                        href="{{ section.settings.video_url }}"
-                        class="video-section__poster media media--transparent{% if poster == null %} video-section__placeholder{% endif %}"
-                      >
-                        {%- if poster != null -%}
-                          {{
-                            poster
-                            | image_url: width: 3840
-                            | image_tag: sizes: sizes, widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840', alt: alt
-                          }}
-                        {%- else -%}
-                          {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
-                        {%- endif -%}
-                      </a>
-                    {%- else -%}
-                      {{
-                        section.settings.video
-                        | video_tag: controls: true, muted: false
-                      }}
-                    {%- endif -%}
-                  
-
-              </div>
+              {%- if section.settings.video == null and section.settings.video_url != null -%}
+                <a
+                  href="{{ section.settings.video_url }}"
+                  class="video-section__poster media media--transparent{% if poster == null %} video-section__placeholder{% endif %}"
+                >
+                  {%- if poster != null -%}
+                    {{
+                      poster
+                      | image_url: width: 3840
+                      | image_tag: sizes: sizes, widths: '375, 750, 1100, 1500, 1780, 2000, 3000, 3840', alt: alt
+                    }}
+                  {%- else -%}
+                    {{ 'hero-apparel-3' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+                  {%- endif -%}
+                </a>
+              {%- else -%}
+                {{ section.settings.video | video_tag: controls: true, muted: false }}
+              {%- endif -%}
+            </div>
           {% endif %}
           <div class="grid__item">
             <div
