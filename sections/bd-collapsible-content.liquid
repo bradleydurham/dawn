@@ -70,7 +70,10 @@
                   {%- endif -%}
                 </a>
               {%- else -%}
-                {{ section.settings.video | video_tag: controls: true, muted: false, class: 'bd-featured' }}
+                {{
+                  section.settings.video
+                  | video_tag: image_size: '1100x', controls: true, muted: false, class: 'bd-featured'
+                }}
               {%- endif -%}
             </div>
           {% endif %}
