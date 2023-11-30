@@ -135,18 +135,18 @@
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_1.value }}",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_1 | metafield_tag }}",
             "page": ""
           }
         },
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_2.value }}",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_2 | metafield_tag }}",
             "page": ""
           }
         },
