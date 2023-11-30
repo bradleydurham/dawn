@@ -162,9 +162,9 @@
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_4.value }}",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_4 | metafield_tag }}",
             "page": ""
           }
         }
