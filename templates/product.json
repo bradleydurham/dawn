@@ -185,7 +185,7 @@
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "video": "{{ product.metafields.custom.video_or_featured_image.value.video.value }}",
-        "image": "shopify:\/\/shop_images\/LitterPearls_YouTube_MicroCrystals_Thumbnail.jpg",
+        "image": "{{ product.metafields.custom.video_or_featured_image.value.video_cover_or_featured_image.value }}",
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
         "padding_top": 36,
