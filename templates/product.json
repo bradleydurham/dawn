@@ -184,6 +184,7 @@
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
+        "video": "{{ product.metafields.custom.video_or_featured_image.value.video.value }}",
         "image": "shopify:\/\/shop_images\/LitterPearls_YouTube_MicroCrystals_Thumbnail.jpg",
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
@@ -263,6 +264,22 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "284fc252-3127-4c65-8afb-30e0d1cf9839": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/LP Micro Crystals-Amazon.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/LitterPearls_YouTube_MicroCrystals_Thumbnail.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -270,6 +287,7 @@
     "21b10b89-c2eb-48f4-bdf8-744a6ef75a3c",
     "image-with-text",
     "de66572a-642e-4d97-8e89-e900c93cea71",
-    "related-products"
+    "related-products",
+    "284fc252-3127-4c65-8afb-30e0d1cf9839"
   ]
 }
