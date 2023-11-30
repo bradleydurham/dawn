@@ -69,7 +69,7 @@
                   {%- endif -%}
                 </a>
               {%- else -%}
-                {{ section.settings.video | video_tag: controls: true, muted: false }}
+                {{ section.settings.video | video_tag: controls: true, muted: false, class: 'bd-featured' }}
               {%- endif -%}
             </div>
           {% endif %}
