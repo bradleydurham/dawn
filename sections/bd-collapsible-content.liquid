@@ -54,7 +54,7 @@
           {% endif %}
           {%- if section.settings.video != blank -%}
             <div class="grid__item collapsible-content__grid-item">
-              <div class="section-{{ section.id }}-padding">
+              <div class="collapsible-content__media collapsible-content__media--{{ section.settings.image_ratio }} media global-media-settings gradient">
 
                   
                     {%- if section.settings.video == null and section.settings.video_url != null -%}
