@@ -8,7 +8,7 @@
     }
   }
   .collection-hero {
-    background: no-repeat cover url('https:{{ collection.image | image_url }}');
+    background: url('https:{{ collection.image | image_url }}') no-repeat cover;
   }
 {%- endstyle -%}
 
