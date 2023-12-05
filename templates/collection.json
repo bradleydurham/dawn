@@ -31,7 +31,7 @@
     "5010f068-8f53-4b62-8bfc-31cc5aa4c643": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/unpkg.com\/@dotlottie\/player-component@latest\/dist\/dotlottie-player.mjs\" type=\"module\"><\/script> \n\n    <dotlottie-player src=\"https:\/\/lottie.host\/a98a89c3-af9a-4ba3-a6c0-e65a7ce4b174\/eILk53fOy1.json\" background=\"transparent\" speed=\"1\" style=\"width: 300px; height: 300px;\" loop autoplay><\/dotlottie-player>",
+        "custom_liquid": "<script src=\"https:\/\/unpkg.com\/@dotlottie\/player-component@latest\/dist\/dotlottie-player.mjs\" type=\"module\"><\/script> \n\n    <dotlottie-player src=\"https:\/\/lottie.host\/a98a89c3-af9a-4ba3-a6c0-e65a7ce4b174\/eILk53fOy1.json\" background=\"transparent\" speed=\"1\" style=\"width: 1000px; height: 1000px; margin:auto;\" loop autoplay><\/dotlottie-player>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
