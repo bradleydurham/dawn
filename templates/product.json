@@ -208,20 +208,11 @@
             "text": "{{ product.metafields.custom.technology.value.description | metafield_tag }}",
             "text_style": "body"
           }
-        },
-        "5c1a185a-7e62-49af-962c-a7fed7c7b055": {
-          "type": "button",
-          "settings": {
-            "button_label": "{{ product.metafields.custom.technology.value.button_text.value }}",
-            "button_link": "{{ product.metafields.custom.technology.value.button_link.value }}",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "image-with-text-0",
-        "image-with-text-1",
-        "5c1a185a-7e62-49af-962c-a7fed7c7b055"
+        "image-with-text-1"
       ],
       "settings": {
         "image": "{{ product.metafields.custom.technology.value.image_or_video.value }}",
@@ -237,6 +228,77 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "50e692f3-6226-4d5d-bc02-dfc48eb26d4c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_1_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_1_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_2_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_2_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_3_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_3_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-1",
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-2",
+        "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-3"
+      ],
+      "settings": {
+        "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.title.value }}",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "1238de70-6094-4a3d-bfc8-d1a60be61dd9": {
+      "type": "collapsible-content",
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "{{ product.metafields.custom.instructions_image.value }}",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 100
       }
     },
     "de66572a-642e-4d97-8e89-e900c93cea71": {
@@ -270,6 +332,8 @@
     "main",
     "21b10b89-c2eb-48f4-bdf8-744a6ef75a3c",
     "image-with-text",
+    "50e692f3-6226-4d5d-bc02-dfc48eb26d4c",
+    "1238de70-6094-4a3d-bfc8-d1a60be61dd9",
     "de66572a-642e-4d97-8e89-e900c93cea71",
     "related-products"
   ]
