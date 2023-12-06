@@ -245,8 +245,8 @@
         "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-1": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "",
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_1_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_1_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
@@ -254,8 +254,8 @@
         "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-2": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "",
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_2_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_2_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
@@ -263,8 +263,8 @@
         "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-3": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "",
+            "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_3_title.value }}",
+            "text": "{{ product.metafields.custom[\"3_step_instructions\"].value.column_3_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
@@ -276,7 +276,7 @@
         "template--21605241553187__50e692f3-6226-4d5d-bc02-dfc48eb26d4c-column-3"
       ],
       "settings": {
-        "title": "",
+        "title": "{{ product.metafields.custom[\"3_step_instructions\"].value.title.value }}",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
