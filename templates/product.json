@@ -298,8 +298,8 @@
         "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_2_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_2_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
@@ -307,8 +307,8 @@
         "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_3_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_3_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
@@ -316,8 +316,8 @@
         "7167cddd-6ed3-49ff-acdc-699c6d325bb3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_4_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_4_description | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
