@@ -410,11 +410,21 @@
             "row_content": "{{ product.metafields.custom.product_faqs.value.answer_2 | metafield_tag }}",
             "page": ""
           }
+        },
+        "e15f6e70-b827-4b2b-9848-621212d3c823": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_3.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_3 | metafield_tag }}",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21605241553187__1b3d3010-03d4-4062-8168-e4444a8c2f4d-collapsible_row-1",
-        "f9d21a5e-a601-4a16-af28-6021397d16f8"
+        "f9d21a5e-a601-4a16-af28-6021397d16f8",
+        "e15f6e70-b827-4b2b-9848-621212d3c823"
       ],
       "settings": {
         "caption": "",
