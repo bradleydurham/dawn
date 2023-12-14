@@ -283,6 +283,69 @@
         "padding_bottom": 36
       }
     },
+    "8f040ace-07e6-414a-99a4-dd787d8fe32f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_1_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_1_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_2_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_2_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_3_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_3_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7167cddd-6ed3-49ff-acdc-699c6d325bb3": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_4_title.value }}",
+            "text": "{{ product.metafields.custom[\"4_step_instructions\"].value.step_4_description | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-1",
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-2",
+        "template--21605241553187__8f040ace-07e6-414a-99a4-dd787d8fe32f-column-3",
+        "7167cddd-6ed3-49ff-acdc-699c6d325bb3"
+      ],
+      "settings": {
+        "title": "{{ product.metafields.custom[\"4_step_instructions\"].value.title.value }}",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "1238de70-6094-4a3d-bfc8-d1a60be61dd9": {
       "type": "collapsible-content",
       "settings": {
@@ -326,6 +389,127 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "1b3d3010-03d4-4062-8168-e4444a8c2f4d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21605241553187__1b3d3010-03d4-4062-8168-e4444a8c2f4d-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_1.value }}",
+            "icon": "question_mark",
+            "row_content": "<p>{{ product.metafields.custom.product_faqs.value.answer_1 | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "f9d21a5e-a601-4a16-af28-6021397d16f8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_2.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "e15f6e70-b827-4b2b-9848-621212d3c823": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_3.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "1e348a07-84f5-4b00-8b86-06dae0334a2b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_4.value }}",
+            "icon": "question_mark",
+            "row_content": "<p>{{ product.metafields.custom.product_faqs.value.answer_4 | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "aa4e134a-55b1-40a4-8a11-b6d44ba467fb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_5.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_5 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "37e0f82b-1a3d-4ab0-bed8-f7a1da9d095a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_6.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_6 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "59b428ce-7e54-4d56-a852-49b43fa6aeda": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_7.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_7 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "6fce6170-c56e-420e-a680-e5cfb2f5eef7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_8.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_8 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "8ad79a66-8e05-4455-9972-3c7296141169": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_9.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_9 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "d609d72e-41bb-4341-b3f0-811cce010870": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.product_faqs.value.question_10.value }}",
+            "icon": "question_mark",
+            "row_content": "{{ product.metafields.custom.product_faqs.value.answer_10 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21605241553187__1b3d3010-03d4-4062-8168-e4444a8c2f4d-collapsible_row-1",
+        "f9d21a5e-a601-4a16-af28-6021397d16f8",
+        "e15f6e70-b827-4b2b-9848-621212d3c823",
+        "1e348a07-84f5-4b00-8b86-06dae0334a2b",
+        "aa4e134a-55b1-40a4-8a11-b6d44ba467fb",
+        "37e0f82b-1a3d-4ab0-bed8-f7a1da9d095a",
+        "59b428ce-7e54-4d56-a852-49b43fa6aeda",
+        "6fce6170-c56e-420e-a680-e5cfb2f5eef7",
+        "8ad79a66-8e05-4455-9972-3c7296141169",
+        "d609d72e-41bb-4341-b3f0-811cce010870"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "{{ product.metafields.custom.product_faqs.value.section_header.value }}",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -333,8 +517,10 @@
     "21b10b89-c2eb-48f4-bdf8-744a6ef75a3c",
     "image-with-text",
     "50e692f3-6226-4d5d-bc02-dfc48eb26d4c",
+    "8f040ace-07e6-414a-99a4-dd787d8fe32f",
     "1238de70-6094-4a3d-bfc8-d1a60be61dd9",
     "de66572a-642e-4d97-8e89-e900c93cea71",
-    "related-products"
+    "related-products",
+    "1b3d3010-03d4-4062-8168-e4444a8c2f4d"
   ]
 }
