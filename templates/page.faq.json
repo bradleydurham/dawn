@@ -46,13 +46,23 @@
             "row_content": "<ol><li>Pour the litter into a clean litter box to a depth of 2 inches. The litter must be deep enough to absorb the urine before it reaches the bottom of the litter. Note: if your cat is a “digger” that scoops out a depression before urinating, there will need to be more litter in the pan to prevent the litter from getting to the bottom.<\/li><li>Stir the litter daily to allow moisture to evaporate from the silica gel crystals at the bottom of the litter pan.<\/li><li>When the litter no longer controls odors, discard it in the trash, wash the litter box with mild detergent and water, dry it, and then refill it.<\/li><\/ol><p>Our Pearls also help control the odors associated with feces. When a cat leaves feces in the litter, the silica gel pearls will pull the moisture from the feces and help trap the odor. If your cat is incredibly polite and buries its poop, then there will be almost no smell.<\/p><p><\/p>",
             "page": ""
           }
+        },
+        "b1734cd4-8571-4c40-b962-c1b8cfad252e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHERE IS THE BEST LOCATION TO PLACE MY CAT’S LITTER BOX?",
+            "icon": "question_mark",
+            "row_content": "<p>Locate your cat’s litter box in a quiet location. Crystal Litter can pull moisture from the air, so it is best not to locate the litter box in a room with high humidity, such as the bathroom with a shower.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21814466117923__604f0416-a110-4ea3-8b83-4af338ad720c-collapsible_row-1",
         "b7159937-7f8a-487e-aaa4-400506c45855",
         "c8047dc6-e045-433d-b8b1-05d07e0613d4",
-        "a4c6c5bb-0b19-4bc2-977b-729759fc2ac0"
+        "a4c6c5bb-0b19-4bc2-977b-729759fc2ac0",
+        "b1734cd4-8571-4c40-b962-c1b8cfad252e"
       ],
       "settings": {
         "caption": "",
