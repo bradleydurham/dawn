@@ -2,13 +2,56 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "604f0416-a110-4ea3-8b83-4af338ad720c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21814466117923__604f0416-a110-4ea3-8b83-4af338ad720c-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHAT ARE THE SILICA GEL CRYSTALS AND PEARLS MADE OF?",
+            "icon": "question_mark",
+            "row_content": "<p>Quartz sand is converted into sodium silicate sand and then processed into a bead or granular silica gel.<\/p>",
+            "page": ""
+          }
+        },
+        "b7159937-7f8a-487e-aaa4-400506c45855": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS SILICA GEL THE SAME AS CRYSTALLINE SILICATE?",
+            "icon": "question_mark",
+            "row_content": "<p>No. Silica Gel is non-toxic and safe for people and pets. Some people confuse silica gel cat litter with crystalline silicate. Crystalline silicate is a form of quartz often found in clay that can be harmful, especially to concrete and clay manufacturing workers. There are NO crystalline silicates in silica gel litters.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21814466117923__604f0416-a110-4ea3-8b83-4af338ad720c-collapsible_row-1",
+        "b7159937-7f8a-487e-aaa4-400506c45855"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "604f0416-a110-4ea3-8b83-4af338ad720c"
   ]
 }
