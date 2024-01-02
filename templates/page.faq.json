@@ -91,6 +91,60 @@
             "row_content": "<p>The cats we have asked do not care about the color of the crystals, but the owners buy crystal litter with or without color for personal preference.<\/p>",
             "page": ""
           }
+        },
+        "fdec6c28-d05f-40c2-b490-8a77f7277f13": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "DOES ULTRA PET LITTER HAVE DUST?",
+            "icon": "question_mark",
+            "row_content": "<p>Ultra Pet strives to maintain the lowest dust in all its products. Tests by independent labs show our silica gel litters as being 99.9% dust-free. During shipping, friction between crystals can sometimes cause fine dust that may be seen when the bag is poured into the litter box. We suggest holding the bag's opening close to the litter pan when pouring. If you ever experience any problems with Ultra Pet litters, don't hesitate to contact our customer service department.<\/p>",
+            "page": ""
+          }
+        },
+        "c9d85e3b-01b8-4453-924a-076b3cd8588c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WILL THE LITTER PEARLS WORK IN AN AUTOMATIC LITTER BOX?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, in most automated litter boxes, you can adjust the spacing in the rake, and that would make our pearls work fine. If the rake is not adjustable, use the litters with smaller crystals like the <a href=\"\/products\/ultra-fresh-micro-crystals\" target=\"_blank\" title=\"Link to Ultra Fresh Micro Crystals cat litter\">Ultra Fresh Crystals<\/a> or any of our Micro Crystals.<\/p>",
+            "page": ""
+          }
+        },
+        "cb1ddcbd-d321-4ec3-87f1-761deb700df9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WILL IT TRACK?",
+            "icon": "question_mark",
+            "row_content": "<p>The size of the <a href=\"\/collections\/litter-pearls\" target=\"_blank\" title=\"Link to Litter Pearls cat litter\">Litter Pearls<\/a> and <a href=\"\/products\/ultra-pearls\" title=\"Link to Ultra Pearls cat litter\">Ultra Pearls<\/a> crystals helps to inhibit the crystals from becoming lodged in the paws. Most tracked cat litter is ‘kicked’ out of the box when the cat buries waste or is dragged out when the cat jumps out of the box.<\/p><p><a href=\"\/products\/litter-pearls-tracksless\" target=\"_blank\" title=\"Link to Litter Pearls Tracksless cat litter\">Tracks-Less Litter Pearls<\/a> are shaped so they will not roll across smooth surfaces.<\/p><p><a href=\"\/products\/litter-pearls-micro-crystals\" title=\"Link to Litter Pearls Micro Crystals cat litter\">Micro Crystals<\/a> have a fine, sand-like texture. These can adhere to a cat’s paws or get caught between their toes.<\/p><p>For minimal tracking, we recommend using a covered cat box and a <a href=\"\/products\/litter-pearls-litter-mat\" target=\"_blank\" title=\"Link to Litter Pearls Litter Mat\">litter mat<\/a> or carpet at all litter box openings, which will help reduce any tracking.<\/p>",
+            "page": ""
+          }
+        },
+        "a022093b-8340-4d77-9db5-45551df3b978": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ARE SILICA GEL CRYSTALS SAFE FOR KITTENS?",
+            "icon": "question_mark",
+            "row_content": "<p>Silica gel crystal cat litter should only be used for kittens over 12 weeks of age – we recommend the <a href=\"\/products\/ultra-micro-crystals\" target=\"_blank\" title=\"Link to Ultra Micro Crystals\">Micro Crystals<\/a> as it is “soft on paws.” For kittens: start with a layer of 2cm deep (approximately 2\/3 of an inch) and increase the litter depth as the kittens gain height and body mass. Kittens should be closely monitored when using a litter box as some will try to eat litter if unattended.<\/p>",
+            "page": ""
+          }
+        },
+        "e50b8afa-dbd6-4fb6-aa9e-01f276ecf596": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "MY CAT ATE SOME OF THE PEARLS; CAN THIS CAUSE ANY HARM?",
+            "icon": "question_mark",
+            "row_content": "<p>Pearls are non-toxic, but ingesting too much of a desiccant can cause digestive tract problems. If you suspect your cat (or dog, as they sometimes raid the litter box for “treats”) has swallowed silica gel litter, make sure it drinks lots of liquids. Monitor the pet for changes in behavior, and if there are any changes, notify your veterinarian immediately.<\/p>",
+            "page": ""
+          }
+        },
+        "44be6f6b-9ea8-490c-a80f-83854058840a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I HAVE NOTICED A WARNING ON ALL CAT LITTER ABOUT TOXOPLASMOSIS. WHAT IS IT AND IS IT DANGEROUS?",
+            "icon": "question_mark",
+            "row_content": "<p>Pregnant women and persons with suppressed immune systems should not handle used cat litter due to the risk of Toxoplasmosis. This is a parasitic disease caused by Toxoplasma gondii. Infections in healthy adults usually cause no symptoms. Toxoplasmosis can be spread by eating poorly cooked foods that contain cysts, exposure to infected cat feces, and from a mother to child during pregnancy if the mother becomes infected. For more info, go to: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Toxoplasmosis\" target=\"_blank\" title=\"Link to Wikipedia entry about toxoplasmosis\">https:\/\/en.wikipedia.org\/wiki\/Toxoplasmosis <\/a><\/p><p>Always wash your hands after handling used cat litter, the litter box, or the litter scoop.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -102,7 +156,13 @@
         "07581bce-1a0d-4232-bfbf-50a1ab8b8e79",
         "c24ee53d-db6d-492f-b4ad-a8701f114a13",
         "4dda6e22-8a64-47db-9c7c-d063679cc4a2",
-        "4ec9341b-f6a0-460a-aabb-d3690fe2da16"
+        "4ec9341b-f6a0-460a-aabb-d3690fe2da16",
+        "fdec6c28-d05f-40c2-b490-8a77f7277f13",
+        "c9d85e3b-01b8-4453-924a-076b3cd8588c",
+        "cb1ddcbd-d321-4ec3-87f1-761deb700df9",
+        "a022093b-8340-4d77-9db5-45551df3b978",
+        "e50b8afa-dbd6-4fb6-aa9e-01f276ecf596",
+        "44be6f6b-9ea8-490c-a80f-83854058840a"
       ],
       "settings": {
         "caption": "",
