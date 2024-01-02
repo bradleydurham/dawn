@@ -28,6 +28,8 @@
         <lottie-player
           {% if collection.title == 'Litter Pearls' %}
             src="{{ 'litter-pearls-header.json' | asset_url }}"
+          {% elsif collection.title == 'Ultra' %}
+            src="{{ 'ULTRA.json' | asset_url }}"
           {% endif %}
           background="transparent"
           speed="1"
