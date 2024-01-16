@@ -517,7 +517,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_background": "{{ product.metafields.custom.tagline_separator.value.background_color.value }}",
-        "header": "{{ product.metafields.custom.tagline_separator.value.tagline_text.value }}",
+        "heading": "{{ product.metafields.custom.tagline_separator.value.tagline_text.value }}",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
