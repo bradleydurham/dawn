@@ -12,6 +12,12 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+  {% if section.settings.color_background != blank %}
+  .color-scheme-3 {
+    background-color: {{ section.settings.color_background }};
+  }
+  {% endif %}
 {%- endstyle -%}
 
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
