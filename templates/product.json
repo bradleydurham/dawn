@@ -137,34 +137,34 @@
           "settings": {
             "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_1.value.feature_title.value }}",
             "icon": "check_mark",
-            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_1.value.feature_description | metafield_tag }}",
+            "row_content": "<p>{{ product.metafields.custom.video_or_featured_image.value.feature_1.value.feature_description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_2.value }}",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_2.value.feature_title.value }}",
             "icon": "check_mark",
-            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_2 | metafield_tag }}",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_2.value.feature_description | metafield_tag }}",
             "page": ""
           }
         },
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_3.value }}",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_3.value.feature_title.value }}",
             "icon": "check_mark",
-            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_3 | metafield_tag }}",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_3.value.feature_description | metafield_tag }}",
             "page": ""
           }
         },
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_4.value }}",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_4.value.feature_title.value }}",
             "icon": "check_mark",
-            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_4 | metafield_tag }}",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_4.value.feature_description | metafield_tag }}",
             "page": ""
           }
         }
