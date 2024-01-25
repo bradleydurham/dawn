@@ -135,9 +135,9 @@
         "template--21605241553187__21b10b89-c2eb-48f4-bdf8-744a6ef75a3c-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_title_1.value }}",
+            "heading": "{{ product.metafields.custom.video_or_featured_image.value.feature_1.value.feature_title.value }}",
             "icon": "check_mark",
-            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_description_1 | metafield_tag }}",
+            "row_content": "{{ product.metafields.custom.video_or_featured_image.value.feature_1.value.feature_description | metafield_tag }}",
             "page": ""
           }
         },
