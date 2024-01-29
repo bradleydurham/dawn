@@ -280,6 +280,15 @@
             "row_content": "<p>Absolutely! These naturally occurring probiotics are all around us in the environment, and their job is to break down natural substances. Our proprietary strains do their job without producing bad smells – they are unique. They are so safe that they can be sprayed around the pets and their enclosures without removing the pet or its water.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_bQ4VnG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "HOW DO ULTRA’S LITTER-TRAPPING MATS STOP TRACKING?",
+            "icon": "question_mark",
+            "row_content": "<p>Easily. Our <a href=\"\/products\/ultra-litter-mat\" title=\"Ultra Litter Trapping Mat\">litter mats<\/a> are designed to be placed at the opening of your cat’s litter box and have two layers. The bottom layer is solid. The top layer is made with pliant honey-combed-shaped openings that induce the cat’s paws to open when stepped upon, allowing any litter trapped between the cat’s paw pads to fall into the mat to be trapped. The litter can be poured back into the litter box.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -312,7 +321,8 @@
         "a69a1277-e92c-4ab1-8192-bf85cdd201d9",
         "eb49ff33-5e93-43a5-9471-7a270ee2a447",
         "604f147f-850c-413a-a8ef-249845a690cf",
-        "collapsible_row_WfKABi"
+        "collapsible_row_WfKABi",
+        "collapsible_row_bQ4VnG"
       ],
       "settings": {
         "caption": "",
