@@ -289,6 +289,15 @@
             "row_content": "<p>Easily. Our <a href=\"\/products\/ultra-litter-mat\" title=\"Ultra Litter Trapping Mat\">litter mats<\/a> are designed to be placed at the opening of your cat’s litter box and have two layers. The bottom layer is solid. The top layer is made with pliant honey-combed-shaped openings that induce the cat’s paws to open when stepped upon, allowing any litter trapped between the cat’s paw pads to fall into the mat to be trapped. The litter can be poured back into the litter box.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_TYqbjV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "HOW CAN I CLEAN THE LITTER-TRAPPING MAT?",
+            "icon": "question_mark",
+            "row_content": "<p>Our <a href=\"\/products\/litter-pearls-litter-mat\" title=\"Litter Pearls Cat Litter Mat\">litter mats<\/a> can be easily cleaned.<\/p><ol><li>Pour any trapped litter into the litter box or trash.<\/li><li>Separate the mat’s sections.<\/li><li>Wash each section with mild soapy water and rinse.<\/li><li>Let air dry, then reattach using the Velcro strips.<\/li><\/ol>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -322,7 +331,8 @@
         "eb49ff33-5e93-43a5-9471-7a270ee2a447",
         "604f147f-850c-413a-a8ef-249845a690cf",
         "collapsible_row_WfKABi",
-        "collapsible_row_bQ4VnG"
+        "collapsible_row_bQ4VnG",
+        "collapsible_row_TYqbjV"
       ],
       "settings": {
         "caption": "",
