@@ -298,6 +298,15 @@
             "row_content": "<p>Our <a href=\"\/products\/litter-pearls-litter-mat\" title=\"Litter Pearls Cat Litter Mat\">litter mats<\/a> can be easily cleaned.<\/p><ol><li>Pour any trapped litter into the litter box or trash.<\/li><li>Separate the mat’s sections.<\/li><li>Wash each section with mild soapy water and rinse.<\/li><li>Let air dry, then reattach using the Velcro strips.<\/li><\/ol>",
             "page": ""
           }
+        },
+        "collapsible_row_DRi36J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHY ARE CAT TOYS IMPORTANT?",
+            "icon": "question_mark",
+            "row_content": "<p>Cat toys provide the stimulation cats need and crave, and the interactive toys allow them to bond with their owners. Ultra Pet’s Cat Toys come in both interactive and self-play types. All the toys are made with safe materials and are designed for durability. For safety, it is important to monitor the toys and remove them from access if they become frayed or broken.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -332,7 +341,8 @@
         "604f147f-850c-413a-a8ef-249845a690cf",
         "collapsible_row_WfKABi",
         "collapsible_row_bQ4VnG",
-        "collapsible_row_TYqbjV"
+        "collapsible_row_TYqbjV",
+        "collapsible_row_DRi36J"
       ],
       "settings": {
         "caption": "",
