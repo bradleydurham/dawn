@@ -110,6 +110,24 @@
             "page": ""
           }
         },
+        "cb1ddcbd-d321-4ec3-87f1-761deb700df9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WILL IT TRACK?",
+            "icon": "question_mark",
+            "row_content": "<p>The size of the <a href=\"\/collections\/litter-pearls\" target=\"_blank\" title=\"Link to Litter Pearls cat litter\">Litter Pearls<\/a> and <a href=\"\/products\/ultra-pearls\" title=\"Link to Ultra Pearls cat litter\">Ultra Pearls<\/a> crystals helps to inhibit the crystals from becoming lodged in the paws. Most tracked cat litter is ‘kicked’ out of the box when the cat buries waste or is dragged out when the cat jumps out of the box.<\/p><p><a href=\"\/products\/litter-pearls-tracksless\" target=\"_blank\" title=\"Link to Litter Pearls Tracksless cat litter\">Tracks-Less Litter Pearls<\/a> are shaped so they will not roll across smooth surfaces.<\/p><p><a href=\"\/products\/litter-pearls-micro-crystals\" title=\"Link to Litter Pearls Micro Crystals cat litter\">Micro Crystals<\/a> have a fine, sand-like texture. These can adhere to a cat’s paws or get caught between their toes.<\/p><p>For minimal tracking, we recommend using a covered cat box and a <a href=\"\/products\/litter-pearls-litter-mat\" target=\"_blank\" title=\"Link to Litter Pearls Litter Mat\">litter mat<\/a> or carpet at all litter box openings, which will help reduce any tracking.<\/p>",
+            "page": ""
+          }
+        },
+        "fdec6c28-d05f-40c2-b490-8a77f7277f13": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "DOES ULTRA PET LITTER HAVE DUST?",
+            "icon": "question_mark",
+            "row_content": "<p>Ultra Pet strives to maintain the lowest dust in all its products. Tests by independent labs show our silica gel litters as being 99.9% dust-free. During shipping, friction between crystals can sometimes cause fine dust that may be seen when the bag is poured into the litter box. We suggest holding the bag's opening close to the litter pan when pouring. If you ever experience any problems with Ultra Pet litters, don't hesitate to <a href=\"\/pages\/contact\" title=\"Contact\">contact our customer service department<\/a>.<\/p>",
+            "page": ""
+          }
+        },
         "b7159937-7f8a-487e-aaa4-400506c45855": {
           "type": "collapsible_row",
           "settings": {
@@ -125,24 +143,6 @@
             "heading": "WHAT ABOUT CATS WITH DIARRHEA?",
             "icon": "question_mark",
             "row_content": "<p>Silica Gel Cat Litter will work to dry the wet stool. If the litter is too messy to clean, replace it immediately.<\/p>",
-            "page": ""
-          }
-        },
-        "fdec6c28-d05f-40c2-b490-8a77f7277f13": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "DOES ULTRA PET LITTER HAVE DUST?",
-            "icon": "question_mark",
-            "row_content": "<p>Ultra Pet strives to maintain the lowest dust in all its products. Tests by independent labs show our silica gel litters as being 99.9% dust-free. During shipping, friction between crystals can sometimes cause fine dust that may be seen when the bag is poured into the litter box. We suggest holding the bag's opening close to the litter pan when pouring. If you ever experience any problems with Ultra Pet litters, don't hesitate to contact our customer service department.<\/p>",
-            "page": ""
-          }
-        },
-        "cb1ddcbd-d321-4ec3-87f1-761deb700df9": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WILL IT TRACK?",
-            "icon": "question_mark",
-            "row_content": "<p>The size of the <a href=\"\/collections\/litter-pearls\" target=\"_blank\" title=\"Link to Litter Pearls cat litter\">Litter Pearls<\/a> and <a href=\"\/products\/ultra-pearls\" title=\"Link to Ultra Pearls cat litter\">Ultra Pearls<\/a> crystals helps to inhibit the crystals from becoming lodged in the paws. Most tracked cat litter is ‘kicked’ out of the box when the cat buries waste or is dragged out when the cat jumps out of the box.<\/p><p><a href=\"\/products\/litter-pearls-tracksless\" target=\"_blank\" title=\"Link to Litter Pearls Tracksless cat litter\">Tracks-Less Litter Pearls<\/a> are shaped so they will not roll across smooth surfaces.<\/p><p><a href=\"\/products\/litter-pearls-micro-crystals\" title=\"Link to Litter Pearls Micro Crystals cat litter\">Micro Crystals<\/a> have a fine, sand-like texture. These can adhere to a cat’s paws or get caught between their toes.<\/p><p>For minimal tracking, we recommend using a covered cat box and a <a href=\"\/products\/litter-pearls-litter-mat\" target=\"_blank\" title=\"Link to Litter Pearls Litter Mat\">litter mat<\/a> or carpet at all litter box openings, which will help reduce any tracking.<\/p>",
             "page": ""
           }
         },
@@ -276,10 +276,10 @@
         "c9d85e3b-01b8-4453-924a-076b3cd8588c",
         "c24ee53d-db6d-492f-b4ad-a8701f114a13",
         "4ec9341b-f6a0-460a-aabb-d3690fe2da16",
+        "cb1ddcbd-d321-4ec3-87f1-761deb700df9",
+        "fdec6c28-d05f-40c2-b490-8a77f7277f13",
         "b7159937-7f8a-487e-aaa4-400506c45855",
         "4dda6e22-8a64-47db-9c7c-d063679cc4a2",
-        "fdec6c28-d05f-40c2-b490-8a77f7277f13",
-        "cb1ddcbd-d321-4ec3-87f1-761deb700df9",
         "a022093b-8340-4d77-9db5-45551df3b978",
         "e50b8afa-dbd6-4fb6-aa9e-01f276ecf596",
         "44be6f6b-9ea8-490c-a80f-83854058840a",
