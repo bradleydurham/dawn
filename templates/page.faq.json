@@ -137,21 +137,12 @@
             "page": ""
           }
         },
-        "b7159937-7f8a-487e-aaa4-400506c45855": {
+        "85871b77-b7ed-4e18-9ddf-1e9baa9112c7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "IS SILICA GEL THE SAME AS CRYSTALLINE SILICATE?",
+            "heading": "MY CAT REFUSES TO USE THE LITTER BOX NOW THAT I HAVE CHANGED TO SILICA GEL LITTER!",
             "icon": "question_mark",
-            "row_content": "<p>No. Silica Gel is non-toxic and safe for people and pets. Some people confuse silica gel cat litter with crystalline silicate. Crystalline silicate is a form of quartz often found in clay that can be harmful, especially to concrete and clay manufacturing workers. There are NO crystalline silicates in silica gel litters.<\/p>",
-            "page": ""
-          }
-        },
-        "4dda6e22-8a64-47db-9c7c-d063679cc4a2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "WHAT ABOUT CATS WITH DIARRHEA?",
-            "icon": "question_mark",
-            "row_content": "<p>Silica Gel Cat Litter will work to dry the wet stool. If the litter is too messy to clean, replace it immediately.<\/p>",
+            "row_content": "<p>As with any new cat litter, it is essential to introduce it gradually. Cats are not excited about litter changes, so when introducing any new cat litter, it is recommended that you incorporate some portion of the old litter to encourage the cat’s trial. Including clumps of waste or used litter from the used box may be best during the first couple of days. A 50% new on the bottom \/ 50% old on the top mix is best for the first month, gradually stirring the litters to mix and letting the cat get used to the texture and sounds of the new litter. By the time you get to the start of month 2, the silica gel litter should be the only litter in the box with complete cat acceptance. You may also find it helpful to place the cat in the box after changing to pearls and comfort them into trying the texture and sound. Pearls may have more sound as they shift as the cat walks.<\/p>",
             "page": ""
           }
         },
@@ -173,21 +164,30 @@
             "page": ""
           }
         },
+        "4dda6e22-8a64-47db-9c7c-d063679cc4a2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHAT ABOUT CATS WITH DIARRHEA?",
+            "icon": "question_mark",
+            "row_content": "<p>Silica Gel Cat Litter will work to dry the wet stool. If the litter is too messy to clean, replace it immediately. If your cat has diarrhea, monitor it closely and take it to the veterinarian if the condition persists.<\/p>",
+            "page": ""
+          }
+        },
+        "b7159937-7f8a-487e-aaa4-400506c45855": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IS SILICA GEL THE SAME AS CRYSTALLINE SILICATE?",
+            "icon": "question_mark",
+            "row_content": "<p>No. Silica Gel is non-toxic and safe for people and pets. Some people confuse silica gel cat litter with crystalline silicate. Crystalline silicate is a form of quartz often found in clay that can be harmful, especially to concrete and clay manufacturing workers. There are NO crystalline silicates in silica gel litters.<\/p>",
+            "page": ""
+          }
+        },
         "44be6f6b-9ea8-490c-a80f-83854058840a": {
           "type": "collapsible_row",
           "settings": {
             "heading": "I HAVE NOTICED A WARNING ON ALL CAT LITTER ABOUT TOXOPLASMOSIS. WHAT IS IT AND IS IT DANGEROUS?",
             "icon": "question_mark",
             "row_content": "<p>Pregnant women and persons with suppressed immune systems should not handle used cat litter due to the risk of Toxoplasmosis. This is a parasitic disease caused by Toxoplasma gondii. Infections in healthy adults usually cause no symptoms. Toxoplasmosis can be spread by eating poorly cooked foods that contain cysts, exposure to infected cat feces, and from a mother to child during pregnancy if the mother becomes infected. For more info, go to: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Toxoplasmosis\" target=\"_blank\" title=\"Link to Wikipedia entry about toxoplasmosis\">https:\/\/en.wikipedia.org\/wiki\/Toxoplasmosis <\/a><\/p><p>Always wash your hands after handling used cat litter, the litter box, or the litter scoop.<\/p>",
-            "page": ""
-          }
-        },
-        "85871b77-b7ed-4e18-9ddf-1e9baa9112c7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "MY CAT REFUSES TO USE THE LITTER BOX NOW THAT I HAVE CHANGED TO SILICA GEL LITTER!",
-            "icon": "question_mark",
-            "row_content": "<p>As with any new cat litter, it is essential to introduce it gradually. Cats are not excited about litter changes, so when introducing any new cat litter, it is recommended that you incorporate some portion of the old litter to encourage the cat’s trial. Including clumps of waste or used litter from the used box may be best during the first couple of days. A 50% new on the bottom \/ 50% old on the top mix is best for the first month, gradually stirring the litters to mix and letting the cat get used to the texture and sounds of the new litter. By the time you get to the start of month 2, the silica gel litter should be the only litter in the box with complete cat acceptance. You may also find it helpful to place the cat in the box after changing to pearls and comfort them into trying the texture and sound. Pearls may have more sound as they shift as the cat walks.<\/p>",
             "page": ""
           }
         },
@@ -288,12 +288,12 @@
         "cb1ddcbd-d321-4ec3-87f1-761deb700df9",
         "fdec6c28-d05f-40c2-b490-8a77f7277f13",
         "collapsible_row_3VtydD",
-        "b7159937-7f8a-487e-aaa4-400506c45855",
-        "4dda6e22-8a64-47db-9c7c-d063679cc4a2",
+        "85871b77-b7ed-4e18-9ddf-1e9baa9112c7",
         "a022093b-8340-4d77-9db5-45551df3b978",
         "e50b8afa-dbd6-4fb6-aa9e-01f276ecf596",
+        "4dda6e22-8a64-47db-9c7c-d063679cc4a2",
+        "b7159937-7f8a-487e-aaa4-400506c45855",
         "44be6f6b-9ea8-490c-a80f-83854058840a",
-        "85871b77-b7ed-4e18-9ddf-1e9baa9112c7",
         "930c2da9-4d04-41e7-81db-82339172c1f0",
         "3df72920-6031-42b6-8324-7fc533566c33",
         "69f56d8d-daf6-4a08-a9c6-63162ba44488",
