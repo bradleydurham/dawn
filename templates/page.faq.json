@@ -56,6 +56,15 @@
             "page": ""
           }
         },
+        "8c5a6b01-f154-4a2f-b3f6-9b8674bb97f2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "HOW DOES ULTRA PET SILICA GEL CAT LITER COMPARE TO TRADITIONAL CLAY LITTER?",
+            "icon": "question_mark",
+            "row_content": "<p>Ultra Pet Silica Gel Cat Litter offers superior moisture absorption and excellent odor control and is virtually dust-free compared to traditional clay litters.<\/p>",
+            "page": ""
+          }
+        },
         "b7159937-7f8a-487e-aaa4-400506c45855": {
           "type": "collapsible_row",
           "settings": {
@@ -253,15 +262,6 @@
             "row_content": "<p>Absolutely. Ultra Pet Silica Gel Cat Litter's advanced formula absorbs and traps odors, keeping your home smelling fresh and clean.<\/p>",
             "page": ""
           }
-        },
-        "8c5a6b01-f154-4a2f-b3f6-9b8674bb97f2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "HOW DOES ULTRA PET SILICA GEL CAT LITER COMPARE TO TRADITIONAL CLAY LITTER?",
-            "icon": "question_mark",
-            "row_content": "<p>Ultra Pet Silica Gel Cat Litter offers superior moisture absorption and excellent odor control and is virtually dust-free compared to traditional clay litters.<\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -270,6 +270,7 @@
         "a4c6c5bb-0b19-4bc2-977b-729759fc2ac0",
         "a5727f1d-14fa-4470-a5a7-bd434ec3b42d",
         "9fde0e73-969a-4632-af6e-d099dfd538fa",
+        "8c5a6b01-f154-4a2f-b3f6-9b8674bb97f2",
         "b7159937-7f8a-487e-aaa4-400506c45855",
         "b1734cd4-8571-4c40-b962-c1b8cfad252e",
         "07581bce-1a0d-4232-bfbf-50a1ab8b8e79",
@@ -291,8 +292,7 @@
         "5ac35d2b-f64e-47ea-9410-9920dd361486",
         "a69a1277-e92c-4ab1-8192-bf85cdd201d9",
         "eb49ff33-5e93-43a5-9471-7a270ee2a447",
-        "604f147f-850c-413a-a8ef-249845a690cf",
-        "8c5a6b01-f154-4a2f-b3f6-9b8674bb97f2"
+        "604f147f-850c-413a-a8ef-249845a690cf"
       ],
       "settings": {
         "caption": "",
