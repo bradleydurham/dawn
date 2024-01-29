@@ -271,6 +271,15 @@
             "row_content": "<p>The probiotics are in the spore form of their life cycle (basically hibernating) until a food source is available (pet urine, for example). Then, the probiotics awaken and begin to eat and multiply. Unlike environmental bacteria, our unique blend of probiotics consumes the suspended solids of urine WITHOUT producing malodors!<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_WfKABi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ARE THE PROBIOTIC ODOR CONTROL SPRAYS SAFE TO USE AROUND MY PETS?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely! These naturally occurring probiotics are all around us in the environment, and their job is to break down natural substances. Our proprietary strains do their job without producing bad smells – they are unique. They are so safe that they can be sprayed around the pets and their enclosures without removing the pet or its water.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -302,7 +311,8 @@
         "5ac35d2b-f64e-47ea-9410-9920dd361486",
         "a69a1277-e92c-4ab1-8192-bf85cdd201d9",
         "eb49ff33-5e93-43a5-9471-7a270ee2a447",
-        "604f147f-850c-413a-a8ef-249845a690cf"
+        "604f147f-850c-413a-a8ef-249845a690cf",
+        "collapsible_row_WfKABi"
       ],
       "settings": {
         "caption": "",
