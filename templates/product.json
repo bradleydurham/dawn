@@ -53,7 +53,7 @@
           "settings": {
           }
         },
-        "subscriptions_app_block_9cNf3N": {
+        "subscriptions_app_block_zULQtg": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
             "color_text_title": "#6D7175",
@@ -121,7 +121,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "subscriptions_app_block_9cNf3N",
+        "subscriptions_app_block_zULQtg",
         "buy_buttons",
         "2b0f2c7a-5e4b-4bd3-b6bd-e011403b1d08",
         "description",
