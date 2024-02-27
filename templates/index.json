@@ -37,9 +37,9 @@
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -210,6 +210,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_JQ3gEV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jPYeTT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/litter-pearls-stacked.png",
+            "title": "",
+            "text": "",
+            "link_label": "Litter Pearls",
+            "link": "shopify:\/\/collections\/litter-pearls"
+          }
+        },
+        "column_h3jUcm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ultra_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "Ultra",
+            "link": "shopify:\/\/collections\/ultra"
+          }
+        },
+        "column_a7pEJU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neon_straight_white.png",
+            "title": "",
+            "text": "",
+            "link_label": "Neon",
+            "link": "shopify:\/\/collections\/neon"
+          }
+        },
+        "column_ccmFhK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ultra_Natural-square.png",
+            "title": "",
+            "text": "",
+            "link_label": "Ultra Natural",
+            "link": "shopify:\/\/collections\/ultra-natural"
+          }
+        },
+        "column_FWFVjY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EcoKitty-Lavender-tofu.png",
+            "title": "",
+            "text": "",
+            "link_label": "EcoKitty",
+            "link": "shopify:\/\/collections\/ecokitty"
+          }
+        },
+        "column_Xg4YQ7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zen_Kitty.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Zen Kitty",
+            "link": "shopify:\/\/collections\/zen-kitty"
+          }
+        }
+      },
+      "block_order": [
+        "column_jPYeTT",
+        "column_h3jUcm",
+        "column_a7pEJU",
+        "column_ccmFhK",
+        "column_FWFVjY",
+        "column_Xg4YQ7"
+      ],
+      "settings": {
+        "title": "Our Brands",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -218,6 +307,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "multicolumn_JQ3gEV"
   ]
 }
