@@ -1,7 +1,9 @@
 .banner__box {
-    max-width: 40%;
+    width: calc(40% - var(--grid-desktop-horizontal-spacing) / 2);
+    max-width: calc(40% - var(--grid-desktop-horizontal-spacing) / 2);
 }
 
 .bd-image {
-    max-width: 60%;
+    width: calc(60% - var(--grid-desktop-horizontal-spacing) / 2);
+    max-width: calc(60% - var(--grid-desktop-horizontal-spacing) / 2);
 }
