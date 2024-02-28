@@ -196,24 +196,24 @@
         "heading_MgwjmK": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Embarrased by Pet Odors?",
             "heading_size": "h1"
           }
         },
         "text_KcrGhf": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Probiotic litters and litter additives are available to keep your letter box odor free. Our line of sprays will keep all your pets and their spaces odor free.",
             "text_style": "body"
           }
         },
         "buttons_8EAf4Q": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/fresh-spray",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -225,11 +225,12 @@
         "buttons_8EAf4Q"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
