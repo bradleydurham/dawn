@@ -184,7 +184,7 @@
     "custom_liquid_W4pafT": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<section class=\"shopify-section section\">\n    <div>\n        <div class=\"page-width\">\n            <div class=\"container\">\n                <div class=\"copy\">\n                    <h1>Embarrassed by Pet Odor?<\/h1>\n                    <p>Try one of our odor eliminating litters, litter additives, or sprays.<\/p>\n                    <div class=\"action\">\n                        <a href=\"#\">Shop Now<\/a>\n                    <\/div>\n                <\/div>\n                <div class=\"image\">\n                    <img src=\"\">\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
+        "custom_liquid": "<section class=\"shopify-section section\">\n    <div>\n        <div class=\"page-width\">\n            <div class=\"container grid\">\n                <div class=\"copy\">\n                    <h1>Embarrassed by Pet Odor?<\/h1>\n                    <p>Try one of our odor eliminating litters, litter additives, or sprays.<\/p>\n                    <div class=\"action\">\n                        <a href=\"#\">Shop Now<\/a>\n                    <\/div>\n                <\/div>\n                <div class=\"image\">\n                    <img src=\"\">\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
