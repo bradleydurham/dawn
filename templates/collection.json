@@ -1,52 +1,5 @@
 {
   "sections": {
-    "image_collection_banner_aa3KAc": {
-      "type": "image-collection-banner",
-      "blocks": {
-        "heading_aAGrrx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_FnNqAL": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_HA6FKG": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aAGrrx",
-        "text_FnNqAL",
-        "buttons_HA6FKG"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "ddccb593-73f9-47c9-8303-8c498b89f38d": {
       "type": "image-banner",
       "blocks": {
@@ -223,7 +176,6 @@
     }
   },
   "order": [
-    "image_collection_banner_aa3KAc",
     "ddccb593-73f9-47c9-8303-8c498b89f38d",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
