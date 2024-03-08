@@ -57,6 +57,18 @@
             "show_gift_card_recipient": true
           }
         },
+        "volume_discount_6ReUcq": {
+          "type": "volume_discount",
+          "settings": {
+            "vol_discount_header": "{{ product.metafields.custom.volume_discount.value.volume_discount_header.value }}",
+            "vol_dicount_1": "{{ product.metafields.custom.volume_discount.value.volume_discount_1_description.value }}",
+            "vol_dicount_2": "{{ product.metafields.custom.volume_discount.value.volume_discount_2_description.value }}",
+            "vol_dicount_3": "{{ product.metafields.custom.volume_discount.value.volume_discount_3_description.value }}",
+            "vol_dicount_4": "{{ product.metafields.custom.volume_discount.value.volume_discount_4_description.value }}",
+            "vol_dicount_5": "{{ product.metafields.custom.volume_discount.value.volume_discount_5_description.value }}",
+            "vol_dicount_6": "{{ product.metafields.custom.volume_discount.value.volume_discount_6_description.value }}"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -73,6 +85,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "volume_discount_6ReUcq",
         "description"
       ],
       "settings": {
