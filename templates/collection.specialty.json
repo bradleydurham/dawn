@@ -109,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "",
+            "button_link": "#collection-description",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -121,48 +121,6 @@
         "heading_yhxjUP",
         "text_GwEhLQ",
         "button_fy8YzB"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "2263d0a0-df8c-4235-98b3-9de26fe00252": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ collection.title }}",
-            "heading_size": "h1"
-          }
-        },
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>{{ collection.metafields.custom.single_line_description.value }}<\/p>"
-          }
-        },
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn More",
-            "button_link": "#collection-description",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-heading-1",
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-text-1",
-        "template--16977251303680__2263d0a0-df8c-4235-98b3-9de26fe00252-button-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -303,7 +261,6 @@
   "order": [
     "0a7f0837-2490-4fa2-ad25-59de3e971268",
     "rich_text_h1_bd_ihPVyw",
-    "2263d0a0-df8c-4235-98b3-9de26fe00252",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
