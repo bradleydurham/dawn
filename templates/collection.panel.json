@@ -16,26 +16,61 @@
         "column_H7FBhf": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Hyosung-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/hyosung-kiosk-and-atm-branding"
           }
         },
         "column_MdEJtw": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/NCR-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/ncr-itm-atm-branding"
+          }
+        },
+        "column_JBEAQN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Triton-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/triton-atm-branding"
+          }
+        },
+        "column_EdcHhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hantle-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/hantle-atm-branding"
+          }
+        },
+        "column_j84k7M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tranax-1000x1000.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/tranax-atm-branding"
           }
         }
       },
       "block_order": [
         "column_6g6hLC",
         "column_H7FBhf",
-        "column_MdEJtw"
+        "column_MdEJtw",
+        "column_JBEAQN",
+        "column_EdcHhm",
+        "column_j84k7M"
       ],
       "settings": {
         "title": "Manufacturer",
@@ -44,95 +79,6 @@
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-5",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "7ed39538-ab38-47d8-8bc2-93ed93b3c3c8": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16977192911104__7ed39538-ab38-47d8-8bc2-93ed93b3c3c8-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Genmega-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/genmega-kiosk-and-atm-branding?filter.p.product_type=Panel"
-          }
-        },
-        "61157b11-3cfe-448d-b5d1-43c05626df8e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hyosung-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/hyosung-kiosk-and-atm-branding?filter.p.product_type=Panel"
-          }
-        },
-        "ba177323-06d1-4563-ab41-b665c3e9e68d": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/NCR-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/ncr-itm-atm-branding?filter.p.product_type=Panel"
-          }
-        },
-        "75e9ddda-cd51-4fcb-8b73-47ca3e22db87": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Triton-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/triton-atm-branding?filter.p.product_type=Panel"
-          }
-        },
-        "6fd0665d-636b-434d-a5c9-7607e980644b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hantle-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/hantle-atm-branding?filter.p.product_type=Panel"
-          }
-        },
-        "23ed5909-9213-4fd6-92a9-0dde2e923cfe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Tranax-1000x1000.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/getbranded.com\/collections\/tranax-atm-branding?filter.p.product_type=Panel"
-          }
-        }
-      },
-      "block_order": [
-        "template--16977192911104__7ed39538-ab38-47d8-8bc2-93ed93b3c3c8-column-1",
-        "61157b11-3cfe-448d-b5d1-43c05626df8e",
-        "ba177323-06d1-4563-ab41-b665c3e9e68d",
-        "75e9ddda-cd51-4fcb-8b73-47ca3e22db87",
-        "6fd0665d-636b-434d-a5c9-7607e980644b",
-        "23ed5909-9213-4fd6-92a9-0dde2e923cfe"
-      ],
-      "settings": {
-        "title": "Manufacturer",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -264,7 +210,6 @@
   },
   "order": [
     "multicolumn_h1_bd_4mppTB",
-    "7ed39538-ab38-47d8-8bc2-93ed93b3c3c8",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
