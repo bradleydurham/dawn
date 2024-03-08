@@ -66,7 +66,8 @@
             "vol_dicount_3": "{{ product.metafields.custom.volume_discount.value.volume_discount_3_description.value }}",
             "vol_dicount_4": "{{ product.metafields.custom.volume_discount.value.volume_discount_4_description.value }}",
             "vol_dicount_5": "{{ product.metafields.custom.volume_discount.value.volume_discount_5_description.value }}",
-            "vol_dicount_6": "{{ product.metafields.custom.volume_discount.value.volume_discount_6_description.value }}"
+            "vol_dicount_6": "{{ product.metafields.custom.volume_discount.value.volume_discount_6_description.value }}",
+            "vol_dicount_7": "{{ product.metafields.custom.volume_discount.value.volume_discount_7_description.value }}"
           }
         },
         "description": {
