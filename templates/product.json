@@ -84,6 +84,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_3RYGjL": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ product.metafields.custom.proof.value.header.value }}",
+            "icon": "clipboard",
+            "content": "<p>{{ product.metafields.custom.proof.value.description.value }}<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -107,6 +116,7 @@
         "volume_discount_rWUeBt",
         "description",
         "collapsible-row-0",
+        "collapsible_tab_3RYGjL",
         "collapsible-row-1"
       ],
       "settings": {
