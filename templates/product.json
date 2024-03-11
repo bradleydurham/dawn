@@ -78,9 +78,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIALS & SPECS",
+            "heading": "{{ product.metafields.custom.materials.value.header.value }}",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p>",
+            "content": "<p>{{ product.metafields.custom.materials.value.description.value }}<\/p>",
             "page": ""
           }
         },
