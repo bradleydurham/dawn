@@ -1,28 +1,28 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "image_banner_bd_tWdT4r": {
+      "type": "image-banner-bd",
       "blocks": {
-        "heading": {
+        "heading_MgwjmK": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Embarrased by Pet Odors?",
+            "heading_size": "h1"
           }
         },
-        "text": {
+        "text_KcrGhf": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Probiotic litters and litter additives are available to keep your litter box odor free. Our line of sprays will keep all your pets and their spaces odor free.",
             "text_style": "body"
           }
         },
-        "button": {
+        "buttons_8EAf4Q": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/fresh-spray",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -30,21 +30,21 @@
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "heading_MgwjmK",
+        "text_KcrGhf",
+        "buttons_8EAf4Q"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-left",
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
@@ -125,7 +125,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -136,114 +136,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_UeMatC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_eVpcig": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zTXc8U": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ultra-pet-home-page-hero.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_eVpcig",
-        "column_zTXc8U"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "custom_liquid_W4pafT": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n    .hero {\n        background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0827\/5660\/0099\/files\/ultra-pet-home-page-bg.jpg?v=1709150364\");\n        background-size: auto 100%;\n        background-repeat: no-repeat;\n    }\n    .container {\n\n    }\n    .copy {\n        width: calc(40% - var(--grid-desktop-horizontal-spacing) \/ 2);\n        max-width: calc(40% - var(--grid-desktop-horizontal-spacing) \/ 2);\n    }\n    .image {\n        width: calc(60% - var(--grid-desktop-horizontal-spacing) \/ 2);\n        max-width: calc(60% - var(--grid-desktop-horizontal-spacing) \/ 2);\n    }\n    .hp-image {\n        max-width: 100%;\n    }\n<\/style>\n<section class=\"shopify-section section hero\">\n    <div>\n        <div class=\"page-width\">\n            <div class=\"container grid\">\n                <div class=\"copy\">\n                    <h1>Embarrassed by Pet Odor?<\/h1>\n                    <p>Try one of our odor eliminating litters, litter additives, or sprays.<\/p>\n                    <div class=\"action\">\n                        <a class=\"button button--primary\" href=\"#\">Shop Now<\/a>\n                    <\/div>\n                <\/div>\n                <div class=\"image\">\n                    <img class=\"hp-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0827\/5660\/0099\/files\/ultra-pet-home-page-hero.webp?v=1709067399\">\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_banner_bd_tWdT4r": {
-      "type": "image-banner-bd",
-      "blocks": {
-        "heading_MgwjmK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Embarrased by Pet Odors?",
-            "heading_size": "h1"
-          }
-        },
-        "text_KcrGhf": {
-          "type": "text",
-          "settings": {
-            "text": "Probiotic litters and litter additives are available to keep your litter box odor free. Our line of sprays will keep all your pets and their spaces odor free.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8EAf4Q": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/fresh-spray",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_MgwjmK",
-        "text_KcrGhf",
-        "buttons_8EAf4Q"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
-    "image_banner",
-    "multicolumn_JQ3gEV",
-    "multicolumn_UeMatC",
-    "custom_liquid_W4pafT",
-    "image_banner_bd_tWdT4r"
+    "image_banner_bd_tWdT4r",
+    "multicolumn_JQ3gEV"
   ]
 }
