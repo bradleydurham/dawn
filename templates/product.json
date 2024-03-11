@@ -80,7 +80,7 @@
           "settings": {
             "heading": "{{ product.metafields.custom.materials.value.header.value }}",
             "icon": "leather",
-            "content": "<p>{{ product.metafields.custom.materials.value.description.value }}<\/p>",
+            "content": "{{ product.metafields.custom.proof.value.description2 | metafield_tag }}",
             "page": ""
           }
         },
@@ -89,7 +89,7 @@
           "settings": {
             "heading": "{{ product.metafields.custom.proof.value.header.value }}",
             "icon": "clipboard",
-            "content": "<p>{{ product.metafields.custom.proof.value.description.value }}<\/p>",
+            "content": "{{ product.metafields.custom.proof.value.description2 | metafield_tag }}",
             "page": ""
           }
         },
