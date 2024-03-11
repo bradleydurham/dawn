@@ -98,7 +98,7 @@
           "settings": {
             "heading": "{{ product.metafields.custom.shipping.value.header.value }}",
             "icon": "truck",
-            "content": "<p>{{ product.metafields.custom.shipping.value.description.value }}<\/p>",
+            "content": "{{ product.metafields.custom.shipping.value.description2 | metafield_tag }}",
             "page": ""
           }
         }
