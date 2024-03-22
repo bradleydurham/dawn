@@ -70,11 +70,19 @@
         "column_zwxjDK": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dashin-2.jpg",
             "title": "",
             "text": "",
-            "link_label": "Dash In",
-            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Dashin"
+            "link_label": "Double Quick",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Double-Quick"
+          }
+        },
+        "column_6mUYdB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "EZ Street",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/EZ-Street"
           }
         }
       },
@@ -85,7 +93,8 @@
         "column_Xdc49M",
         "column_JbedAN",
         "column_RBWnAy",
-        "column_zwxjDK"
+        "column_zwxjDK",
+        "column_6mUYdB"
       ],
       "settings": {
         "title": "",
