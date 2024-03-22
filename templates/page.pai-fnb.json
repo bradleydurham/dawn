@@ -45,12 +45,6 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "share_eeDWAe": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -59,8 +53,7 @@
         "price_3qDaCE",
         "variant_picker_aKyJxc",
         "quantity_selector_E3Bjdt",
-        "buy_buttons_f7kA7x",
-        "share_eeDWAe"
+        "buy_buttons_f7kA7x"
       ],
       "settings": {
         "product": "fnb-topper-inserts-pai-financial",
@@ -115,12 +108,6 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "share_6RREVR": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -129,8 +116,7 @@
         "price_MkhLch",
         "variant_picker_NzFMP3",
         "quantity_selector_wcXFCD",
-        "buy_buttons_8zctfn",
-        "share_6RREVR"
+        "buy_buttons_8zctfn"
       ],
       "settings": {
         "product": "fnb-wraps-pai-financial",
