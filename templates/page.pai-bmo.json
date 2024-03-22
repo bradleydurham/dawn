@@ -170,6 +170,16 @@
             "link": "shopify:\/\/policies\/terms-of-service"
           }
         },
+        "column_4T7JkU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FNB-WRAPS.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "View all FNB Products",
+            "link": "shopify:\/\/products\/pai-financial-all-in-one-decals"
+          }
+        },
         "column_edzj8W": {
           "type": "column",
           "settings": {
@@ -184,6 +194,7 @@
       "block_order": [
         "column_eGzTGi",
         "column_nDDaDP",
+        "column_4T7JkU",
         "column_edzj8W"
       ],
       "settings": {
