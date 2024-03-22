@@ -84,6 +84,64 @@
             "link_label": "EZ Street",
             "link": "https:\/\/getbranded.com\/collections\/myproducts\/EZ-Street"
           }
+        },
+        "column_FpQByb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FNB.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "FNB",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/FNB"
+          }
+        },
+        "column_J7bDBB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PAI-Trust.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "PAI Trust",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/PAI-Trust"
+          }
+        },
+        "column_mdg968": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Refuel.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Refuel",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Refuel"
+          }
+        },
+        "column_DcTDKC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RoyalFarms.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Royal Farms",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Royal-Farms"
+          }
+        },
+        "column_4CmmBE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Top Star",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Top-Star"
+          }
+        },
+        "column_y4EfEE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "USAA",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/USAA"
+          }
         }
       },
       "block_order": [
@@ -94,7 +152,13 @@
         "column_JbedAN",
         "column_RBWnAy",
         "column_zwxjDK",
-        "column_6mUYdB"
+        "column_6mUYdB",
+        "column_FpQByb",
+        "column_J7bDBB",
+        "column_mdg968",
+        "column_DcTDKC",
+        "column_4CmmBE",
+        "column_y4EfEE"
       ],
       "settings": {
         "title": "",
