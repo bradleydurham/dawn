@@ -6,9 +6,151 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "featured_product_8WFgaz": {
+      "type": "featured-product",
+      "blocks": {
+        "text_9Mf6Fg": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_JrrWWN": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_3qDaCE": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_aKyJxc": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_E3Bjdt": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_f7kA7x": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_eeDWAe": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_9Mf6Fg",
+        "title_JrrWWN",
+        "price_3qDaCE",
+        "variant_picker_aKyJxc",
+        "quantity_selector_E3Bjdt",
+        "buy_buttons_f7kA7x",
+        "share_eeDWAe"
+      ],
+      "settings": {
+        "product": "bmo-topper-inserts-pai-financial",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_JknM3J": {
+      "type": "featured-product",
+      "blocks": {
+        "text_DhQbtg": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_VMXRET": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_MkhLch": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_NzFMP3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_wcXFCD": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_8zctfn": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_6RREVR": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_DhQbtg",
+        "title_VMXRET",
+        "price_MkhLch",
+        "variant_picker_NzFMP3",
+        "quantity_selector_wcXFCD",
+        "buy_buttons_8zctfn",
+        "share_6RREVR"
+      ],
+      "settings": {
+        "product": "bmo-wraps-pai-financial",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_product_8WFgaz",
+    "featured_product_JknM3J"
   ]
 }

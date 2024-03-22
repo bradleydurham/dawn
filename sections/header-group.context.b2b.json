@@ -4,5 +4,13 @@
     "b2b": true
   },
   "sections": {
+    "header": {
+      "settings": {
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      },
+      "blocks": {
+      }
+    }
   }
 }
