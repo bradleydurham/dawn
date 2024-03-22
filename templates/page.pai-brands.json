@@ -6,9 +6,43 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "multicolumn_YegGYM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_D9hqdn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Bar Harbor",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Bar-Harbor"
+          }
+        }
+      },
+      "block_order": [
+        "column_D9hqdn"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "View all PAI Products",
+        "button_link": "shopify:\/\/collections\/myproducts",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multicolumn_YegGYM"
   ]
 }
