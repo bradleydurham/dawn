@@ -173,10 +173,11 @@
         "column_edzj8W": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/gB2B-006-C2023-004.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "View all PAI Compliance Decals",
+            "link": "shopify:\/\/products\/pai-financial-all-in-one-decals"
           }
         }
       },
