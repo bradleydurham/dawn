@@ -18,10 +18,41 @@
             "link_label": "Bar Harbor",
             "link": "https:\/\/getbranded.com\/collections\/myproducts\/Bar-Harbor"
           }
+        },
+        "column_yQKGXt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BMO.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "BMO",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/BMO"
+          }
+        },
+        "column_wJqAAL": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Brinks",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Brinks"
+          }
+        },
+        "column_Xdc49M": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "C Store",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/C-Store"
+          }
         }
       },
       "block_order": [
-        "column_D9hqdn"
+        "column_D9hqdn",
+        "column_yQKGXt",
+        "column_wJqAAL",
+        "column_Xdc49M"
       ],
       "settings": {
         "title": "",
