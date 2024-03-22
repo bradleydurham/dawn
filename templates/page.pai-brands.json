@@ -13,6 +13,7 @@
         "column_D9hqdn": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Bar_Harbor.jpg",
             "title": "",
             "text": "",
             "link_label": "Bar Harbor",
@@ -32,6 +33,7 @@
         "column_wJqAAL": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Brinks.jpg",
             "title": "",
             "text": "",
             "link_label": "Brinks",
@@ -41,6 +43,7 @@
         "column_Xdc49M": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/C_Store.jpg",
             "title": "",
             "text": "",
             "link_label": "C Store",
@@ -70,6 +73,7 @@
         "column_zwxjDK": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Double_Quick.jpg",
             "title": "",
             "text": "",
             "link_label": "Double Quick",
@@ -79,6 +83,7 @@
         "column_6mUYdB": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EZ_Street.jpg",
             "title": "",
             "text": "",
             "link_label": "EZ Street",
@@ -128,6 +133,7 @@
         "column_4CmmBE": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Top_Star.jpg",
             "title": "",
             "text": "",
             "link_label": "Top Star",
@@ -137,6 +143,7 @@
         "column_y4EfEE": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/USAA.jpg",
             "title": "",
             "text": "",
             "link_label": "USAA",
