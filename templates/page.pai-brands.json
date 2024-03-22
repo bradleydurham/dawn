@@ -46,13 +46,46 @@
             "link_label": "C Store",
             "link": "https:\/\/getbranded.com\/collections\/myproducts\/C-Store"
           }
+        },
+        "column_JbedAN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/citizens.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Citizens",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Citizens"
+          }
+        },
+        "column_RBWnAy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dashin-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Dash In",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Dashin"
+          }
+        },
+        "column_zwxjDK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dashin-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Dash In",
+            "link": "https:\/\/getbranded.com\/collections\/myproducts\/Dashin"
+          }
         }
       },
       "block_order": [
         "column_D9hqdn",
         "column_yQKGXt",
         "column_wJqAAL",
-        "column_Xdc49M"
+        "column_Xdc49M",
+        "column_JbedAN",
+        "column_RBWnAy",
+        "column_zwxjDK"
       ],
       "settings": {
         "title": "",
