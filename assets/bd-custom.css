@@ -172,3 +172,7 @@ cart-items {
 .volume-discount-item-bd.even {
   background: #eee;
 }
+
+.cart__dynamic-checkout-buttons {
+  display: none;
+}
