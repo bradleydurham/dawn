@@ -22,9 +22,10 @@
           "settings": {
           }
         },
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
-          "type": "variant_sku",
+        "sku_mBTbP8": {
+          "type": "sku",
           "settings": {
+            "text_style": "body"
           }
         },
         "caption": {
@@ -66,7 +67,8 @@
             "vol_dicount_3": "Save 10% with a purchase of 50 or more",
             "vol_dicount_4": "Save 10% with a purchase of 50 or more",
             "vol_dicount_5": "Save 10% with a purchase of 50 or more",
-            "vol_dicount_6": "Save 10% with a purchase of 50 or more"
+            "vol_dicount_6": "Save 10% with a purchase of 50 or more",
+            "vol_dicount_7": ""
           }
         },
         "description": {
@@ -103,7 +105,7 @@
         "vendor",
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
+        "sku_mBTbP8",
         "caption",
         "price",
         "variant_picker",
