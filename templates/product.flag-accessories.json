@@ -22,13 +22,14 @@
           "settings": {
           }
         },
-        "price": {
-          "type": "price",
+        "sku_FKtcaR": {
+          "type": "sku",
           "settings": {
+            "text_style": "body"
           }
         },
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
-          "type": "variant_sku",
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -85,8 +86,8 @@
         "vendor",
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
+        "sku_FKtcaR",
         "price",
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
         "caption",
         "variant_picker",
         "quantity_selector",
