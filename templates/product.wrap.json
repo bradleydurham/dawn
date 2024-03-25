@@ -57,6 +57,14 @@
             "design2": "Upload My Own Artwork"
           }
         },
+        "customize_content_rVBwwU": {
+          "type": "customize_content",
+          "settings": {
+            "c_content_1": "Enter URL of Website to Reference Branding",
+            "c_content_2": "Enter Notes as They Pertain to the Graphic",
+            "c_content_3": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -107,6 +115,7 @@
         "quantity_selector",
         "variant_picker",
         "9547e720-2768-4069-850b-db2fbbeeb506",
+        "customize_content_rVBwwU",
         "buy_buttons",
         "description",
         "collapsible-row-0",
