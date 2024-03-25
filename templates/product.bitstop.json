@@ -22,9 +22,10 @@
           "settings": {
           }
         },
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7": {
-          "type": "variant_sku",
+        "sku_mqGed9": {
+          "type": "sku",
           "settings": {
+            "text_style": "body"
           }
         },
         "caption": {
@@ -102,7 +103,7 @@
         "vendor",
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
-        "2a51d169-2f72-4db5-b8b5-4adb23e752c7",
+        "sku_mqGed9",
         "caption",
         "price",
         "quantity_selector",
