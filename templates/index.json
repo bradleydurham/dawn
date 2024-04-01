@@ -49,91 +49,57 @@
         "show_text_below": true
       }
     },
-    "multicolumn_JQ3gEV": {
-      "type": "multicolumn",
+    "multirow_QUWN3q": {
+      "type": "multirow",
       "blocks": {
-        "column_jPYeTT": {
-          "type": "column",
+        "row_8dx8p6": {
+          "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/litter-pearls-stacked.png",
-            "title": "",
-            "text": "",
-            "link_label": "Litter Pearls",
-            "link": "shopify:\/\/collections\/litter-pearls"
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
           }
         },
-        "column_h3jUcm": {
-          "type": "column",
+        "row_XHaKxV": {
+          "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ultra_logo.png",
-            "title": "",
-            "text": "",
-            "link_label": "Ultra",
-            "link": "shopify:\/\/collections\/ultra"
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
           }
         },
-        "column_a7pEJU": {
-          "type": "column",
+        "row_rRVCNt": {
+          "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Neon_straight_white.png",
-            "title": "",
-            "text": "",
-            "link_label": "Neon",
-            "link": "shopify:\/\/collections\/neon"
-          }
-        },
-        "column_ccmFhK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Ultra_Natural-square.png",
-            "title": "",
-            "text": "",
-            "link_label": "Ultra Natural",
-            "link": "shopify:\/\/collections\/ultra-natural"
-          }
-        },
-        "column_FWFVjY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EcoKitty-Lavender-tofu.png",
-            "title": "",
-            "text": "",
-            "link_label": "EcoKitty",
-            "link": "shopify:\/\/collections\/ecokitty"
-          }
-        },
-        "column_Xg4YQ7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Zen_Kitty.svg",
-            "title": "",
-            "text": "",
-            "link_label": "Zen Kitty",
-            "link": "shopify:\/\/collections\/zen-kitty"
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "column_jPYeTT",
-        "column_h3jUcm",
-        "column_a7pEJU",
-        "column_ccmFhK",
-        "column_FWFVjY",
-        "column_Xg4YQ7"
+        "row_8dx8p6",
+        "row_XHaKxV",
+        "row_rRVCNt"
       ],
       "settings": {
-        "title": "Our Brands",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -285,57 +251,91 @@
         "padding_bottom": 36
       }
     },
-    "multirow_QUWN3q": {
-      "type": "multirow",
+    "multicolumn_JQ3gEV": {
+      "type": "multicolumn",
       "blocks": {
-        "row_8dx8p6": {
-          "type": "row",
+        "column_jPYeTT": {
+          "type": "column",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/litter-pearls-stacked.png",
+            "title": "",
+            "text": "",
+            "link_label": "Litter Pearls",
+            "link": "shopify:\/\/collections\/litter-pearls"
           }
         },
-        "row_XHaKxV": {
-          "type": "row",
+        "column_h3jUcm": {
+          "type": "column",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/Ultra_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "Ultra",
+            "link": "shopify:\/\/collections\/ultra"
           }
         },
-        "row_rRVCNt": {
-          "type": "row",
+        "column_a7pEJU": {
+          "type": "column",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/Neon_straight_white.png",
+            "title": "",
+            "text": "",
+            "link_label": "Neon",
+            "link": "shopify:\/\/collections\/neon"
+          }
+        },
+        "column_ccmFhK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ultra_Natural-square.png",
+            "title": "",
+            "text": "",
+            "link_label": "Ultra Natural",
+            "link": "shopify:\/\/collections\/ultra-natural"
+          }
+        },
+        "column_FWFVjY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EcoKitty-Lavender-tofu.png",
+            "title": "",
+            "text": "",
+            "link_label": "EcoKitty",
+            "link": "shopify:\/\/collections\/ecokitty"
+          }
+        },
+        "column_Xg4YQ7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zen_Kitty.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Zen Kitty",
+            "link": "shopify:\/\/collections\/zen-kitty"
           }
         }
       },
       "block_order": [
-        "row_8dx8p6",
-        "row_XHaKxV",
-        "row_rRVCNt"
+        "column_jPYeTT",
+        "column_h3jUcm",
+        "column_a7pEJU",
+        "column_ccmFhK",
+        "column_FWFVjY",
+        "column_Xg4YQ7"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "title": "Our Brands",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -377,9 +377,9 @@
   },
   "order": [
     "image_banner_bd_tWdT4r",
-    "multicolumn_JQ3gEV",
-    "multicolumn_QwN6qU",
     "multirow_QUWN3q",
+    "multicolumn_QwN6qU",
+    "multicolumn_JQ3gEV",
     "newsletter_cLhYW9"
   ]
 }
