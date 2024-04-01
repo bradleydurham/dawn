@@ -216,10 +216,37 @@
         "column_JVFpTj": {
           "type": "column",
           "settings": {
-            "title": "Plant Based Litter",
+            "title": "Litter Additive",
             "text": "",
             "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Plant+Based&sort_by=best-selling"
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Litter+Additive&sort_by=best-selling"
+          }
+        },
+        "column_8jgTBB": {
+          "type": "column",
+          "settings": {
+            "title": "Litter Accessories",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Litter+Accessories&sort_by=best-selling"
+          }
+        },
+        "column_JmKAMw": {
+          "type": "column",
+          "settings": {
+            "title": "Cat Toys",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Toys&sort_by=best-selling"
+          }
+        },
+        "column_MHM7jk": {
+          "type": "column",
+          "settings": {
+            "title": "Odor Eliminators",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Odor+Eliminator&sort_by=best-selling"
           }
         }
       },
@@ -232,11 +259,14 @@
         "column_yhcgAN",
         "column_mbdmr6",
         "column_dL6RnM",
-        "column_JVFpTj"
+        "column_JVFpTj",
+        "column_8jgTBB",
+        "column_JmKAMw",
+        "column_MHM7jk"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "Quick Links",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
