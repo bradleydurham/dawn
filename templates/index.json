@@ -285,40 +285,6 @@
         "padding_bottom": 36
       }
     },
-    "newsletter_cLhYW9": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_zUWmtg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_pdqMzW": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "email_form_bb78fW": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_zUWmtg",
-        "paragraph_pdqMzW",
-        "email_form_bb78fW"
-      ],
-      "settings": {
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multirow_QUWN3q": {
       "type": "multirow",
       "blocks": {
@@ -373,13 +339,47 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "newsletter_cLhYW9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_zUWmtg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_pdqMzW": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_bb78fW": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_zUWmtg",
+        "paragraph_pdqMzW",
+        "email_form_bb78fW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image_banner_bd_tWdT4r",
     "multicolumn_JQ3gEV",
     "multicolumn_QwN6qU",
-    "newsletter_cLhYW9",
-    "multirow_QUWN3q"
+    "multirow_QUWN3q",
+    "newsletter_cLhYW9"
   ]
 }
