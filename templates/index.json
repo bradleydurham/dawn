@@ -144,10 +144,10 @@
         "column_YaDf6b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Clumping Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Clumping&sort_by=best-selling"
           }
         },
         "column_fGPqtk": {
