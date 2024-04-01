@@ -206,6 +206,7 @@
         "column_JmKAMw": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/toys.svg",
             "title": "Cat Toys",
             "text": "",
             "link_label": "Shop",
