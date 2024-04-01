@@ -162,24 +162,84 @@
         "column_UjWqHT": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Scented Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Scented&sort_by=best-selling"
+          }
+        },
+        "column_Az4nTQ": {
+          "type": "column",
+          "settings": {
+            "title": "Unscented Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Unscented&sort_by=best-selling"
+          }
+        },
+        "column_ccxCac": {
+          "type": "column",
+          "settings": {
+            "title": "Probiotics",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Probiotics&sort_by=best-selling"
+          }
+        },
+        "column_yhcgAN": {
+          "type": "column",
+          "settings": {
+            "title": "Silica Crystals Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Silica+Crystals&sort_by=best-selling"
+          }
+        },
+        "column_mbdmr6": {
+          "type": "column",
+          "settings": {
+            "title": "Tofu Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Tofu&sort_by=best-selling"
+          }
+        },
+        "column_dL6RnM": {
+          "type": "column",
+          "settings": {
+            "title": "Plant Based Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Plant+Based&sort_by=best-selling"
+          }
+        },
+        "column_JVFpTj": {
+          "type": "column",
+          "settings": {
+            "title": "Plant Based Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Plant+Based&sort_by=best-selling"
           }
         }
       },
       "block_order": [
         "column_YaDf6b",
         "column_fGPqtk",
-        "column_UjWqHT"
+        "column_UjWqHT",
+        "column_Az4nTQ",
+        "column_ccxCac",
+        "column_yhcgAN",
+        "column_mbdmr6",
+        "column_dL6RnM",
+        "column_JVFpTj"
       ],
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Shop All Products",
