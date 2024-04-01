@@ -177,6 +177,7 @@
         "column_dL6RnM": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/plant-based.svg",
             "title": "Plant Based Litter",
             "text": "",
             "link_label": "Shop",
