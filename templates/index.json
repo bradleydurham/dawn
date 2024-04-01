@@ -144,6 +144,7 @@
         "column_YaDf6b": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/clumping.svg",
             "title": "Clumping Litter",
             "text": "",
             "link_label": "Shop",
@@ -153,6 +154,7 @@
         "column_fGPqtk": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/non-clumping.svg",
             "title": "Non-Clumping Litter",
             "text": "",
             "link_label": "Shop",
@@ -162,6 +164,7 @@
         "column_UjWqHT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/scented.svg",
             "title": "Scented Litter",
             "text": "",
             "link_label": "Shop",
@@ -171,6 +174,7 @@
         "column_Az4nTQ": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/unscented.svg",
             "title": "Unscented Litter",
             "text": "",
             "link_label": "Shop",
