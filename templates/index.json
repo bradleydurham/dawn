@@ -159,6 +159,7 @@
         "column_yhcgAN": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/silica-crystals.svg",
             "title": "Silica Crystals Litter",
             "text": "",
             "link_label": "Shop",
