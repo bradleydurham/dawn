@@ -249,6 +249,40 @@
         "padding_bottom": 36
       }
     },
+    "multirow_edj8J8": {
+      "type": "multirow",
+      "blocks": {
+        "row_wG9FEW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-toys.jpg",
+            "caption": "Cat Accessories",
+            "heading": "Keep Your Cat Happy",
+            "text": "<p>In addition to world class litter, UltraPet offers many other products that will keep your cat happy and healthy. We have a wide array of interactive toys. We also offer litter mats to keep your house clean no matter what type of litter you use. Lastly, we offer a line of odor eliminating sprays to keep your house smelling fresh.<\/p>",
+            "button_label": "Find My Accessories",
+            "button_link": "shopify:\/\/collections\/accessories"
+          }
+        }
+      },
+      "block_order": [
+        "row_wG9FEW"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "multicolumn_KxWAYi": {
       "type": "multicolumn",
       "blocks": {
@@ -529,6 +563,7 @@
     "multicolumn_QwN6qU",
     "multirow_mpNC6J",
     "multicolumn_3nqXnd",
+    "multirow_edj8J8",
     "multicolumn_KxWAYi",
     "multicolumn_JQ3gEV",
     "newsletter_cLhYW9"
