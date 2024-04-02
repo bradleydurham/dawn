@@ -55,11 +55,12 @@
         "row_8dx8p6": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/choose-your-cat-litter.jpg",
+            "caption": "Cat Litter",
+            "heading": "Litter Types for Everyone",
+            "text": "<p>No matter what type of cat litter your and your cat prefer (clumping, non-clumping, scented, or unscented), UltraPet has options for every household. Our litters are formulated to provide the optimal living space for both you and your cat.<\/p>",
+            "button_label": "Find My Litter",
+            "button_link": "shopify:\/\/collections\/cat-litter"
           }
         },
         "row_XHaKxV": {
