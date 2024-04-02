@@ -286,84 +286,6 @@
     "multicolumn_KxWAYi": {
       "type": "multicolumn",
       "blocks": {
-        "column_RraEDz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/clumping.svg",
-            "title": "Clumping Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Clumping&sort_by=best-selling"
-          }
-        },
-        "column_biqyYh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/non-clumping.svg",
-            "title": "Non-Clumping Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Non-Clumping&sort_by=best-selling"
-          }
-        },
-        "column_Mn7fPt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/scented.svg",
-            "title": "Scented Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Scented&sort_by=best-selling"
-          }
-        },
-        "column_fppYHU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/unscented.svg",
-            "title": "Unscented Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Unscented&sort_by=best-selling"
-          }
-        },
-        "column_ANyiJL": {
-          "type": "column",
-          "settings": {
-            "title": "Probiotics",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Probiotics&sort_by=best-selling"
-          }
-        },
-        "column_XBMr8R": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/silica-crystals.svg",
-            "title": "Silica Crystals Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Silica+Crystals&sort_by=best-selling"
-          }
-        },
-        "column_RmakJq": {
-          "type": "column",
-          "settings": {
-            "title": "Tofu Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Tofu&sort_by=best-selling"
-          }
-        },
-        "column_UinyYT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/plant-based.svg",
-            "title": "Plant Based Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Plant+Based&sort_by=best-selling"
-          }
-        },
         "column_neWt8R": {
           "type": "column",
           "settings": {
@@ -403,14 +325,6 @@
         }
       },
       "block_order": [
-        "column_RraEDz",
-        "column_biqyYh",
-        "column_Mn7fPt",
-        "column_fppYHU",
-        "column_ANyiJL",
-        "column_XBMr8R",
-        "column_RmakJq",
-        "column_UinyYT",
         "column_neWt8R",
         "column_iGpjhX",
         "column_k9d84X",
@@ -421,12 +335,12 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Shop All Products",
         "button_link": "shopify:\/\/collections\/all-products",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
