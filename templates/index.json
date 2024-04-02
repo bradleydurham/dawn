@@ -150,6 +150,40 @@
         "padding_bottom": 36
       }
     },
+    "multirow_mpNC6J": {
+      "type": "multirow",
+      "blocks": {
+        "row_iHz7Bn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/choose-your-cat-litter.jpg",
+            "caption": "Cat Litter",
+            "heading": "To Clump or Not to Clump",
+            "text": "<p>No matter what type of cat litter your and your cat prefer (clumping, non-clumping, scented, or unscented), UltraPet has options for every household. Our litters are formulated to provide the optimal living space for both you and your cat.<\/p>",
+            "button_label": "Find My Litter",
+            "button_link": "shopify:\/\/collections\/cat-litter"
+          }
+        }
+      },
+      "block_order": [
+        "row_iHz7Bn"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "multicolumn_3nqXnd": {
       "type": "multicolumn",
       "blocks": {
@@ -428,6 +462,7 @@
     "image_banner_bd_tWdT4r",
     "multirow_QUWN3q",
     "multicolumn_QwN6qU",
+    "multirow_mpNC6J",
     "multicolumn_3nqXnd",
     "multicolumn_JQ3gEV",
     "newsletter_cLhYW9"
