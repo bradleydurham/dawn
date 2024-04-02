@@ -122,55 +122,13 @@
             "link_label": "Shop",
             "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Unscented&sort_by=best-selling"
           }
-        },
-        "column_ccxCac": {
-          "type": "column",
-          "settings": {
-            "title": "Probiotics",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Probiotics&sort_by=best-selling"
-          }
-        },
-        "column_yhcgAN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/silica-crystals.svg",
-            "title": "Silica Crystals Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Silica+Crystals&sort_by=best-selling"
-          }
-        },
-        "column_mbdmr6": {
-          "type": "column",
-          "settings": {
-            "title": "Tofu Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Tofu&sort_by=best-selling"
-          }
-        },
-        "column_dL6RnM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/plant-based.svg",
-            "title": "Plant Based Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Plant+Based&sort_by=best-selling"
-          }
         }
       },
       "block_order": [
         "column_YaDf6b",
         "column_fGPqtk",
         "column_UjWqHT",
-        "column_Az4nTQ",
-        "column_ccxCac",
-        "column_yhcgAN",
-        "column_mbdmr6",
-        "column_dL6RnM"
+        "column_Az4nTQ"
       ],
       "settings": {
         "title": "Quick Links",
@@ -180,8 +138,8 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Shop All Products",
-        "button_link": "shopify:\/\/collections\/all-products",
+        "button_label": "Shop All Cat Litter",
+        "button_link": "shopify:\/\/collections\/cat-litter",
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
