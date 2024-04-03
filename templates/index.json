@@ -36,7 +36,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
-        "image_2": "shopify:\/\/shop_images\/ultra-pet-home-page-hero.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
