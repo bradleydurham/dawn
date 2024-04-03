@@ -48,107 +48,6 @@
         "show_text_below": true
       }
     },
-    "multirow_QUWN3q": {
-      "type": "multirow",
-      "blocks": {
-        "row_8dx8p6": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/choose-your-cat-litter.jpg",
-            "caption": "Cat Litter",
-            "heading": "To Clump or Not to Clump",
-            "text": "<p>No matter what type of cat litter your and your cat prefer (clumping, non-clumping, scented, or unscented), UltraPet has options for every household. Our litters are formulated to provide the optimal living space for both you and your cat.<\/p>",
-            "button_label": "Find My Litter",
-            "button_link": "shopify:\/\/collections\/cat-litter"
-          }
-        }
-      },
-      "block_order": [
-        "row_8dx8p6"
-      ],
-      "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-1",
-        "row_color_scheme": "scheme-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "multicolumn_QwN6qU": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_YaDf6b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/clumping-blue.svg",
-            "title": "Clumping Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Clumping&sort_by=best-selling"
-          }
-        },
-        "column_fGPqtk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/non-clumping-blue.svg",
-            "title": "Non-Clumping Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Non-Clumping&sort_by=best-selling"
-          }
-        },
-        "column_UjWqHT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/scented-blue.svg",
-            "title": "Scented Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Scented&sort_by=best-selling"
-          }
-        },
-        "column_Az4nTQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/unscented-blue.svg",
-            "title": "Unscented Litter",
-            "text": "",
-            "link_label": "Shop",
-            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Unscented&sort_by=best-selling"
-          }
-        }
-      },
-      "block_order": [
-        "column_YaDf6b",
-        "column_fGPqtk",
-        "column_UjWqHT",
-        "column_Az4nTQ"
-      ],
-      "settings": {
-        "title": "Quick Links",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Shop All Cat Litter",
-        "button_link": "shopify:\/\/collections\/cat-litter",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multirow_mpNC6J": {
       "type": "multirow",
       "blocks": {
@@ -346,6 +245,107 @@
         "padding_bottom": 36
       }
     },
+    "multirow_QUWN3q": {
+      "type": "multirow",
+      "blocks": {
+        "row_8dx8p6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/choose-your-cat-litter.jpg",
+            "caption": "Cat Litter",
+            "heading": "To Clump or Not to Clump",
+            "text": "<p>No matter what type of cat litter your and your cat prefer (clumping, non-clumping, scented, or unscented), UltraPet has options for every household. Our litters are formulated to provide the optimal living space for both you and your cat.<\/p>",
+            "button_label": "Find My Litter",
+            "button_link": "shopify:\/\/collections\/cat-litter"
+          }
+        }
+      },
+      "block_order": [
+        "row_8dx8p6"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_QwN6qU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YaDf6b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clumping-blue.svg",
+            "title": "Clumping Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Clumping&sort_by=best-selling"
+          }
+        },
+        "column_fGPqtk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/non-clumping-blue.svg",
+            "title": "Non-Clumping Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Non-Clumping&sort_by=best-selling"
+          }
+        },
+        "column_UjWqHT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scented-blue.svg",
+            "title": "Scented Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Scented&sort_by=best-selling"
+          }
+        },
+        "column_Az4nTQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unscented-blue.svg",
+            "title": "Unscented Litter",
+            "text": "",
+            "link_label": "Shop",
+            "link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Unscented&sort_by=best-selling"
+          }
+        }
+      },
+      "block_order": [
+        "column_YaDf6b",
+        "column_fGPqtk",
+        "column_UjWqHT",
+        "column_Az4nTQ"
+      ],
+      "settings": {
+        "title": "Quick Links",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Shop All Cat Litter",
+        "button_link": "shopify:\/\/collections\/cat-litter",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_JQ3gEV": {
       "type": "multicolumn",
       "blocks": {
@@ -472,12 +472,12 @@
   },
   "order": [
     "image_banner_bd_tWdT4r",
-    "multirow_QUWN3q",
-    "multicolumn_QwN6qU",
     "multirow_mpNC6J",
     "multicolumn_3nqXnd",
     "multirow_edj8J8",
     "multicolumn_KxWAYi",
+    "multirow_QUWN3q",
+    "multicolumn_QwN6qU",
     "multicolumn_JQ3gEV",
     "newsletter_cLhYW9"
   ]
