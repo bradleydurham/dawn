@@ -13,6 +13,10 @@
         padding-bottom: {{ section.settings.padding_bottom }}px;
       }
     }
+
+    .image-with-text {
+      background-image: url('{{ section.image-bg | url }}'),
+    }
   {%- endstyle -%}
 
   {%- liquid
