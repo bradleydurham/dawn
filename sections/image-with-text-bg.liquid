@@ -25,6 +25,26 @@
       min-height: 56rem;
      }
 
+     @media screen and (max-width: 749px) {
+      .banner--stacked .banner__media {
+        flex-direction: column;
+      }
+     }
+
+     .banner__media {
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+    }
+
+    @media screen and (min-width: 750px) {
+      .banner__media {
+        height: 100%;
+      }
+    }
+
      @media screen and (min-width: 750px) {
         .image-with-text-bg {
           flex-direction: row;
