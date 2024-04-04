@@ -83,6 +83,7 @@
         "buttons_y8P9Wy"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
