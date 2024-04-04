@@ -20,8 +20,8 @@
         "button_pxFRi3": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Probiotics&sort_by=best-selling",
             "button_style_secondary": false
           }
         }
