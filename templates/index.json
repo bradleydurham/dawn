@@ -137,6 +137,7 @@
         "column_UWfzVd": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/probiotics-blue.svg",
             "title": "Probiotics",
             "text": "",
             "link_label": "Shop",
@@ -156,6 +157,7 @@
         "column_LfeCh3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tofu-blue.svg",
             "title": "Tofu Litter",
             "text": "",
             "link_label": "Shop",
