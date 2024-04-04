@@ -1,53 +1,5 @@
 {
   "sections": {
-    "image_with_text_zKVUKU": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_8nwnC8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Embarrased by Pet Odors?",
-            "heading_size": "h1"
-          }
-        },
-        "text_JMFt33": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Probiotic litters and litter additives are available to keep your litter box odor free. Our line of sprays will keep all your pets and their spaces odor free.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_qLnNdi": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "\/collections\/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.collection_filters3=Probiotics&sort_by=best-selling",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_8nwnC8",
-        "text_JMFt33",
-        "button_qLnNdi"
-      ],
-      "settings": {
-        "image-bg": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
-        "image": "shopify:\/\/shop_images\/ultra-pet-home-page-hero.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "image_banner_J7jpKk": {
       "type": "image-banner",
       "blocks": {
@@ -568,7 +520,6 @@
     }
   },
   "order": [
-    "image_with_text_zKVUKU",
     "image_banner_J7jpKk",
     "image_banner_bd_tWdT4r",
     "multirow_mpNC6J",
