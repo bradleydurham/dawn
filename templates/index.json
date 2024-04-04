@@ -238,6 +238,7 @@
         "column_neWt8R": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/litter-additve-blue.svg",
             "title": "Litter Additive",
             "text": "",
             "link_label": "Shop",
@@ -247,6 +248,7 @@
         "column_iGpjhX": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/litter-accessories-blue.svg",
             "title": "Litter Accessories",
             "text": "",
             "link_label": "Shop",
@@ -256,7 +258,7 @@
         "column_k9d84X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/toys.svg",
+            "image": "shopify:\/\/shop_images\/toys-blue.svg",
             "title": "Cat Toys",
             "text": "",
             "link_label": "Shop",
@@ -266,6 +268,7 @@
         "column_t87UkP": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sprays-blue.svg",
             "title": "Odor Eliminators",
             "text": "",
             "link_label": "Shop",
