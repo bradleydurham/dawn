@@ -33,7 +33,7 @@
       ],
       "settings": {
         "image-bg": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
-        "image": "shopify:\/\/shop_images\/cat-toys.jpg",
+        "image": "shopify:\/\/shop_images\/ultra-pet-home-page-hero.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -82,6 +82,7 @@
         "text_KcrGhf",
         "buttons_8EAf4Q"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ultra-pet-home-page-bg.jpg",
         "image_overlay_opacity": 0,
