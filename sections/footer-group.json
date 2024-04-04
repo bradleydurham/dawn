@@ -14,14 +14,14 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Policies",
+            "heading": "Account Access & Policies",
             "menu": "footer"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "Quick Links",
             "menu": "footer"
           }
         }
