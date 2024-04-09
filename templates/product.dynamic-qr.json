@@ -58,13 +58,20 @@
             "show_gift_card_recipient": true
           }
         },
+        "text_fNif3y": {
+          "type": "text",
+          "settings": {
+            "text": "Dynamic QR Codes are valid for 1 year from date of purchase. To keep the code live, please select \"Yearly Subscription.\" Your Dynamic QR code will remain active as long as your account is in good standing.",
+            "text_style": "body"
+          }
+        },
         "subscriptions_app_block_JfVdpH": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
-            "color_text_title": "#6D7175",
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
+            "color_text_title": "#6d7175",
+            "color_text_body": "#6d7175",
+            "dividers_color": "#8f8d8d",
+            "bacgkround_color": "#ffffff",
             "border_thickness": 1,
             "border_radius": 0,
             "supporting_text_title": "Purchase options",
@@ -128,6 +135,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "text_fNif3y",
         "subscriptions_app_block_JfVdpH",
         "volume_discount_rWUeBt",
         "description",
