@@ -1,0 +1,274 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-bd",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "872d1030-32f8-466b-a787-dd5091932543": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"pd_20\">\n{% render 'breadcrumb' %}\n<\/div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "sku_3JMm8C": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "subscriptions_app_block_JfVdpH": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
+          "settings": {
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
+        "volume_discount_rWUeBt": {
+          "type": "volume_discount",
+          "settings": {
+            "vol_discount_header": "{{ product.metafields.custom.volume_discount.value.volume_discount_header.value }}",
+            "vol_dicount_1": "{{ product.metafields.custom.volume_discount.value.volume_discount_1_description.value }}",
+            "vol_dicount_2": "{{ product.metafields.custom.volume_discount.value.volume_discount_2_description.value }}",
+            "vol_dicount_3": "{{ product.metafields.custom.volume_discount.value.volume_discount_3_description.value }}",
+            "vol_dicount_4": "{{ product.metafields.custom.volume_discount.value.volume_discount_4_description.value }}",
+            "vol_dicount_5": "{{ product.metafields.custom.volume_discount.value.volume_discount_5_description.value }}",
+            "vol_dicount_6": "{{ product.metafields.custom.volume_discount.value.volume_discount_6_description.value }}",
+            "vol_dicount_7": "{{ product.metafields.custom.volume_discount.value.volume_discount_7_description.value }}"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ product.metafields.custom.materials.value.header.value }}",
+            "icon": "leather",
+            "content": "{{ product.metafields.custom.materials.value.description2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_3RYGjL": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ product.metafields.custom.proof.value.header.value }}",
+            "icon": "clipboard",
+            "content": "{{ product.metafields.custom.proof.value.description2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "{{ product.metafields.custom.shipping.value.header.value }}",
+            "icon": "truck",
+            "content": "{{ product.metafields.custom.shipping.value.description2 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "872d1030-32f8-466b-a787-dd5091932543",
+        "title",
+        "sku_3JMm8C",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "subscriptions_app_block_JfVdpH",
+        "volume_discount_rWUeBt",
+        "description",
+        "collapsible-row-0",
+        "collapsible_tab_3RYGjL",
+        "collapsible-row-1"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_bd_w9wDUt": {
+      "type": "image-with-text-bd",
+      "blocks": {
+        "heading_anaaUi": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.custom.image_with_text_section.value.header.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_J44Xmr": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.image_with_text_section.value.text | metafield_tag }}",
+            "text_style": "body"
+          }
+        },
+        "button_xheW9W": {
+          "type": "button",
+          "settings": {
+            "button_label": "{{ product.metafields.custom.image_with_text_section.value.button_label.value }}",
+            "button_link": "{{ product.metafields.custom.image_with_text_section.value.button_link.value }}",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_anaaUi",
+        "text_J44Xmr",
+        "button_xheW9W"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.custom.image_with_text_section.value.image.value }}",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't see what you need? We Customize.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
+            "text_style": "body"
+          }
+        },
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Quote Request",
+            "button_link_1": "shopify:\/\/pages\/quote-request",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1",
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1",
+        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banners.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Customers who bought this also bought",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_bd_w9wDUt",
+    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
+    "related-products"
+  ]
+}
