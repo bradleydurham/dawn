@@ -1,0 +1,8 @@
+{
+  "parent": "product.ansi-2.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
