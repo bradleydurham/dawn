@@ -75,7 +75,13 @@
       >
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
 
+        {%- comment %}<locksmith:91d7>{% endcomment -%}
+          {%- assign locksmith_88d2_forloop__size = 0 %}{%- for block in section.blocks -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: block.settings.product, subject_parent: section, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_88d2_forloop__size = locksmith_88d2_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_88d2_forloop__index = nil -%}
+        {%- comment %}</locksmith:91d7>{% endcomment -%}
         {%- for block in section.blocks -%}
+          {%- comment %}<locksmith:8694>{% endcomment -%}
+            {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: block.settings.product, subject_parent: section, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_88d2_forloop__index == nil %}{% assign locksmith_88d2_forloop__index = 1 %}{% assign locksmith_88d2_forloop__index0 = 0 %}{% else %}{% assign locksmith_88d2_forloop__index = locksmith_88d2_forloop__index | plus: 1 %}{% assign locksmith_88d2_forloop__index0 = locksmith_88d2_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_88d2_forloop__index == 1 %}{% assign locksmith_88d2_forloop__first = true %}{% else %}{% assign locksmith_88d2_forloop__first = false %}{% endif %}{% if locksmith_88d2_forloop__index == locksmith_88d2_forloop__size %}{% assign locksmith_88d2_forloop__last = true %}{% else %}{% assign locksmith_88d2_forloop__last = false %}{% endif %}{% assign locksmith_88d2_forloop__rindex = locksmith_88d2_forloop__size | minus: locksmith_88d2_forloop__index | minus: 1 %}{% assign locksmith_88d2_forloop__rindex0 = locksmith_88d2_forloop__size | minus: locksmith_88d2_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+          {%- comment %}</locksmith:8694>{% endcomment -%}
           {%- case block.type -%}
             {%- when '@app' -%}
               {% render block %}
@@ -881,9 +887,9 @@
                             <div id="Slide-{{ block.id }}-{{ forloop.index }}" class="complementary-slide complementary-slide--{{ settings.card_style }} grid__item slider__slide slideshow__slide" tabindex="-1" role="group"{% if number_of_slides > 1 %} aria-roledescription="{{ 'sections.slideshow.slide' | t }}" aria-label="{{ forloop.index }} {{ 'general.slider.of' | t }} {{ forloop.length }}"{% endif %}>
                               <ul class="list-unstyled" role="list">
                                 {%- for product in recommendations.products limit: block.settings.products_per_page offset: continue -%}
-                                  {%- comment %}<locksmith:3194>{% endcomment -%}
+                                  {%- comment %}<locksmith:e7d2>{% endcomment -%}
                                     {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: recommendations, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                                  {%- comment %}</locksmith:3194>{% endcomment -%}
+                                  {%- comment %}</locksmith:e7d2>{% endcomment -%}
                                   <li>
                                     {% render 'card-product',
                                       card_product: product,
@@ -961,6 +967,9 @@
 
   {% assign popups = section.blocks | where: 'type', 'popup' %}
   {%- for block in popups -%}
+    {%- comment %}<locksmith:a3e3>{% endcomment -%}
+      {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: block, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+    {%- comment %}</locksmith:a3e3>{% endcomment -%}
     <modal-dialog id="PopupModal-{{ block.id }}" class="product-popup-modal" {{ block.shopify_attributes }}>
       <div
         role="dialog"
