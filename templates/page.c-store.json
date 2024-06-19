@@ -9,6 +9,29 @@
 */
 {
   "sections": {
+    "rich_text_h1_bd_CnVF8V": {
+      "type": "rich-text-h1-bd",
+      "blocks": {
+        "heading_xCabRq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Specially selected for Convenience Stores and Truck Stops",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xCabRq"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -156,38 +179,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_h1_bd_CnVF8V": {
-      "type": "rich-text-h1-bd",
-      "blocks": {
-        "heading_xCabRq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Specially selected for Convenience Stores and Truck Stops",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_xCabRq"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
+    "rich_text_h1_bd_CnVF8V",
     "main",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
     "92e73084-bda3-47a0-a879-0bc76966ac78",
     "dc26a1f8-196b-41a2-a8f9-ffa6d6aa31ae",
     "3df36a31-0525-47a2-84d5-131b8c521b85",
-    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
-    "rich_text_h1_bd_CnVF8V"
+    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3"
   ]
 }
