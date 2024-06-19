@@ -9,8 +9,32 @@
 */
 {
   "sections": {
+    "rich_text_h1_bd_KPiy4p": {
+      "type": "rich-text-h1-bd",
+      "blocks": {
+        "heading_tBETcT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Feedback",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tBETcT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
@@ -156,6 +180,7 @@
     }
   },
   "order": [
+    "rich_text_h1_bd_KPiy4p",
     "main",
     "custom_liquid_9y7Pc3",
     "bcb82855-9c3e-4fb3-a105-2772575038d7",
