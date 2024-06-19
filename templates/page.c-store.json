@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -147,6 +156,29 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_h1_bd_CnVF8V": {
+      "type": "rich-text-h1-bd",
+      "blocks": {
+        "heading_xCabRq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Specially selected for Convenience Stores and Truck Stops",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xCabRq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -155,6 +187,7 @@
     "92e73084-bda3-47a0-a879-0bc76966ac78",
     "dc26a1f8-196b-41a2-a8f9-ffa6d6aa31ae",
     "3df36a31-0525-47a2-84d5-131b8c521b85",
-    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3"
+    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
+    "rich_text_h1_bd_CnVF8V"
   ]
 }
