@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -6,6 +15,29 @@
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "rich_text_h1_bd_rggrGj": {
+      "type": "rich-text-h1-bd",
+      "blocks": {
+        "heading_zDCwwT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bitcoin & Alt Coin Advertising",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zDCwwT"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "951ec20d-dcdd-4692-b246-d53fe8df19b2": {
@@ -193,6 +225,7 @@
   },
   "order": [
     "main",
+    "rich_text_h1_bd_rggrGj",
     "951ec20d-dcdd-4692-b246-d53fe8df19b2",
     "268f6e1c-0a63-4238-8c18-21521b01a448",
     "2645108d-8ca0-4a21-9007-9a0a31be883a",
