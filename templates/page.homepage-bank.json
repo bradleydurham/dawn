@@ -1,5 +1,37 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
+    "rich_text_h1_bd_hbBRM8": {
+      "type": "rich-text-h1-bd",
+      "blocks": {
+        "heading_zQdxnt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Specially Selected for Banks",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zQdxnt"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -178,6 +210,7 @@
     }
   },
   "order": [
+    "rich_text_h1_bd_hbBRM8",
     "main",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
     "92e73084-bda3-47a0-a879-0bc76966ac78",
