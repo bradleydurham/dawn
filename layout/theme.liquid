@@ -12,6 +12,12 @@
     <meta name="theme-color" content="">
     <link rel="canonical" href="{{ canonical_url }}">
 
+    {%- comment %}BD custom{% endcomment -%}
+    {% if template contains 'search' %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+    {%- comment %}end BD custom{% endcomment -%}
+
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
