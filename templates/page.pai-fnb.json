@@ -9,6 +9,29 @@
 */
 {
   "sections": {
+    "rich_text_68aRbK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kEUbWC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Slideshow",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kEUbWC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "slideshow_WYGtYe": {
       "type": "slideshow",
       "blocks": {
@@ -63,6 +86,29 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_BQWAfH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QRWF6E": {
+          "type": "heading",
+          "settings": {
+            "heading": "2400 x 1000",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QRWF6E"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_XHmjRE": {
       "type": "image-banner",
       "settings": {
@@ -81,211 +127,100 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "featured_product_8WFgaz": {
-      "type": "featured-product",
+    "rich_text_ETa99t": {
+      "type": "rich-text",
       "blocks": {
-        "text_9Mf6Fg": {
-          "type": "text",
+        "heading_PXDmTy": {
+          "type": "heading",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_JrrWWN": {
-          "type": "title",
-          "settings": {
+            "heading": "Recommended 3:2 Aspect Ratio",
             "heading_size": "h1"
           }
-        },
-        "price_3qDaCE": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_aKyJxc": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_E3Bjdt": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_f7kA7x": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
         }
       },
       "block_order": [
-        "text_9Mf6Fg",
-        "title_JrrWWN",
-        "price_3qDaCE",
-        "variant_picker_aKyJxc",
-        "quantity_selector_E3Bjdt",
-        "buy_buttons_f7kA7x"
+        "heading_PXDmTy"
       ],
       "settings": {
-        "product": "fnb-topper-inserts-pai-financial",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "featured_product_JknM3J": {
-      "type": "featured-product",
+    "image_banner_DMg8ac": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GB-July-Banner-100.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_PxRMyb": {
+      "type": "rich-text",
       "blocks": {
-        "text_DhQbtg": {
-          "type": "text",
+        "heading_WbJ7JX": {
+          "type": "heading",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_VMXRET": {
-          "type": "title",
-          "settings": {
+            "heading": "2560 x 720",
             "heading_size": "h1"
           }
-        },
-        "price_MkhLch": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_NzFMP3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_wcXFCD": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_8zctfn": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
         }
       },
       "block_order": [
-        "text_DhQbtg",
-        "title_VMXRET",
-        "price_MkhLch",
-        "variant_picker_NzFMP3",
-        "quantity_selector_wcXFCD",
-        "buy_buttons_8zctfn"
+        "heading_WbJ7JX"
       ],
       "settings": {
-        "product": "fnb-wraps-pai-financial",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "right",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "multicolumn_Gjm9BD": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_eGzTGi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dashin-2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "View all Dash In Products",
-            "link": "shopify:\/\/policies\/terms-of-service"
-          }
-        },
-        "column_nDDaDP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PAIWRAPS.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "View all PAI Trust Products",
-            "link": "shopify:\/\/policies\/terms-of-service"
-          }
-        },
-        "column_4T7JkU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Refuel-wraps.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "View all Refuel Products",
-            "link": "shopify:\/\/products\/pai-financial-all-in-one-decals"
-          }
-        },
-        "column_edzj8W": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/gB2B-006-C2023-004.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "View all PAI Compliance Decals",
-            "link": "shopify:\/\/products\/pai-financial-all-in-one-decals"
-          }
-        }
-      },
-      "block_order": [
-        "column_eGzTGi",
-        "column_nDDaDP",
-        "column_4T7JkU",
-        "column_edzj8W"
-      ],
+    "image_banner_VyQgPa": {
+      "type": "image-banner",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "View PAI Products",
-        "button_link": "shopify:\/\/collections\/myproducts",
+        "image": "shopify:\/\/shop_images\/GB-July-Header-GB1-WEB_BANNER-2560x720.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
+    "rich_text_68aRbK",
     "slideshow_WYGtYe",
+    "rich_text_BQWAfH",
     "image_banner_XHmjRE",
     "main",
-    "featured_product_8WFgaz",
-    "featured_product_JknM3J",
-    "multicolumn_Gjm9BD"
+    "rich_text_ETa99t",
+    "image_banner_DMg8ac",
+    "rich_text_PxRMyb",
+    "image_banner_VyQgPa"
   ]
 }
