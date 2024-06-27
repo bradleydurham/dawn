@@ -211,40 +211,8 @@
     },
     "image_banner_XHmjRE": {
       "type": "image-banner",
-      "blocks": {
-        "heading_tq9yqK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_bANffF": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_aHehPD": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_tq9yqK",
-        "text_bANffF",
-        "buttons_aHehPD"
-      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GB-July-Banner-100.jpg",
+        "image": "shopify:\/\/shop_images\/GB-July-Banner-2-100.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -256,6 +224,60 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "slideshow_WYGtYe": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_BaVCBQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GB-July-Banner-2-100.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mdUAyk": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_BaVCBQ",
+        "slide_mdUAyk"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -263,6 +285,7 @@
     "featured_product_8WFgaz",
     "featured_product_JknM3J",
     "multicolumn_Gjm9BD",
-    "image_banner_XHmjRE"
+    "image_banner_XHmjRE",
+    "slideshow_WYGtYe"
   ]
 }
