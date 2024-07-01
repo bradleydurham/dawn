@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -5,6 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Get noticed. Instill trust. Increase transactions.",
             "heading_size": "h0"
@@ -12,6 +22,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Make the most of valuable marketing space with custom graphics for every element of your self-service kiosk, including decals, wraps, toppers, headers, screen graphics and more.",
             "text_style": "body"
@@ -19,6 +30,7 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -35,7 +47,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GB-Header-V5.jpg",
+        "image": "shopify:\/\/shop_images\/GB-July-Header-GB1-WEB_BANNER-2560x720-V2.jpg",
         "image_overlay_opacity": 10,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
