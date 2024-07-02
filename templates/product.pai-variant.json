@@ -37,13 +37,6 @@
             "text_style": "body"
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.custom.b2b_customer_product_data.value.included_sk_us | metafield_text }}{{ product.metafields.custom.b2b_customer_product_data.value.customer_description.value }}",
-            "text_style": "body"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -120,7 +113,6 @@
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
         "sku_aPrk3V",
-        "caption",
         "price",
         "quantity_selector",
         "variant_picker",
