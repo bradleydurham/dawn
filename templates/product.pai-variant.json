@@ -40,7 +40,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.custom.b2b_customer_product_data.value.customer_description.value }}",
+            "text": "{{ product.metafields.custom.b2b_customer_product_data.value.included_sk_us | metafield_text }}{{ product.metafields.custom.b2b_customer_product_data.value.customer_description.value }}",
             "text_style": "body"
           }
         },
