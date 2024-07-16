@@ -14,24 +14,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "",
-            "link": ""
-          }
-        },
         "announcement_9rBdak": {
           "type": "announcement",
           "settings": {
             "text": "40% OFF All STOCK DECALS",
             "link": ""
           }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_9rBdak"
+        "announcement_9rBdak",
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "",
