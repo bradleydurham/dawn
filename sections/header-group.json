@@ -24,8 +24,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "BATM ULTRA NOW AVAILABLE",
-            "link": ""
+            "text": "BATM ULTRA NOW AVAILABLE - LEARN MORE",
+            "link": "shopify:\/\/collections\/general-bytes-kiosk-branding"
           }
         }
       },
