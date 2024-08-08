@@ -14,24 +14,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_9rBdak": {
-          "type": "announcement",
-          "settings": {
-            "text": "40% OFF All STOCK DECALS",
-            "link": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "BATM ULTRA NOW AVAILABLE - LEARN MORE",
             "link": "shopify:\/\/collections\/general-bytes-kiosk-branding"
           }
+        },
+        "announcement_8aTWqz": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hyosung 5400 Now Available",
+            "link": "shopify:\/\/products\/hyosung-mx5400-level-1-atm-wrap"
+          }
         }
       },
       "block_order": [
-        "announcement_9rBdak",
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_8aTWqz"
       ],
       "settings": {
         "color_scheme": "",
