@@ -69,6 +69,7 @@
         },
         "customize_content_rVBwwU": {
           "type": "customize_content",
+          "disabled": true,
           "settings": {
             "c_content_1": "Enter URL of Website to Reference Branding",
             "c_content_2": "Enter Notes as They Pertain to the Graphic",
@@ -90,18 +91,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "MATERIAL OPTIONS",
-            "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright<\/p>",
-            "page": ""
-          }
-        },
-        "dd87abdf-36ac-4138-9b41-688a81efb7da": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
-            "icon": "clipboard",
-            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/><\/p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br\/><\/p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br\/><\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "heading": "HOW IT WORKS",
+            "icon": "check_mark",
+            "content": "<p>How It Works:<br\/><br\/>Insightful Survey: Once you purchase a Brand Boost on our Get Branded website, we'll send you a tailored survey to gather crucial information about your brand, goals, and challenges. This helps us fully understand your unique position in the market.<br\/><br\/>Easy Scheduling: After completing the survey, you can select a date and time that works best for you for a one-on-one consultation. We make scheduling simple with Calendly, so you can focus on what matters most—your business.<br\/><br\/>Comprehensive Market Analysis: Our team will dive deep into the data, using cutting-edge analytics tools to generate a detailed report on your brand's market position. We’ll uncover insights that highlight your strengths and pinpoint areas for growth.<br\/><br\/>Customized Presentation: Based on our analysis, we’ll craft a personalized presentation that not only details your current market standing but also offers actionable recommendations and next-step options to propel your brand forward.<br\/><br\/>Strategic Consultation: During your scheduled 30-minute consultation, we’ll deliver this powerful presentation and discuss tailored brand services and packages designed to help you achieve your goals.<\/p>",
             "page": ""
           }
         },
@@ -129,7 +121,6 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "dd87abdf-36ac-4138-9b41-688a81efb7da",
         "collapsible-row-1"
       ],
       "settings": {
@@ -179,6 +170,7 @@
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1",
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/SharkSkin_3793dae7-0646-4fb7-8d8d-1c5ac4340507.png",
         "height": "adapt",
@@ -264,6 +256,7 @@
     },
     "970ed6bd-7308-47a8-9915-a5afc548314f": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Wrap Installation Process",
         "heading_size": "h1",
