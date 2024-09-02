@@ -95,7 +95,7 @@
         "buy_buttons"
       ],
       "custom_css": [
-        ".product__tax caption rte{display:none;}"
+        ".product__tax {display: none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
