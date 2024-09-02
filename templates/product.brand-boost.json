@@ -113,6 +113,79 @@
         "padding_bottom": 12
       }
     },
+    "multicolumn_kTetxF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_djxFMk": {
+          "type": "column",
+          "settings": {
+            "title": "Insightful Survey",
+            "text": "<p>Once you purchase a Brand Boost on our Get Branded website, we'll send you a tailored survey to gather crucial information about your brand, goals, and challenges. This helps us fully understand your unique position in the market.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4jdNYz": {
+          "type": "column",
+          "settings": {
+            "title": "Easy Scheduling",
+            "text": "<p>After completing the survey, you can select a date and time that works best for you for a one-on-one consultation. We make scheduling simple with Calendly, so you can focus on what matters most—your business.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nc77Ea": {
+          "type": "column",
+          "settings": {
+            "title": "Comprehensive Market Analysis",
+            "text": "<p>Our team will dive deep into the data, using cutting-edge analytics tools to generate a detailed report on your brand's market position. We’ll uncover insights that highlight your strengths and pinpoint areas for growth.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CH66hC": {
+          "type": "column",
+          "settings": {
+            "title": "Customized Presentation",
+            "text": "<p>Based on our analysis, we’ll craft a personalized presentation that not only details your current market standing but also offers actionable recommendations and next-step options to propel your brand forward.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iz6URG": {
+          "type": "column",
+          "settings": {
+            "title": "Strategic Consultation",
+            "text": "<p>During your scheduled 30-minute consultation, we’ll deliver this powerful presentation and discuss tailored brand services and packages designed to help you achieve your goals.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_djxFMk",
+        "column_4jdNYz",
+        "column_nc77Ea",
+        "column_CH66hC",
+        "column_iz6URG"
+      ],
+      "settings": {
+        "title": "How it Works",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa": {
       "type": "image-with-text",
       "blocks": {
@@ -247,6 +320,7 @@
   },
   "order": [
     "main",
+    "multicolumn_kTetxF",
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa",
     "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
     "related-products",
