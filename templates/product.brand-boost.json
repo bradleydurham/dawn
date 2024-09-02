@@ -31,37 +31,35 @@
           "settings": {
           }
         },
-        "sku_aPrk3V": {
-          "type": "sku",
-          "settings": {
-            "text_style": "body"
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "This is a custom item. The image shown is for reference only. Select your custom options below. Please allow 3-5 days after artwork approval for production before shipping. Topper inserts are sold separately. Quantity discounts are available. See the options below.",
-            "text_style": "body"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "description": {
+          "type": "description",
           "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "HOW IT WORKS",
+            "icon": "check_mark",
+            "content": "<p><strong>Insightful Survey:<\/strong> Once you purchase a Brand Boost on our Get Branded website, we'll send you a tailored survey to gather crucial information about your brand, goals, and challenges. This helps us fully understand your unique position in the market.<br\/><br\/><strong>Easy Scheduling:<\/strong> After completing the survey, you can select a date and time that works best for you for a one-on-one consultation. We make scheduling simple with Calendly, so you can focus on what matters most—your business.<br\/><br\/><strong>Comprehensive Market Analysis:<\/strong> Our team will dive deep into the data, using cutting-edge analytics tools to generate a detailed report on your brand's market position. We’ll uncover insights that highlight your strengths and pinpoint areas for growth.<br\/><br\/><strong>Customized Presentation:<\/strong> Based on our analysis, we’ll craft a personalized presentation that not only details your current market standing but also offers actionable recommendations and next-step options to propel your brand forward.<br\/><br\/><strong>Strategic Consultation:<\/strong> During your scheduled 30-minute consultation, we’ll deliver this powerful presentation and discuss tailored brand services and packages designed to help you achieve your goals.<\/p>",
+            "page": ""
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "9547e720-2768-4069-850b-db2fbbeeb506": {
           "type": "design_options",
+          "disabled": true,
           "settings": {
             "design1": "Design It For Me",
             "design2": "Upload My Own Artwork"
@@ -79,31 +77,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "HOW IT WORKS",
-            "icon": "check_mark",
-            "content": "<p>How It Works:<br\/><br\/>Insightful Survey: Once you purchase a Brand Boost on our Get Branded website, we'll send you a tailored survey to gather crucial information about your brand, goals, and challenges. This helps us fully understand your unique position in the market.<br\/><br\/>Easy Scheduling: After completing the survey, you can select a date and time that works best for you for a one-on-one consultation. We make scheduling simple with Calendly, so you can focus on what matters most—your business.<br\/><br\/>Comprehensive Market Analysis: Our team will dive deep into the data, using cutting-edge analytics tools to generate a detailed report on your brand's market position. We’ll uncover insights that highlight your strengths and pinpoint areas for growth.<br\/><br\/>Customized Presentation: Based on our analysis, we’ll craft a personalized presentation that not only details your current market standing but also offers actionable recommendations and next-step options to propel your brand forward.<br\/><br\/>Strategic Consultation: During your scheduled 30-minute consultation, we’ll deliver this powerful presentation and discuss tailored brand services and packages designed to help you achieve your goals.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "SHIPPING",
-            "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
-            "page": ""
           }
         }
       },
@@ -111,17 +86,13 @@
         "vendor",
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
-        "sku_aPrk3V",
-        "caption",
         "price",
-        "quantity_selector",
+        "description",
+        "collapsible-row-0",
         "variant_picker",
         "9547e720-2768-4069-850b-db2fbbeeb506",
         "customize_content_rVBwwU",
-        "buy_buttons",
-        "description",
-        "collapsible-row-0",
-        "collapsible-row-1"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
