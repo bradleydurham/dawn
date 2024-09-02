@@ -94,6 +94,9 @@
         "customize_content_rVBwwU",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".product__tax caption rte{display:none;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
