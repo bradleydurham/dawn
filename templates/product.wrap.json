@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
         "872d1030-32f8-466b-a787-dd5091932543": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"pd_20\">\n{% render 'breadcrumb' %}\n<\/div>"
+            "custom_liquid": "<div class=\"pd_20\">\n{% render 'breadcrumb' %}\n</div>"
           }
         },
         "title": {
@@ -62,8 +71,8 @@
           "type": "customize_content",
           "settings": {
             "c_content_1": "Enter URL of Website to Reference Branding",
-            "c_content_2": "Enter Notes as They Pertain to the Graphic",
-            "c_content_3": ""
+            "c_content_2": "",
+            "c_content_3": "Enter Notes as They Pertain to the Graphic"
           }
         },
         "buy_buttons": {
@@ -83,7 +92,7 @@
           "settings": {
             "heading": "MATERIAL OPTIONS",
             "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive<\/p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright<\/p>",
+            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive</p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright</p>",
             "page": ""
           }
         },
@@ -92,7 +101,7 @@
           "settings": {
             "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
             "icon": "clipboard",
-            "content": "<p>Upon order completion, you will receive an order confirmation email. <br\/><\/p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br\/><\/p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br\/><\/p><p>We require approval of the artwork proof prior to the production of custom items.<\/p>",
+            "content": "<p>Upon order completion, you will receive an order confirmation email. <br/></p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br/></p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br/></p><p>We require approval of the artwork proof prior to the production of custom items.</p>",
             "page": ""
           }
         },
@@ -101,7 +110,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.<\/p>",
+            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.</p>",
             "page": ""
           }
         }
@@ -152,7 +161,7 @@
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our exclusive laminated vinyl material has a textured matte finish that is durable, scuff-resistant, and UV-protected to last for years.<\/p>",
+            "text": "<p>Our exclusive laminated vinyl material has a textured matte finish that is durable, scuff-resistant, and UV-protected to last for years.</p>",
             "text_style": "body"
           }
         },
@@ -160,7 +169,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/sharkskin",
+            "button_link": "shopify://pages/sharkskin",
             "button_style_secondary": false
           }
         }
@@ -171,7 +180,7 @@
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SharkSkin_3793dae7-0646-4fb7-8d8d-1c5ac4340507.png",
+        "image": "shopify://shop_images/SharkSkin_3793dae7-0646-4fb7-8d8d-1c5ac4340507.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -207,7 +216,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Quote Request",
-            "button_link_1": "shopify:\/\/pages\/quote-request",
+            "button_link_1": "shopify://pages/quote-request",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -222,7 +231,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
+        "image": "shopify://shop_images/Banners.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -259,8 +268,8 @@
         "heading": "Wrap Installation Process",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/qVYRiAXKiIo",
-        "cover_image": "shopify:\/\/shop_images\/NCR-SS88-INSTALL-THUMBNAIL.jpg",
+        "video_url": "https://youtu.be/qVYRiAXKiIo",
+        "cover_image": "shopify://shop_images/NCR-SS88-INSTALL-THUMBNAIL.jpg",
         "description": "Installation process for SharkSkin® ATM and Kiosk Wraps",
         "full_width": false,
         "color_scheme": "",
