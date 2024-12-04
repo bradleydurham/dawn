@@ -169,6 +169,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_AayX37": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"product-list\">",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -302,6 +311,7 @@
     "image_collection_banner_bd_GNiq78",
     "multicolumn_zLmXx7",
     "multicolumn_nDWrxq",
+    "custom_liquid_AayX37",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
