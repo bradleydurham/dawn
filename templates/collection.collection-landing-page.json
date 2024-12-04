@@ -109,7 +109,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 4,
@@ -119,7 +119,7 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 20
       }
