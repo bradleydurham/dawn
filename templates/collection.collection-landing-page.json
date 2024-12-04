@@ -121,6 +121,51 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_nDWrxq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pPgyY3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sharkskin-rec-2.jpg",
+            "title": "GB Benefit One",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        },
+        "column_8xJVJ7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sharkskin-rec-2.jpg",
+            "title": "GB Benefit Two",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pPgyY3",
+        "column_8xJVJ7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -171,6 +216,7 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2",
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Related Categories",
         "heading_size": "h1",
@@ -218,6 +264,7 @@
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Banners.jpg",
         "image_overlay_opacity": 0,
@@ -235,10 +282,10 @@
     "05395e5e-c531-4b5a-9f98-289cf80b342a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n        <hr>\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}</h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        </div>\n    </div>\n</div>\n{%- endif -%}",
-        "color_scheme": "",
+        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}</h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        </div>\n    </div>\n</div>\n{%- endif -%}",
+        "color_scheme": "scheme-2",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 96
       }
     },
     "banner": {
@@ -254,6 +301,7 @@
   "order": [
     "image_collection_banner_bd_GNiq78",
     "multicolumn_zLmXx7",
+    "multicolumn_nDWrxq",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",

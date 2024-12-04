@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -16,7 +25,7 @@
           "type": "text",
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>GetBranded.com specializes in high-quality products and services that help independent operators and financial institutions demonstrate compliance, grow their customer base, and increase transactions.<\/p><p><\/p><p><a href=\"\/pages\/about\" target=\"_blank\" title=\"About\">Read More About Us<\/a><\/p><p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact Us\">Contact Us<\/a><\/p><p><\/p><p>All trademarks, service marks, & trade names of GetBranded.com used in the site are trademarks or registered trademarks of Get Branded, LLC.<\/p><p><\/p><p><a href=\"\/policies\/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy<\/a><\/p><p><a href=\"\/policies\/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Terms Of Service<\/a><\/p><p><a href=\"\/pages\/confidentiality-agreement\" target=\"_blank\" title=\"Confidentiality Agreement\">Confidentiality Agreement<\/a><\/p><p><\/p>"
+            "subtext": "<p>GetBranded.com specializes in high-quality products and services that help independent operators and financial institutions demonstrate compliance, grow their customer base, and increase transactions.</p><p></p><p><a href=\"/pages/about\" target=\"_blank\" title=\"About\">Read More About Us</a></p><p><a href=\"/pages/contact\" target=\"_blank\" title=\"Contact Us\">Contact Us</a></p><p></p><p>All trademarks, service marks, & trade names of GetBranded.com used in the site are trademarks or registered trademarks of Get Branded, LLC.</p><p></p><p><a href=\"/policies/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy</a></p><p><a href=\"/policies/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Terms Of Service</a></p><p><a href=\"/pages/confidentiality-agreement\" target=\"_blank\" title=\"Confidentiality Agreement\">Confidentiality Agreement</a></p><p></p>"
           }
         },
         "footer-1": {
@@ -42,7 +51,7 @@
         "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
-        "margin_top": 48,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
