@@ -21,7 +21,6 @@
         },
         "text_EqM9kJ": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ collection.metafields.custom.single_line_description.value }}",
             "text_style": "body"
@@ -54,7 +53,7 @@
         "desktop_content_alignment": "left",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": true
       }
@@ -65,8 +64,8 @@
         "column_UHLaBE": {
           "type": "column",
           "settings": {
-            "title": "Start by choosing the style of wrap for your vending machine",
-            "text": "<p>Select the wrap that fits your machine below. If you don't see it we can make one that is custom fit for your machine. </p>",
+            "title": "Start by choosing the style of wrap for your vending machine.",
+            "text": "<p>Find the ideal wrap for your machine from our selection below, or get a custom-made option tailored just for you.</p>",
             "link_label": "Scroll to the wraps",
             "link": "#product-list"
           }
@@ -74,8 +73,8 @@
         "column_fbgHy3": {
           "type": "column",
           "settings": {
-            "title": "Need a design for your wrap? We can do that too.",
-            "text": "<p>Get branded offers custom design services for any of your vending machine wrap needs. Design services are included in the price of the wrap! Get started by selecting a wrap below. </p>",
+            "title": "Need a design to match your branding? We can do that too.",
+            "text": "<p>Customize the look of your vending machine with our branding design services. The design is included in the cost of the wrap.</p>",
             "link_label": "",
             "link": ""
           }
@@ -83,8 +82,8 @@
         "column_RFpadV": {
           "type": "column",
           "settings": {
-            "title": "Installation is quick and easy",
-            "text": "<p>Get Branded's wraps are easy to install. We can connect you with an installation professional, or choose the DIY route with our comprehensive instructions and videos to guide you. We'll be there to help every step of the way.</p>",
+            "title": "Installation is quick and easy.",
+            "text": "<p>Get Branded offers wraps that are simple to install. Choose between professional assistance or use our step-by-step guides and videos for a easy installation.</p>",
             "link_label": "",
             "link": ""
           }
@@ -96,8 +95,8 @@
         "column_RFpadV"
       ],
       "settings": {
-        "title": "Branded Wraps for Vape Vending Machine",
-        "heading_size": "h2",
+        "title": "Custom Branded Wraps",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -135,8 +134,81 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_nDWrxq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pPgyY3": {
+          "type": "column",
+          "settings": {
+            "image": "{{ collection.metafields.custom.lp1_gb_benefit_1_image.value }}",
+            "title": "User Interface Design",
+            "text": "<p>Need screen interface to align with visual brand language? We'll help create cohesive brand experience.</p>",
+            "link_label": "Get a Quote",
+            "link": "{{ collection.metafields.custom.lp1_gb_benefit_1_link_url.value }}"
+          }
+        },
+        "column_8xJVJ7": {
+          "type": "column",
+          "settings": {
+            "image": "{{ collection.metafields.custom.lp1_gb_benefit_2_image.value }}",
+            "title": "Branded Video Production",
+            "text": "<p>Incorporating video in your brand experience has been proven to boost customer engagement. Allow us to assist in crafting a brand video to enhance the customer experience.</p>",
+            "link_label": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_label.value }}",
+            "link": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_url.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "column_pPgyY3",
+        "column_8xJVJ7"
+      ],
+      "settings": {
+        "title": "On-Screen Services",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_nt7Cik": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Additional Decals",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "customizable-decals",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -183,6 +255,7 @@
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Banners.jpg",
         "image_overlay_opacity": 0,
@@ -197,53 +270,9 @@
         "show_text_below": true
       }
     },
-    "multicolumn_nDWrxq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_pPgyY3": {
-          "type": "column",
-          "settings": {
-            "image": "{{ collection.metafields.custom.lp1_gb_benefit_1_image.value }}",
-            "title": "{{ collection.metafields.custom.lp1_gb_benefit_1_heading.value }}",
-            "text": "<p>{{ collection.metafields.custom.lp1_gb_benefit_1_description | metafield_tag }}</p>",
-            "link_label": "{{ collection.metafields.custom.lp1_gb_benefit_1_link_label.value }}",
-            "link": "{{ collection.metafields.custom.lp1_gb_benefit_1_link_url.value }}"
-          }
-        },
-        "column_8xJVJ7": {
-          "type": "column",
-          "settings": {
-            "image": "{{ collection.metafields.custom.lp1_gb_benefit_2_image.value }}",
-            "title": "{{ collection.metafields.custom.lp1_gb_benefit_2_heading.value }}",
-            "text": "<p>{{ collection.metafields.custom.lp1_gb_benefit_2_description | metafield_tag }}</p>",
-            "link_label": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_label.value }}",
-            "link": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_url.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "column_pPgyY3",
-        "column_8xJVJ7"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 4,
@@ -305,6 +334,7 @@
     },
     "05395e5e-c531-4b5a-9f98-289cf80b342a": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}</h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        </div>\n    </div>\n</div>\n{%- endif -%}",
         "color_scheme": "scheme-2",
@@ -320,6 +350,49 @@
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
+    },
+    "rich_text_gDFaAQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xCFym3": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ collection.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_qfHgHk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ collection.description }}</p>"
+          }
+        },
+        "button_xN3WHV": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xCFym3",
+        "text_qfHgHk",
+        "button_xN3WHV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -327,11 +400,13 @@
     "multicolumn_zLmXx7",
     "custom_liquid_AayX37",
     "featured_collection_bHBFBC",
-    "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "multicolumn_nDWrxq",
+    "featured_collection_nt7Cik",
+    "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "05395e5e-c531-4b5a-9f98-289cf80b342a",
-    "banner"
+    "banner",
+    "rich_text_gDFaAQ"
   ]
 }
