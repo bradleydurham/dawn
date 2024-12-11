@@ -21,6 +21,7 @@
         },
         "text_EqM9kJ": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ collection.metafields.custom.single_line_description.value }}",
             "text_style": "body"
@@ -28,6 +29,7 @@
         },
         "buttons_dPhBqi": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Scroll to Products",
             "button_link_1": "#product-list",
@@ -52,8 +54,8 @@
         "desktop_content_alignment": "left",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -63,10 +65,9 @@
         "column_UHLaBE": {
           "type": "column",
           "settings": {
-            "image": "{{ collection.metafields.custom.lp1_benefit_1_icon.value }}",
-            "title": "{{ collection.metafields.custom.lp1_benefit_1_heading.value }}",
-            "text": "<p>{{ collection.metafields.custom.lp1_benefit_1_description | metafield_tag }}</p>",
-            "link_label": "",
+            "title": "Start by choosing the style of wrap for your vending machine",
+            "text": "<p>Select the wrap that fits your machine below. If you don't see it we can make one that is custom fit for your machine. </p>",
+            "link_label": "Scroll to the wraps",
             "link": ""
           }
         },
@@ -89,30 +90,19 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_FXcNDP": {
-          "type": "column",
-          "settings": {
-            "image": "{{ collection.metafields.custom.lp1_benefit_4_icon.value }}",
-            "title": "{{ collection.metafields.custom.lp1_benefit_4_heading.value }}",
-            "text": "<p>{{ collection.metafields.custom.lp1_benefit_4_description | metafield_tag }}</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_UHLaBE",
         "column_fbgHy3",
-        "column_RFpadV",
-        "column_FXcNDP"
+        "column_RFpadV"
       ],
       "settings": {
-        "title": "",
+        "title": "Branded Wraps for Vape Vending Machine",
         "heading_size": "h2",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -122,6 +112,82 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 20
+      }
+    },
+    "featured_collection_bHBFBC": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "vape-vending-machines",
+        "products_to_show": 6,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4876907b-1831-40fd-8ec7-f327f05e6e55": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't see what you need? We Customize.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
+            "text_style": "body"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Custom Decal Calculator",
+            "button_link_1": "shopify://products/customcalculator",
+            "button_style_secondary_1": false,
+            "button_label_2": "Quote Request",
+            "button_link_2": "shopify://pages/quote-request",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banners.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn_nDWrxq": {
@@ -180,6 +246,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 4,
@@ -239,55 +306,6 @@
         "padding_bottom": 36
       }
     },
-    "4876907b-1831-40fd-8ec7-f327f05e6e55": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Don't see what you need? We Customize.",
-            "heading_size": "h1"
-          }
-        },
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
-            "text_style": "body"
-          }
-        },
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Custom Decal Calculator",
-            "button_link_1": "shopify://products/customcalculator",
-            "button_style_secondary_1": false,
-            "button_label_2": "Quote Request",
-            "button_link_2": "shopify://pages/quote-request",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1",
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
-        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Banners.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "05395e5e-c531-4b5a-9f98-289cf80b342a": {
       "type": "custom-liquid",
       "settings": {
@@ -310,11 +328,12 @@
   "order": [
     "image_collection_banner_bd_GNiq78",
     "multicolumn_zLmXx7",
+    "featured_collection_bHBFBC",
+    "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "multicolumn_nDWrxq",
     "custom_liquid_AayX37",
     "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
-    "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "05395e5e-c531-4b5a-9f98-289cf80b342a",
     "banner"
   ]
