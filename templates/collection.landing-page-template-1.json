@@ -46,16 +46,16 @@
       ],
       "settings": {
         "image": "{{ collection.image }}",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "multicolumn_zLmXx7": {
