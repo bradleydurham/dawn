@@ -83,9 +83,8 @@
         "column_RFpadV": {
           "type": "column",
           "settings": {
-            "image": "{{ collection.metafields.custom.lp1_benefit_3_icon.value }}",
-            "title": "{{ collection.metafields.custom.lp1_benefit_3_heading.value }}",
-            "text": "<p>{{ collection.metafields.custom.lp1_benefit_3_description | metafield_tag }}</p>",
+            "title": "Installation is quick and easy",
+            "text": "<p>Get Branded's wraps are easy to install. We can connect you with an installation professional, or choose the DIY route with our comprehensive instructions and videos to guide you. We'll be there to help every step of the way.</p>",
             "link_label": "",
             "link": ""
           }
