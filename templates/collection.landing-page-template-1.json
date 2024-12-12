@@ -111,6 +111,26 @@
         "padding_bottom": 20
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "custom_liquid_AayX37": {
       "type": "custom-liquid",
       "settings": {
@@ -202,7 +222,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "customizable-decals",
-        "products_to_show": 10,
+        "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
@@ -268,27 +288,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": true,
-        "filter_type": "vertical",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "34bf2c81-31ae-43d4-a307-3139501a5ed2": {
@@ -450,12 +449,12 @@
   "order": [
     "image_collection_banner_bd_GNiq78",
     "multicolumn_zLmXx7",
+    "product-grid",
     "custom_liquid_AayX37",
     "featured_collection_bHBFBC",
     "multicolumn_nDWrxq",
     "featured_collection_nt7Cik",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
-    "product-grid",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "05395e5e-c531-4b5a-9f98-289cf80b342a",
     "banner",
