@@ -16,24 +16,23 @@
           "type": "heading",
           "settings": {
             "heading": "{{ collection.title }}",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_EqM9kJ": {
           "type": "text",
           "settings": {
             "text": "{{ collection.metafields.custom.single_line_description.value }}",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "buttons_dPhBqi": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Scroll to Products",
-            "button_link_1": "#product-list",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn More",
+            "button_label_1": "Why should I wrap my dispenser?",
+            "button_link_1": "#collection-description",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "#collection-description",
             "button_style_secondary_2": true
           }
