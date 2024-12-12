@@ -74,7 +74,7 @@
           "type": "column",
           "settings": {
             "title": "Need a design to match your branding? We can do that too.",
-            "text": "<p>Customize the look of your vending machine with our branding design services. The design is included in the cost of the wrap.</p>",
+            "text": "<p>Customize the look of your vending machine with our branding design services. <strong>The design is included in the cost of the wrap.</strong></p>",
             "link_label": "",
             "link": ""
           }
