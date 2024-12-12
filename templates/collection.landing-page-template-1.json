@@ -198,7 +198,7 @@
       "settings": {
         "title": "Additional Decals",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>Not looking to wrap the whole vending machine? Our standard decals are a perfect place to start.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "customizable-decals",
