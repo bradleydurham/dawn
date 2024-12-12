@@ -28,6 +28,7 @@
         },
         "buttons_dPhBqi": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Why should I wrap my dispenser?",
             "button_link_1": "#collection-description",
@@ -429,7 +430,7 @@
         "buttons_WANcnY"
       ],
       "custom_css": [
-        "@media screen and (max-width: 749px) {.banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box {color: white;} .banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box h2{color: white;}}"
+        "@media screen and (max-width: 749px) {.banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box {color: white; } .banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box h2 {color: white; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/2.png",
