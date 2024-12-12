@@ -64,8 +64,8 @@
         "column_UHLaBE": {
           "type": "column",
           "settings": {
-            "title": "Start by choosing the style of wrap for your vending machine.",
-            "text": "<p>Find the ideal wrap for your machine from our selection below, or get a custom-made option tailored just for you.</p>",
+            "title": "Start by choosing your type of vending machine.",
+            "text": "<p>Find your machine from the selection below, or get a custom-made option tailored just for you.</p>",
             "link_label": "",
             "link": "#product-list"
           }
