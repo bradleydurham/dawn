@@ -167,7 +167,7 @@
             "image": "{{ collection.metafields.custom.lp1_gb_benefit_2_image.value }}",
             "title": "Branded Video Production",
             "text": "<p>Incorporating video in your brand experience has been proven to boost customer engagement. Allow us to assist in crafting a brand video to enhance the customer experience.</p>",
-            "link_label": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_label.value }}",
+            "link_label": "Get a Quote",
             "link": "{{ collection.metafields.custom.lp1_gb_benefit_2_link_url.value }}"
           }
         }
@@ -202,11 +202,11 @@
         "show_description": false,
         "description_style": "body",
         "collection": "customizable-decals",
-        "products_to_show": 25,
+        "products_to_show": 10,
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "outline",
+        "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "adapt",
@@ -354,13 +354,6 @@
     "rich_text_gDFaAQ": {
       "type": "rich-text",
       "blocks": {
-        "heading_xCFym3": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ collection.title }}",
-            "heading_size": "h1"
-          }
-        },
         "text_qfHgHk": {
           "type": "text",
           "settings": {
@@ -381,7 +374,6 @@
         }
       },
       "block_order": [
-        "heading_xCFym3",
         "text_qfHgHk",
         "button_xN3WHV"
       ],
