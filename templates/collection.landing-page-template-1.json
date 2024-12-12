@@ -222,7 +222,7 @@
         "description": "<p>Not looking to wrap the whole vending machine? Our standard decals are a perfect place to start.</p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "customizable-decals",
+        "collection": "additional-products-vape",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
