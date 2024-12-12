@@ -123,7 +123,7 @@
     "featured_collection_bHBFBC": {
       "type": "featured-collection",
       "settings": {
-        "title": "Choose your vape dispenser template",
+        "title": "Choose your vape dispenser wrap template",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -177,7 +177,7 @@
         "column_8xJVJ7"
       ],
       "settings": {
-        "title": "On-Screen Services",
+        "title": "Custom Screen Interface Services",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
