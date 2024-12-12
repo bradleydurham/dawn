@@ -66,7 +66,7 @@
           "settings": {
             "title": "Start by choosing the style of wrap for your vending machine.",
             "text": "<p>Find the ideal wrap for your machine from our selection below, or get a custom-made option tailored just for you.</p>",
-            "link_label": "Choose your wrap template",
+            "link_label": "Choose your machine",
             "link": "#product-list"
           }
         },
