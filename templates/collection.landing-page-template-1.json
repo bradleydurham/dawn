@@ -64,17 +64,17 @@
         "column_UHLaBE": {
           "type": "column",
           "settings": {
-            "title": "Start by choosing your type of vending machine.",
-            "text": "<p>Find your machine from the selection below, or get a custom-made option tailored just for you.</p>",
-            "link_label": "",
+            "title": "Choose Your Vape Vending Machine",
+            "text": "<p>Find your machine from the selection below.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
+            "link_label": "Custom Kiosk Templating",
             "link": "#product-list"
           }
         },
         "column_fbgHy3": {
           "type": "column",
           "settings": {
-            "title": "Need a design to match your branding? We can do that too.",
-            "text": "<p>Customize the look of your vending machine with our branding design services. <strong>The design is included in the cost of the wrap.</strong></p>",
+            "title": "Choose Your Design",
+            "text": "<p>Pick from a selection of pre-made designs or upload your own for a completely custom wrap (Make your selection from the product page). </p><p><strong>Don’t have a design?</strong> Let our experienced team of designers make one for you! Design services free with each wrap purchase.*</p>",
             "link_label": "",
             "link": ""
           }
@@ -82,10 +82,10 @@
         "column_RFpadV": {
           "type": "column",
           "settings": {
-            "title": "Installation is quick and easy.",
-            "text": "<p>Get Branded offers wraps that are simple to install. Choose between professional assistance or use our step-by-step guides and videos for a easy installation.</p>",
-            "link_label": "",
-            "link": ""
+            "title": "Choose Your Installation",
+            "text": "<p>Get fast, professional installation services from our nation-wide team of installers.</p><p><strong>Feeling adventurous?</strong> </p><p>Watch our step-by-step guide on how to wrap your machine yourself</p>",
+            "link_label": "Installation Services",
+            "link": "https://getbranded.com/pages/installation-quote"
           }
         }
       },
@@ -117,7 +117,7 @@
         "heading_FUQbgM": {
           "type": "heading",
           "settings": {
-            "heading": "Choose your vape vending machine",
+            "heading": "Choose Your Vending Machine",
             "heading_size": "h2"
           }
         }
@@ -160,8 +160,8 @@
         "column_pPgyY3": {
           "type": "column",
           "settings": {
-            "title": "Vending Interface Design",
-            "text": "<p>Need screen interface to align with visual brand language? We'll help create cohesive brand experience.</p>",
+            "title": "Interface Design",
+            "text": "<p>Beyond wraps, our team can create an interface specific to your machine, your brand, your offerings, giving your customers a completely unique experience.</p>",
             "link_label": "Get a Quote",
             "link": "https://getbranded.com/pages/quote-request"
           }
@@ -169,8 +169,8 @@
         "column_8xJVJ7": {
           "type": "column",
           "settings": {
-            "title": "Branded Video Production",
-            "text": "<p>Incorporating video in your brand experience has been proven to boost customer engagement. Allow us to assist in crafting a brand video to enhance the customer experience.</p>",
+            "title": "Video Production",
+            "text": "<p>Get the word out! Take your marketing to the next level with uniquely crafted videos that truly showcase your brand.</p>",
             "link_label": "Get a Quote",
             "link": "https://getbranded.com/pages/quote-request"
           }
@@ -181,7 +181,7 @@
         "column_8xJVJ7"
       ],
       "settings": {
-        "title": "Custom Screen Interface Services",
+        "title": "Custom On-Screen Services",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
