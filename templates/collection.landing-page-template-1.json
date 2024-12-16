@@ -83,7 +83,7 @@
           "type": "column",
           "settings": {
             "title": "3. Installation",
-            "text": "<p>Get fast, professional installation services from our nation-wide team of installers.</p><p><strong>Feeling adventurous?</strong> </p><p>Watch our step-by-step guide on how to wrap your machine yourself</p>",
+            "text": "<p>Watch our step-by-step guide on how to wrap your machine yourself</p><p>.</p><p>Get fast, professional installation services from our nation-wide team of installers.</p><p></p>",
             "link_label": "Installation Services",
             "link": "https://getbranded.com/pages/installation-quote"
           }
