@@ -64,7 +64,7 @@
         "column_UHLaBE": {
           "type": "column",
           "settings": {
-            "title": "1. Choose Your Vape Vending Machine",
+            "title": "1. Choose Your Machine",
             "text": "<p>Find your machine from the selection below.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
             "link_label": "Custom Kiosk Templating",
             "link": "#product-list"
@@ -73,7 +73,7 @@
         "column_fbgHy3": {
           "type": "column",
           "settings": {
-            "title": "2. Choose Your Design",
+            "title": "2. Design",
             "text": "<p>Pick from a selection of pre-made designs or upload your own for a completely custom wrap (Make your selection from the product page). </p><p><strong>Don’t have a design?</strong> Let our experienced team of designers make one for you! Design services free with each wrap purchase.*</p>",
             "link_label": "",
             "link": ""
@@ -82,7 +82,7 @@
         "column_RFpadV": {
           "type": "column",
           "settings": {
-            "title": "3. Choose Your Installation",
+            "title": "3. Installation",
             "text": "<p>Get fast, professional installation services from our nation-wide team of installers.</p><p><strong>Feeling adventurous?</strong> </p><p>Watch our step-by-step guide on how to wrap your machine yourself</p>",
             "link_label": "Installation Services",
             "link": "https://getbranded.com/pages/installation-quote"
