@@ -74,8 +74,8 @@
           "type": "column",
           "settings": {
             "title": "2. Design",
-            "text": "<p>Pick from a selection of pre-made designs or upload your own for a completely custom wrap (Make your selection from the product page). </p><p><strong>Don’t have a design?</strong> Let our experienced team of designers make one for you! Design services free with each wrap purchase.*</p>",
-            "link_label": "",
+            "text": "<p>Upload your logo and let our experienced team of designers bring your brand to life. </p>",
+            "link_label": "Upload Your Files",
             "link": ""
           }
         },
