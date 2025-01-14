@@ -137,7 +137,7 @@
     "custom_liquid_bqDRn8": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"\"></div>",
+        "custom_liquid": "<div id=\"product-list\"></div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
