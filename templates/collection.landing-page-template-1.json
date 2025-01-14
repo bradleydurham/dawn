@@ -65,7 +65,7 @@
           "type": "column",
           "settings": {
             "title": "1. Choose Your Machine",
-            "text": "<p>Find your machine from the <a href=\"#product-list\" title=\"Product Listing\">selection below</a>.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
+            "text": "<p>Find your machine <a href=\"#product-list\" title=\"Product Listing\">below</a>.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
             "link_label": "Custom Kiosk Templating",
             "link": "https://getbranded.com/products/gbadd-on-top-secret-project"
           }
@@ -83,7 +83,7 @@
           "type": "column",
           "settings": {
             "title": "3. Installation",
-            "text": "<p>Watch our step-by-step guide on how to wrap your machine yourself</p><p>.</p><p>Get fast, professional installation services from our nation-wide team of installers.</p><p></p>",
+            "text": "<p>Watch our step-by-step guide on how to wrap your machine yourself.</p><p>Get fast, professional installation services from our nation-wide team of installers.</p><p></p>",
             "link_label": "Installation Services",
             "link": "https://getbranded.com/pages/installation-quote"
           }
