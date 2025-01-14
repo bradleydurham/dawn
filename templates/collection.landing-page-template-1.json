@@ -65,9 +65,9 @@
           "type": "column",
           "settings": {
             "title": "1. Choose Your Machine",
-            "text": "<p>Find your machine from the selection below.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
+            "text": "<p>Find your machine from the <a href=\"#product-list\" title=\"Product Listing\">selection below</a>.</p><p><strong>Don’t see your machine?</strong> </p><p>Get a custom-made wrap designed and fit specifically for your machine</p>",
             "link_label": "Custom Kiosk Templating",
-            "link": "#product-list"
+            "link": "https://getbranded.com/products/gbadd-on-top-secret-project"
           }
         },
         "column_fbgHy3": {
