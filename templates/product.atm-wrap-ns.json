@@ -36,6 +36,15 @@
             "text_style": "body"
           }
         },
+        "collapsible_tab_Q666jH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "icon": "eye",
+            "content": "{{ block.settings.page.content }}<p>This is a custom item. The image shown is for reference only. Select your custom options below. Please allow 3-5 days after artwork approval for production before shipping. Topper inserts are sold separately. Quantity discounts are available. See the options below.</p>",
+            "page": ""
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -79,10 +88,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -116,6 +121,7 @@
         "872d1030-32f8-466b-a787-dd5091932543",
         "title",
         "sku_aPrk3V",
+        "collapsible_tab_Q666jH",
         "caption",
         "price",
         "quantity_selector",
@@ -123,7 +129,6 @@
         "9547e720-2768-4069-850b-db2fbbeeb506",
         "customize_content_rVBwwU",
         "buy_buttons",
-        "description",
         "collapsible-row-0",
         "dd87abdf-36ac-4138-9b41-688a81efb7da",
         "collapsible-row-1"
