@@ -48,7 +48,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -70,7 +70,7 @@
           "settings": {
             "heading": "Additional Information",
             "icon": "eye",
-            "content": "<p><strong>Brand:</strong> </p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].brand | metafield_tag }}<p><strong>Model:</strong> {{ metaobjects.tabbed_data[\"genmega-onyx\"].model.value }}</p><p><strong>Repair Item: </strong></p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].repair_item | metafield_tag }}<p><strong>ATM Style: </strong></p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].atm_style | metafield_tag }}<p><strong>Condition: </strong></p><p><strong>Vendor Item Number: </strong>{{ metaobjects.tabbed_data[\"genmega-onyx\"].vendor_item_number.value }}</p>",
+            "content": "<p><strong>Brand:</strong> </p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].brand | metafield_tag }}<p><strong>Model:</strong> {{ metaobjects.tabbed_data[\"genmega-onyx\"].model.value }}</p><p><strong>Repair Item: </strong></p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].repair_item | metafield_tag }}<p><strong>ATM Style: </strong></p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].atm_style | metafield_tag }}<p><strong>Condition: </strong></p>{{ metaobjects.tabbed_data[\"genmega-onyx\"].condition | metafield_tag }}<p><strong>Vendor Item Number: </strong>{{ metaobjects.tabbed_data[\"genmega-onyx\"].vendor_item_number.value }}</p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
