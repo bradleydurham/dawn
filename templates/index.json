@@ -175,14 +175,114 @@
         "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 28,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_byNXtP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4PgcPV": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7QcDDY": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4PgcPV",
+        "column_7QcDDY"
+      ],
+      "settings": {
+        "title": "ATM - Shop By Manufacturer",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "collage_9CeQ9y": {
+      "type": "collage",
+      "blocks": {
+        "collection_EADxXH": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_BzV7XA": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_8fBq8F": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_EADxXH",
+        "collection_BzV7XA",
+        "collection_8fBq8F"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_9GQg7t": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Used_Resized_to_Advanced_Repair_sizing.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
       }
     }
   },
   "order": [
     "multicolumn_m3MUXD",
     "slideshow_qM9gpL",
-    "featured_collection"
+    "featured_collection",
+    "multicolumn_byNXtP",
+    "collage_9CeQ9y",
+    "image_banner_9GQg7t"
   ]
 }
