@@ -74,28 +74,13 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
+        "collapsible_tab_eq8hjD": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
+            "heading": "Brochures, Manuals, Error Codes, Etc.",
+            "icon": "lightning_bolt",
             "content": "",
             "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
@@ -110,9 +95,7 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible_tab_eq8hjD"
       ],
       "settings": {
         "enable_sticky_info": true,
