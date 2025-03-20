@@ -157,7 +157,7 @@
         "collection": "all",
         "products_to_show": 8,
         "title": "Trending Products",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
