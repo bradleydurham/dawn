@@ -142,24 +142,24 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#ffffff",
+          "background": "{{ shop.brand.colors.primary[0].foreground }}",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
+          "text": "{{ shop.brand.colors.primary[0].background }}",
+          "button": "{{ shop.brand.colors.secondary[1].background }}",
           "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "secondary_button_label": "{{ shop.brand.colors.secondary[1].background }}",
+          "shadow": "{{ shop.brand.colors.primary[0].background }}"
         }
       },
       "scheme-2": {
         "settings": {
           "background": "#f3f3f3",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
+          "text": "{{ shop.brand.colors.primary[0].background }}",
+          "button": "{{ shop.brand.colors.secondary[1].background }}",
           "button_label": "#f3f3f3",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "secondary_button_label": "{{ shop.brand.colors.secondary[1].background }}",
+          "shadow": "{{ shop.brand.colors.primary[0].background }}"
         }
       },
       "scheme-3": {
