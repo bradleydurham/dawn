@@ -183,6 +183,14 @@
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
+      },
+      "17181145828000874732": {
+        "type": "shopify://apps/antigro-getbranded-2022/blocks/antigroDesigner/3b537b20-3928-47f6-a141-d0dfab779884",
+        "disabled": false,
+        "settings": {
+          "advancedConfig": "",
+          "legacyThemeConfig": ""
+        }
       }
     },
     "color_schemes": {
