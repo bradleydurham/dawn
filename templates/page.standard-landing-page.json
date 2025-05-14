@@ -263,7 +263,7 @@
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
@@ -271,7 +271,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "color_scheme": "scheme-c8ba7399-0d4d-4192-bb80-a45081c7f8a2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
