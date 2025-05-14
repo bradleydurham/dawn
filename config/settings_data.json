@@ -263,7 +263,7 @@
       "scheme-c8ba7399-0d4d-4192-bb80-a45081c7f8a2": {
         "settings": {
           "background": "#ffffff",
-          "background_gradient": "linear-gradient(0deg, rgba(58, 117, 177, 1) 23%, rgba(94, 163, 206, 1) 75%, rgba(217, 27, 92, 1) 91%)",
+          "background_gradient": "linear-gradient(0deg, rgba(58, 117, 177, 1) 23%, rgba(94, 163, 206, 1) 92%, rgba(217, 27, 92, 1) 100%)",
           "text": "#121212",
           "button": "#d91b5c",
           "button_label": "#ffffff",
