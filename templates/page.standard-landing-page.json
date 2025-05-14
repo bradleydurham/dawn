@@ -23,14 +23,14 @@
         "heading_UL8KK3": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Laundromat",
             "heading_size": "h1"
           }
         },
         "text_9eHDNY": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Stand out with Impactful and cohesive displays",
             "text_style": "body"
           }
         }
@@ -46,10 +46,10 @@
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
