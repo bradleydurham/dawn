@@ -60,7 +60,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/ColorPop-rec.jpg",
-            "title": "Benefit 1",
+            "title": "Clear Instructions for Customers",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/ColorPop-rec.jpg",
-            "title": "Benefit 2",
+            "title": "Cohesive Visuals",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -80,7 +80,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/ColorPop-rec.jpg",
-            "title": "Benefit 3",
+            "title": "Easy to Read",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -90,7 +90,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/ColorPop-rec.jpg",
-            "title": "Benefit 4",
+            "title": "Very Durable",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -127,7 +127,7 @@
         "heading_iHDUEj": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Get Branded Is the Leader In High Quality Laundromat Signage",
             "heading_size": "h1"
           }
         },
@@ -136,23 +136,11 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
-        },
-        "button_KbQ3Az": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_iHDUEj",
-        "text_EKLx3L",
-        "button_KbQ3Az"
+        "text_EKLx3L"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
