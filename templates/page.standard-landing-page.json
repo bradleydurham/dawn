@@ -53,6 +53,37 @@
         "show_text_below": false
       }
     },
+    "rich_text_ADpfKX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iHDUEj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Use Laundromat Decals & Signage?",
+            "heading_size": "h1"
+          }
+        },
+        "text_EKLx3L": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Labeling your machines and posting clear washing machine instructions is essential for user convenience and efficient operations in a busy self-serve laundry shop.</p><p>Let our laundromat decals show your customers the way and help keep your laundromat business running smoothly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iHDUEj",
+        "text_EKLx3L"
+      ],
+      "name": "WHY DECALS?",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_q7Yir6": {
       "type": "multicolumn",
       "blocks": {
@@ -171,37 +202,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_ADpfKX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iHDUEj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why Use Laundromat Decals & Signage?",
-            "heading_size": "h1"
-          }
-        },
-        "text_EKLx3L": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Labeling your machines and posting clear washing machine instructions is essential for user convenience and efficient operations in a busy self-serve laundry shop.</p><p>Let our laundromat decals show your customers the way and help keep your laundromat business running smoothly.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iHDUEj",
-        "text_EKLx3L"
-      ],
-      "name": "WHY DECALS?",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "multirow_6gHjCC": {
@@ -377,9 +377,9 @@
   "order": [
     "main",
     "image_banner_UxPeYn",
+    "rich_text_ADpfKX",
     "multicolumn_q7Yir6",
     "multicolumn_xqDHKE",
-    "rich_text_ADpfKX",
     "multirow_6gHjCC",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
