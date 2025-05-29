@@ -59,7 +59,6 @@
         "column_UFrxPn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ColorPop-rec.jpg",
             "title": "Clear Instructions for Customers",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -69,7 +68,6 @@
         "column_j46QDc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ColorPop-rec.jpg",
             "title": "Cohesive Visuals",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -79,7 +77,6 @@
         "column_NTR9ar": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ColorPop-rec.jpg",
             "title": "Easy to Read",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -89,7 +86,6 @@
         "column_gPTbCB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ColorPop-rec.jpg",
             "title": "Very Durable",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -109,6 +105,63 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_xqDHKE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_migbVz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XYbqJa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Ozone Laundry Decals",
+            "link": ""
+          }
+        },
+        "column_G37gED": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_migbVz",
+        "column_XYbqJa",
+        "column_G37gED"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -317,74 +370,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_xqDHKE": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_migbVz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XYbqJa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "Ozone Laundry Decals",
-            "link": ""
-          }
-        },
-        "column_G37gED": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_migbVz",
-        "column_XYbqJa",
-        "column_G37gED"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Featured Products",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "image_banner_UxPeYn",
     "multicolumn_q7Yir6",
+    "multicolumn_xqDHKE",
     "rich_text_ADpfKX",
     "multirow_6gHjCC",
     "multicolumn_eCzqJ6",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
-    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
-    "multicolumn_xqDHKE"
+    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3"
   ]
 }
