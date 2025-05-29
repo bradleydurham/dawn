@@ -23,14 +23,14 @@
         "heading_UL8KK3": {
           "type": "heading",
           "settings": {
-            "heading": "Laundromat",
-            "heading_size": "h1"
+            "heading": "LAUNDRY",
+            "heading_size": "h0"
           }
         },
         "text_9eHDNY": {
           "type": "text",
           "settings": {
-            "text": "Stand out with Impactful and cohesive displays",
+            "text": "Keep your laundromat looking fresh.",
             "text_style": "body"
           }
         }
@@ -39,18 +39,18 @@
         "heading_UL8KK3",
         "text_9eHDNY"
       ],
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/AdobeStock_882405459.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "multicolumn_q7Yir6": {
@@ -103,7 +103,6 @@
         "column_NTR9ar",
         "column_gPTbCB"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -142,7 +141,6 @@
         "heading_iHDUEj",
         "text_EKLx3L"
       ],
-      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -203,7 +201,6 @@
         "row_XPyM9m"
       ],
       "disabled": true,
-      "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
         "desktop_image_width": "medium",
@@ -248,7 +245,6 @@
         "column_Xn3dHw",
         "column_G3btFW"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h2",
