@@ -274,9 +274,9 @@
     "5450a3d1-ec92-4531-8d21-9c3f40896abb": {
       "type": "featured-collection",
       "settings": {
-        "title": "{{ section.settings.collection.title }}",
+        "title": "",
         "heading_size": "h1",
-        "description": "<p>Lorem Ipsum Etc</p>",
+        "description": "<p><strong>Featured Products</strong></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "laundromat",
