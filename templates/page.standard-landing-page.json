@@ -154,9 +154,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "Washing Machine Decals",
+            "text": "<p>Fill line, load size and more. Keep your customers informed and your laundromat looking fresh.</p>",
+            "link_label": "Shop Washing Machine Decals",
             "link": ""
           }
         },
@@ -164,9 +164,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "Ozone Laundry Decals",
+            "title": "Ozone Laundry Decals",
+            "text": "<p>Let your customers know you're using the latest in eco-friendly laundry technology! </p>",
+            "link_label": "Shop Ozone Laundry Decals",
             "link": ""
           }
         },
@@ -174,10 +174,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/AdobeStock_728488391-v2.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "title": "Laundromat Signage",
+            "text": "<p>Keep everyone informed with hours of operation, services offered and laundromat rules signage for your entire facility.</p>",
+            "link_label": "Shop Laundromat Signage",
+            "link": "https://getbranded.com/collections/laundromat"
           }
         }
       },
