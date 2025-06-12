@@ -40,9 +40,15 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "icon": "eye",
-            "content": "{{ block.settings.page.content }}<p>This is a custom item. The image shown is for reference only. Select your custom options below. Please allow 3-5 days after artwork approval for production before shipping. Topper inserts are sold separately. Quantity discounts are available. See the options below.</p>",
+            "icon": "clipboard",
+            "content": "{{ block.settings.page.content }}",
             "page": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
           }
         },
         "design_options_XL6CXX": {
@@ -50,20 +56,6 @@
           "settings": {
             "design1": "Design It For Me",
             "design2": "Upload My Own Artwork"
-          }
-        },
-        "customize_content_rVBwwU": {
-          "type": "customize_content",
-          "settings": {
-            "c_content_1": "Enter URL of Website to Reference Branding",
-            "c_content_2": "",
-            "c_content_3": "Enter Notes as They Pertain to the Graphic"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -81,22 +73,17 @@
             "show_gift_card_recipient": true
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
+        "volume_discount_xHJABV": {
+          "type": "volume_discount",
           "settings": {
-            "heading": "MATERIAL OPTIONS",
-            "icon": "leather",
-            "content": "<p>SharkSkin® - GetBranded's exclusive high-quality vinyl with textured laminate and matte finish for added durability, now with 3M™ adhesive</p><p>ColorPop™ - high-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright</p>",
-            "page": ""
-          }
-        },
-        "dd87abdf-36ac-4138-9b41-688a81efb7da": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "ARTWORK UPLOAD & PROOF APPROVAL",
-            "icon": "clipboard",
-            "content": "<p>Upon order completion, you will receive an order confirmation email. <br/></p><p>If you have chosen \"Upload My Own Design\", instructions for uploading your artwork will be in the confirmation email.<br/></p><p>If you have chosen \"Design It For Me\", you will be able to reply with ideas and directions for your custom design.  <br/></p><p>We require approval of the artwork proof prior to the production of custom items.</p>",
-            "page": ""
+            "vol_discount_header": "",
+            "vol_dicount_1": "",
+            "vol_dicount_2": "",
+            "vol_dicount_3": "",
+            "vol_dicount_4": "",
+            "vol_dicount_5": "",
+            "vol_dicount_6": "",
+            "vol_dicount_7": ""
           }
         },
         "collapsible-row-1": {
@@ -115,14 +102,12 @@
         "title",
         "sku_aPrk3V",
         "collapsible_tab_Q666jH",
-        "design_options_XL6CXX",
-        "customize_content_rVBwwU",
         "variant_picker",
+        "design_options_XL6CXX",
         "quantity_selector",
         "price",
         "buy_buttons",
-        "collapsible-row-0",
-        "dd87abdf-36ac-4138-9b41-688a81efb7da",
+        "volume_discount_xHJABV",
         "collapsible-row-1"
       ],
       "settings": {
