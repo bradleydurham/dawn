@@ -78,3 +78,19 @@
     </option>
   {%- endif -%}
 {%- endfor -%}
+
+{%- comment -%}
+  -- [JUN 2025] Added by Tekhaus to display contextual links below ATM Wrap option buttons
+  -- JS to handle smooth scrolling when links are clicked is in assets/atm-wrap-custom.js
+{%- endcomment -%}
+{%- if product.template_suffix == "atm-wrap-ns" -%}
+  {%- if option.name == "Cabinet Style" -%}
+    <p class="product__text inline-richtext caption-with-letter-spacing">
+      <a href="#cabinet-differences" id="link-to-cabinet-differences">What's the difference?</a>
+    </p>
+  {%- elsif option.name == "Material" -%}
+    <p class="product__text inline-richtext caption-with-letter-spacing">
+      See material comparisons <a href="#material-comparisons" id="link-to-material-comparisons">below</a>
+    </p>
+  {%- endif -%}
+{%- endif -%}
