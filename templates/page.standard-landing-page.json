@@ -177,7 +177,7 @@
             "title": "Laundromat Signage",
             "text": "<p>Keep everyone informed with hours of operation, services offered and laundromat rules signage for your entire facility.</p>",
             "link_label": "Shop Laundromat Signage",
-            "link": "https://getbranded.com/collections/laundromat"
+            "link": "shopify://collections/laundromat-information-decals"
           }
         }
       },
