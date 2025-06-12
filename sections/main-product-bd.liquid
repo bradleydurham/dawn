@@ -86,15 +86,15 @@
               >
                 {{- block.settings.text -}}
               </p>
-            
+
             {% comment %}BD code start {% endcomment %}
-            {%- when 'variant_sku' -%} 
-              <div id="sku-{{ section.id }}" {{ block.shopify_attributes }} class="variant-sku form__label"> 
+            {%- when 'variant_sku' -%}
+              <div id="sku-{{ section.id }}" {{ block.shopify_attributes }} class="variant-sku form__label">
                 {% if product.selected_or_first_available_variant.sku != blank %}
                   <p id="product-sku">SKU: {{ product.selected_or_first_available_variant.sku }} </p>
                 {% endif %}
               </div>
-            
+
             {% when 'bd_redirect_url' %}
                 {% if product.selected_or_first_available_variant.metafields.custom.custom_redirect !=blank %}
                     <div id="redirect-{{ section.id }}" {{ block.shopify_attributes }} class="redirect-url">
@@ -109,13 +109,15 @@
                     data-url="{{ product.url }}"
                     {{ block.shopify_attributes }}
                 >
-                    <fieldset class="js product-form__input">
-                        <legend class="form__label">Artwork Options</legend>  
-                        
-                        <input type="radio" id="design-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design1 }}" form="{{ product_form_id }}" checked>
+                    <fieldset id="design-options" class="js product-form__input">
+                        <legend class="form__label">Artwork Options</legend>
+
+                        <input type="radio" id="design-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design1 }}" form="{{ product_form_id }}" data-design-option="1" checked>
                         <label for="design-{{ section.id }}">{{ block.settings.design1 }}</label>
-                        <input type="radio" id="upload-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design2 }}" form="{{ product_form_id }}">
+                        <input type="radio" id="upload-{{ section.id }}" name="properties[Artwork Options]" value="{{ block.settings.design2 }}" form="{{ product_form_id }}" data-design-option="2">
                         <label for="upload-{{ section.id }}">{{ block.settings.design2 }}</label>
+                        <span data-design-subtext="1">{{ block.settings.design1_subtext }}</span>
+                        <span data-design-subtext="2" class="hidden">{{ block.settings.design2_subtext }}</span>
                     </fieldset>
                 </variant-radios>
 
@@ -124,24 +126,24 @@
                     .bd-form {
                       padding-top: 1.5rem;
                     }
-                    
+
                     .bd-input {
                       border: 1px solid #ccc;
                     }
-  
+
                     .bd-input:focus, .bd-input:not(:placeholder-shown) {
                       padding: 1.5rem !important;
                     }
-  
+
                     .bd-textarea {
                       padding: 1.5rem;
                     }
-  
+
                     .bd-hide {
                       display: none;
                     }
                   </style>
-                  
+
                   <div
                     id="custom_details-{{ section.id }}"
                     data-section="{{ section.id }}"
@@ -208,7 +210,7 @@
                     </div>
                   </div>
                   {% endif %}
-                
+
             {% comment %}BD code end {% endcomment %}
 
             {%- when 'title' -%}
@@ -536,7 +538,7 @@
 
             {%- when 'variant_picker' -%}
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
-            
+
             {%- when 'buy_buttons' -%}
             {%- assign show_pickup_availability = true -%}
             {%- assign section_id = section.id -%}
@@ -547,13 +549,13 @@
                   if block.settings.show_gift_card_recipient and product.gift_card?
                     assign gift_card_recipient_feature_active = true
                   endif
-            
+
                   assign show_dynamic_checkout = false
                   if block.settings.show_dynamic_checkout and gift_card_recipient_feature_active == false
                     assign show_dynamic_checkout = true
                   endif
                 -%}
-            
+
                 <product-form
                   class="product-form"
                   data-hide-errors="{{ gift_card_recipient_feature_active }}"
@@ -573,7 +575,7 @@
                     </svg>
                     <span class="product-form__error-message"></span>
                   </div>
-            
+
                   {%- form 'product',
                     product,
                     id: product_form_id,
@@ -584,7 +586,7 @@
 
                     <input type="hidden" id="ins_id" name="properties[_variant]" value="{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.id }}" >
                     <input type="hidden" id="ins_price" name="properties[_variant_price]" value="{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.price }}" >
-                    
+
                     <input
                       type="hidden"
                       name="id"
@@ -597,16 +599,16 @@
 
                     <br>
                     {%- for variant in product.variants -%}
-                    <input type="hidden" id="cod_variable_{{ variant.id }}" name="cod_variable_{{ variant.id }}" value="{{ variant.metafields.custom.install_variant.value.id }}" 
+                    <input type="hidden" id="cod_variable_{{ variant.id }}" name="cod_variable_{{ variant.id }}" value="{{ variant.metafields.custom.install_variant.value.id }}"
                       data-price="{{ variant.metafields.custom.install_variant.value.price }}">
                     {% endfor %}
                     <div id="text_install" class="text_install">{% if product.selected_or_first_available_variant.metafields.custom.install_variant.value.price %}{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.price | money }} setup fee{% endif %}</div>
 
-                    
+
                     {%- if gift_card_recipient_feature_active -%}
                       {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
                     {%- endif -%}
-            
+
                     <div class="product-form__buttons">
                       {%- liquid
                         assign check_against_inventory = true
@@ -658,14 +660,14 @@
                   </div>
                 </div>
               {%- endif -%}
-            
+
               {%- if show_pickup_availability -%}
                 {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}
-            
+
                 {%- assign pick_up_availabilities = product.selected_or_first_available_variant.store_availabilities
                   | where: 'pick_up_enabled', true
                 -%}
-            
+
                 <pickup-availability
                   class="product__pickup-availabilities no-js-hidden quick-add-hidden"
                   {% if product.selected_or_first_available_variant.available and pick_up_availabilities.size > 0 %}
@@ -688,7 +690,7 @@
                     </pickup-availability-preview>
                   </template>
                 </pickup-availability>
-            
+
                 <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
               {%- endif -%}
             </div>
@@ -696,7 +698,7 @@
 
 
 
-            
+
 
 
 
@@ -723,20 +725,20 @@
                   {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
                       <input type="hidden" id="ins_id" name="properties[_variant]" value="{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.id }}" >
                       <input type="hidden" id="ins_price" name="properties[_variant_price]" value="{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.price }}" >
-                      
+
                     <input
                       type="hidden"
                       name="id"
                       value="{{ product.selected_or_first_available_variant.id }}"
                       disabled
                     >
-              
+
                     <br>
                     {%- for variant in product.variants -%}
-                    <input type="hidden" id="cod_variable_{{ variant.id }}" name="cod_variable_{{ variant.id }}" value="{{ variant.metafields.custom.install_variant.value.id }}" 
+                    <input type="hidden" id="cod_variable_{{ variant.id }}" name="cod_variable_{{ variant.id }}" value="{{ variant.metafields.custom.install_variant.value.id }}"
                       data-price="{{ variant.metafields.custom.install_variant.value.price }}">
                     {% endfor %}
-                    
+
                     <div id="text_install" class="text_install">{% if product.selected_or_first_available_variant.metafields.custom.install_variant.value.price %}{{ product.selected_or_first_available_variant.metafields.custom.install_variant.value.price | money }} setup fee{% endif %}</div>
                     <div class="product-form__buttons">
                       <button
@@ -816,7 +818,7 @@
 
 
 
-            
+
             {%- when 'rating' -%}
               {%- if product.metafields.reviews.rating.value != blank -%}
                 {% liquid
@@ -1079,6 +1081,17 @@
       ]
     }
   </script>
+
+  {%- comment -%}
+    -- [JUN 2025] Added by Tekhaus to handle smooth scrolling to in page links from ATM Wrap variant options
+    -- will also handle display of HTML subtext for the design option buttons and clicking of design template links within
+  {%- endcomment -%}
+  {%- if product.template_suffix == "atm-wrap-ns" -%}
+    {%- if product.metafields.custom.design_template != blank -%}
+      <div hidden data-design-template-link={{ product.metafields.custom.design_template.value.url }}></div>
+    {%- endif -%}
+    <script src="{{ 'atm-wrap-custom.js' | asset_url }}" defer></script>
+  {%- endif -%}
   </div>
 </section>
 <style>
@@ -1133,7 +1146,7 @@
         "type": "bd_redirect_url",
         "name": "⚡️ Redirect URL",
         "limit": 1
-        
+
     },
     {
       "type": "design_options",
@@ -1151,10 +1164,20 @@
           "default": "Design It For Me"
         },
         {
+          "type": "html",
+          "id": "design1_subtext",
+          "label": "Option 1 Subtext (HTML)"
+        },
+        {
           "type": "text",
           "id": "design2",
           "label": "Option 2 Label",
           "default": "Upload My Own Artwork"
+        },
+        {
+          "type": "html",
+          "id": "design2_subtext",
+          "label": "Option 2 Subtext (HTML)"
         }
       ]
     },
