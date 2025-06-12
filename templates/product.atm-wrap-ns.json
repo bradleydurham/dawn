@@ -141,6 +141,142 @@
         "padding_bottom": 12
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Customers also bought",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_KPgfa7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eTQTP4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sharkskin-rec-2.jpg",
+            "title": "SharkSkin®",
+            "text": "<p>Our exclusive laminated vinyl material has a textured matte finish that is durable, scuff-resistant, and UV-protected to last for years.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nCh7hi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ColorPop-rec.jpg",
+            "title": "Color Pop™",
+            "text": "<p>High-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_eTQTP4",
+        "column_nCh7hi"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Material Options",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_TwAftL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qKJpJr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 1: Design",
+            "icon": "check_mark",
+            "row_content": "<p>Whether you have your own design or want us to create something great for you, we will send you an email once the purchase Is made to get started. Either way, these are the steps we will follow to ensure you have exactly what you need.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pwJiMG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 2: Proof Sent",
+            "icon": "check_mark",
+            "row_content": "<p>After the design has been applied to the template, we'll send you a pdf proof of what your product will look like.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HU34bJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 3: Approval and Feedback",
+            "icon": "check_mark",
+            "row_content": "<p>We will update your proof up to three times prior to approval.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AQybWk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 4: Production",
+            "icon": "check_mark",
+            "row_content": "<p>Once approved, we will produce the product. Please allow 3-5 days for production.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mDaNxy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 5: Shipment",
+            "icon": "check_mark",
+            "row_content": "<p>After your purchase Is produced, we'll ship It to the address that you provided using your preferred shipping method. Please allow 3-5 days after artwork approval for production prior to shipping.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qKJpJr",
+        "collapsible_row_pwJiMG",
+        "collapsible_row_HU34bJ",
+        "collapsible_row_AQybWk",
+        "collapsible_row_mDaNxy"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Artwork, Approval, and Production Process",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "container_color_scheme": "scheme-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa": {
       "type": "image-with-text",
       "blocks": {
@@ -237,24 +373,6 @@
         "show_text_below": true
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "heading": "Customers who bought this also bought",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "970ed6bd-7308-47a8-9915-a5afc548314f": {
       "type": "video",
       "settings": {
@@ -273,9 +391,11 @@
   },
   "order": [
     "main",
+    "related-products",
+    "multicolumn_KPgfa7",
+    "collapsible_content_TwAftL",
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa",
     "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
-    "related-products",
     "970ed6bd-7308-47a8-9915-a5afc548314f"
   ]
 }
