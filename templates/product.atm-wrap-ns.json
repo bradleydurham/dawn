@@ -55,7 +55,9 @@
           "type": "design_options",
           "settings": {
             "design1": "Design It For Me",
-            "design2": "Upload My Own Artwork"
+            "design1_subtext": "<p class=\"product__text inline-richtext caption-with-letter-spacing\" style=\"line-height:16px;\">\n  We'll send you an email with next steps.<br>\n  See our production process <a href=\"#production-process\" data-link-to-production-process=\"\">below.</a>\n</p>",
+            "design2": "Upload My Own Artwork",
+            "design2_subtext": "<p class=\"product__text inline-richtext caption-with-letter-spacing\" style=\"line-height:16px;\">\n  Download a design template <a href=\"#design-template\" id=\"link-to-design-template\">here.</a> We'll send you an email with upload information.<br>\n  In the meantime, you can find out more about our production process <a href=\"#production-process\" data-link-to-production-process=\"\">below.</a>\n</p>"
           }
         },
         "quantity_selector": {
@@ -172,7 +174,6 @@
         "column_eTQTP4",
         "column_nCh7hi"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Material Options",
         "heading_size": "h1",
@@ -246,7 +247,6 @@
         "collapsible_row_AQybWk",
         "collapsible_row_mDaNxy"
       ],
-      "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
         "heading": "Artwork, Approval, and Production Process",
@@ -288,7 +288,6 @@
         "column_G9PUby",
         "column_37Gyrr"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Installation",
         "heading_size": "h1",
