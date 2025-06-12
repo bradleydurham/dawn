@@ -277,113 +277,85 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_FFjPzy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_G9PUby": {
+          "type": "column",
+          "settings": {
+            "title": "Self-Installation",
+            "text": "<p>Get Branded's SharkSkin ATM wraps are designed for easy installation, taking only minutes with no prior experience needed. </p>",
+            "link_label": "Check out our DIY Installation videos",
+            "link": "https://youtube.com/playlist?list=PLb8lwkXUoLLcGsXSfP6GkO1UBDTnl-ixz&feature=shared"
+          }
+        },
+        "column_37Gyrr": {
+          "type": "column",
+          "settings": {
+            "title": "Hire a Pro",
+            "text": "<p>Get Branded can recommend a partner to help Install your wrap. Click the link below to get a quote with one of our pros.</p>",
+            "link_label": "Get a Quote From a Pro",
+            "link": "shopify://pages/installation-quote"
+          }
+        }
+      },
+      "block_order": [
+        "column_G9PUby",
+        "column_37Gyrr"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Installation",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa": {
       "type": "image-with-text",
       "blocks": {
-        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "SharkSkin®",
-            "heading_size": "h1"
-          }
-        },
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our exclusive laminated vinyl material has a textured matte finish that is durable, scuff-resistant, and UV-protected to last for years.</p>",
+            "text": "<p>{{ product.metafields.custom.cabinet_style_differences | metafield_tag }}</p><p>Hardware is provided by: {{ product.metafields.custom.manufacturer.value.name.value }}</p>",
             "text_style": "body"
           }
         },
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Learn More",
-            "button_link": "shopify://pages/sharkskin",
-            "button_style_secondary": false
+            "button_label": "Visit {{ product.metafields.custom.manufacturer.value.name.value }}",
+            "button_link": "{{ product.metafields.custom.manufacturer.value.website.value }}",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-heading-1",
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1",
         "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/SharkSkin_3793dae7-0646-4fb7-8d8d-1c5ac4340507.png",
+        "image": "{{ product.metafields.custom.manufacturer.value.logo.value }}",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "section_color_scheme": "scheme-2",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Don't see what you need? We Customize.",
-            "heading_size": "h1"
-          }
-        },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
-            "text_style": "body"
-          }
-        },
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Quote Request",
-            "button_link_1": "shopify://pages/quote-request",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-heading-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-text-1",
-        "template--16969087320320__2ebb0436-2e62-4c09-bcb6-b6e061dc8c98-buttons-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Banners.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "970ed6bd-7308-47a8-9915-a5afc548314f": {
-      "type": "video",
-      "settings": {
-        "heading": "Wrap Installation Process",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://youtu.be/qVYRiAXKiIo",
-        "cover_image": "shopify://shop_images/NCR-SS88-INSTALL-THUMBNAIL.jpg",
-        "description": "Installation process for SharkSkin® ATM and Kiosk Wraps",
-        "full_width": false,
-        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -394,8 +366,7 @@
     "related-products",
     "multicolumn_KPgfa7",
     "collapsible_content_TwAftL",
-    "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa",
-    "2ebb0436-2e62-4c09-bcb6-b6e061dc8c98",
-    "970ed6bd-7308-47a8-9915-a5afc548314f"
+    "multicolumn_FFjPzy",
+    "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa"
   ]
 }
