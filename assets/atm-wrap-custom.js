@@ -23,7 +23,7 @@ document
   .addEventListener('click', function (event) {
     event.preventDefault();
     const manufactureDetailsAnchor = document.getElementById(
-      'shopify-section-template--19125387133184__image_with_text_pAyd4j'
+      'shopify-section-template--18960318398720__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa'
     );
     manufactureDetailsAnchor.scrollIntoView({ behavior: 'smooth' });
   });
