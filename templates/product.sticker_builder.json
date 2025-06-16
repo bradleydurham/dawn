@@ -64,7 +64,7 @@
           "type": "shopify://apps/antigro-getbranded-2022/blocks/initAntigroDesigner/3b537b20-3928-47f6-a141-d0dfab779884",
           "settings": {
             "product": "{{product}}",
-            "createDesignText": "",
+            "createDesignText": "Upload files",
             "customHtml": ""
           }
         },
