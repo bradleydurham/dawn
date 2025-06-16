@@ -32,6 +32,7 @@
         },
         "sku_3JMm8C": {
           "type": "sku",
+          "disabled": true,
           "settings": {
             "text_style": "body"
           }
@@ -45,7 +46,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {}
         },
         "variant_picker": {
