@@ -320,6 +320,7 @@
           "settings": {
             "button_label": "Visit {{ product.metafields.custom.manufacturer.value.name.value }}",
             "button_link": "{{ product.metafields.custom.manufacturer.value.website.value }}",
+            "button_link_new_window": true,
             "button_style_secondary": true
           }
         }
