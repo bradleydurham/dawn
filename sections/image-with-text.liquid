@@ -91,6 +91,7 @@
                         role="link" aria-disabled="true"
                       {% else %}
                         href="{{ block.settings.button_link }}"
+                        {% if block.settings.button_link_new_window %}target="_new"{% endif %}"
                       {% endif %}
                       class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
                       {{ block.shopify_attributes }}
@@ -242,13 +243,13 @@
       "type": "color_scheme",
       "id": "section_color_scheme",
       "label": "t:sections.all.colors.label",
-      "default": "scheme-1"
+      "default": "background-1"
     },
     {
       "type": "color_scheme",
       "id": "color_scheme",
       "label": "t:sections.multirow.settings.container_color_scheme.label",
-      "default": "scheme-1"
+      "default": "background-1"
     },
     {
       "type": "header",
@@ -451,6 +452,12 @@
           "type": "url",
           "id": "button_link",
           "label": "t:sections.image-with-text.blocks.button.settings.button_link.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "button_link_new_window",
+          "default": false,
+          "label": "Open links in a new tab/window"
         },
         {
           "type": "checkbox",
