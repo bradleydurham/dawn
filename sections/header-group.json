@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_Pz6RwW": {
+          "type": "announcement",
+          "settings": {
+            "text": "NEW Category - Laundry",
+            "link": "shopify://pages/laundry"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "announcement_Pz6RwW",
         "announcement-bar-0",
         "announcement_8aTWqz"
       ],
