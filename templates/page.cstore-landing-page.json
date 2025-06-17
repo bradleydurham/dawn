@@ -23,14 +23,14 @@
         "heading_UL8KK3": {
           "type": "heading",
           "settings": {
-            "heading": "C-Store",
+            "heading": "C-STORE & MORE",
             "heading_size": "h0"
           }
         },
         "text_9eHDNY": {
           "type": "text",
           "settings": {
-            "text": "Keep your laundromat looking fresh.",
+            "text": "Everything you need. All in one place.",
             "text_style": "body"
           }
         }
@@ -40,7 +40,7 @@
         "text_9eHDNY"
       ],
       "settings": {
-        "image": "shopify://shop_images/AdobeStock_882405459.jpg",
+        "image": "shopify://shop_images/fuel-station-header-label-maker.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
