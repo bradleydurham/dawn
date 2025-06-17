@@ -1,0 +1,432 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_UxPeYn": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UL8KK3": {
+          "type": "heading",
+          "settings": {
+            "heading": "LAUNDRY",
+            "heading_size": "h0"
+          }
+        },
+        "text_9eHDNY": {
+          "type": "text",
+          "settings": {
+            "text": "Keep your laundromat looking fresh.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UL8KK3",
+        "text_9eHDNY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/AdobeStock_882405459.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_ADpfKX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iHDUEj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Use Laundromat Decals & Signage?",
+            "heading_size": "h1"
+          }
+        },
+        "text_EKLx3L": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Labeling your machines and posting clear washing machine instructions is essential for user convenience and efficient operations in a busy self-serve laundry shop.</p><p>Let our laundromat decals show your customers the way and help keep your laundromat business running smoothly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iHDUEj",
+        "text_EKLx3L"
+      ],
+      "name": "WHY DECALS?",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_q7Yir6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UFrxPn": {
+          "type": "column",
+          "settings": {
+            "title": "Durable",
+            "text": "<p>Waterproof, heat and UV resistant. The most durable decal on the market.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_j46QDc": {
+          "type": "column",
+          "settings": {
+            "title": "Visually Stunning",
+            "text": "<p>Vibrant, long lasting graphics that pop! They might just outlast the machine.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NTR9ar": {
+          "type": "column",
+          "settings": {
+            "title": "Made In The USA",
+            "text": "<p>Crafted in the heart of South Carolina by a small team of passionate professionals.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gPTbCB": {
+          "type": "column",
+          "settings": {
+            "title": "Easy To Clean",
+            "text": "<p>Wipe down and wash right along with the surface of your machines. Simple. Effective.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UFrxPn",
+        "column_j46QDc",
+        "column_NTR9ar",
+        "column_gPTbCB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_xqDHKE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_migbVz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GB_Laundry-preview_washer.jpg",
+            "title": "Washing Machine Decals",
+            "text": "<p>Fill line, load size and more. Keep your customers informed and your laundromat looking fresh.</p>",
+            "link_label": "Shop Washing Machine Decals",
+            "link": "shopify://collections/washing-machine-decals"
+          }
+        },
+        "column_XYbqJa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GB_Laundry-preview_ozone.jpg",
+            "title": "Ozone Laundry Decals",
+            "text": "<p>Let your customers know you're using the latest in eco-friendly laundry technology! </p>",
+            "link_label": "Shop Ozone Laundry Decals",
+            "link": "shopify://collections/ozone-washing-decals"
+          }
+        },
+        "column_G37gED": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GB_Laundry-preview_signage.jpg",
+            "title": "Laundromat Signage",
+            "text": "<p>Keep everyone informed with hours of operation, services offered and laundromat rules signage for your entire facility.</p>",
+            "link_label": "Shop Laundromat Signage",
+            "link": "shopify://collections/laundromat-information-decals"
+          }
+        }
+      },
+      "block_order": [
+        "column_migbVz",
+        "column_XYbqJa",
+        "column_G37gED"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_6gHjCC": {
+      "type": "multirow",
+      "blocks": {
+        "row_TnXHix": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_UjCKCq": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_HeN4Xm": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_XPyM9m": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_TnXHix",
+        "row_UjCKCq",
+        "row_HeN4Xm",
+        "row_XPyM9m"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5450a3d1-ec92-4531-8d21-9c3f40896abb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "<p><strong>Best Sellers</strong></p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "laundromat",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "{{ section.settings.collection.title }}",
+        "heading_size": "h1",
+        "description": "<p>{{ section.settings.collection.metafields.custom.single_line_description.value }}</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "laundromat",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_eCzqJ6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Xn3dHw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sharkskin-rec-2.jpg",
+            "title": "Premium, Rugged SharkSkin Material",
+            "text": "<p>Talk about how SharkSkin sets us apart from the competition.</p>",
+            "link_label": "Find out more",
+            "link": "shopify://pages/sharkskin"
+          }
+        },
+        "column_G3btFW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/item-customizations-product-image.png",
+            "title": "We Offer Customization",
+            "text": "<p>Need a unique decal design? We have a team of  designers available to create effective decal artwork for you.</p>",
+            "link_label": "Request a Quote",
+            "link": "shopify://pages/quote-request"
+          }
+        }
+      },
+      "block_order": [
+        "column_Xn3dHw",
+        "column_G3btFW"
+      ],
+      "name": "SharkSkin Customization",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-c8ba7399-0d4d-4192-bb80-a45081c7f8a2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Dzp8Ni": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tUQ47n": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upgrade Your Laundromat Today",
+            "heading_size": "h1"
+          }
+        },
+        "text_i6MCF3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Let your laundromat decals show the way and keep your business running smoothly. Whether you're just learning how to start a laundromat business or managing a busy 24 hour laundromat, clear signage is one of the best tools for success.</p><p>In any self-serve laundry shop, customers need to know how to use your facility without confusion. That means having clear, easy-to-read laundromat instructions and labels on all machines and throughout the space. These signs help users figure out how to use washing machines, understand washing machine instruction symbols, and even find where to fold clothes or wait comfortably.</p><p>When customers know exactly how to use a washing machine and which machine fits their needs, it improves their experience and helps avoid damage. For example, posting a washing machine load size chart helps prevent overloading or underloading machines. These simple visual guides reduce mistakes, which can protect your machines and save on maintenance costs.</p><p>Well-placed laundromat signs and decals make your space easier to navigate. They also help enforce laundromat rules, which is especially important in a shop that may not always have staff present. Signs with laundromat rules and machine washing instructions are a low-cost way to keep your business organized and clean.</p><p>That’s where SharkSkin® vinyl decals come in. These decals are perfect for owners who want professional, durable signage. Our decals are made with high-quality vinyl that can stand up to constant use. Your machines and signs take a beating. Our decals are made to last, staying bright and readable over time.</p><p>SharkSkin® decals are ideal for displaying washing machine instructions, including front load washing machine size guidelines and machine-specific washing machine load size charts. They're also perfect for sharing laundromat rules signs in common areas. Easy-to-read decals help users follow the correct machine washing instructions, reducing confusion and wear-and-tear.</p><p>Using high-quality washer and dryer decals also shows customers that you care about your laundromat business. Neat, informative signage helps people trust your facility. It shows that your facility is clean, organized, and professionally run. This trust helps keep regular customers coming back and makes a great impression on new visitors.</p><p>SharkSkin® decals are a smart investment for anyone serious about improving their laundry business. They help educate users, protect equipment, and keep the environment friendly and easy to use.</p><p>Whether you need a decal for a washing machine, post machine instructions, or display laundromat rules or, laundry instructions, SharkSkin® vinyl decals are the best choice. Keep your laundromat instructions clear, your rules visible, and your business running at its best.</p><p>Make the smart choice for your laundry space. Use SharkSkin® vinyl decals to provide helpful laundromat signs, decals, and labels that enhance user experience and support your business goals. With clear signs in place, your laundromat can operate smoothly around the clock.</p>"
+          }
+        },
+        "button_C8BfdT": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP ALL LAUNDRY",
+            "button_link": "shopify://collections/laundromat",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tUQ47n",
+        "text_i6MCF3",
+        "button_C8BfdT"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_UxPeYn",
+    "rich_text_ADpfKX",
+    "multicolumn_q7Yir6",
+    "multicolumn_xqDHKE",
+    "multirow_6gHjCC",
+    "5450a3d1-ec92-4531-8d21-9c3f40896abb",
+    "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
+    "multicolumn_eCzqJ6",
+    "rich_text_Dzp8Ni"
+  ]
+}
