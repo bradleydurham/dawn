@@ -75,10 +75,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "hulk_discounts_offer_table_block_Y6p3g9": {
-          "type": "shopify://apps/hulk-discounts/blocks/offer_table_block/25745434-52e7-4378-88f1-890df18a0110",
-          "settings": {}
-        },
         "volume_discount_xHJABV": {
           "type": "volume_discount",
           "settings": {
@@ -100,6 +96,10 @@
             "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.</p>",
             "page": ""
           }
+        },
+        "hulk_discounts_offer_table_block_Y6p3g9": {
+          "type": "shopify://apps/hulk-discounts/blocks/offer_table_block/25745434-52e7-4378-88f1-890df18a0110",
+          "settings": {}
         }
       },
       "block_order": [
@@ -113,9 +113,9 @@
         "quantity_selector",
         "price",
         "buy_buttons",
-        "hulk_discounts_offer_table_block_Y6p3g9",
         "volume_discount_xHJABV",
-        "collapsible-row-1"
+        "collapsible-row-1",
+        "hulk_discounts_offer_table_block_Y6p3g9"
       ],
       "settings": {
         "enable_sticky_info": true,
