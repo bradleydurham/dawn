@@ -22,7 +22,7 @@
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
         "heading": "Blog posts",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "blog": "news",
         "post_limit": 4,
         "columns_desktop": 4,
