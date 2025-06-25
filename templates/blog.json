@@ -63,10 +63,54 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_FhCWqp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HCewkT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upcoming Topics",
+            "heading_size": "h1"
+          }
+        },
+        "text_H9bpEk": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Custom ATM wraps and kiosk branding</li><li>Durable laundromat decals for instructions and branding</li><li>OSHA-compliant warning decals for commercial use</li><li>Gas station decals for pumps, windows, and signage</li><li>Best materials for outdoor vinyl decals</li><li>Design tips for eye-catching service decals</li><li>How to apply decals without bubbles or peeling</li><li>Local branding strategies with high-visibility decals</li></ul>"
+          }
+        },
+        "button_mLaf6R": {
+          "type": "button",
+          "settings": {
+            "button_label": "SUBSCRIBE",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HCewkT",
+        "text_H9bpEk",
+        "button_mLaf6R"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_mnYAdE"
+    "rich_text_mnYAdE",
+    "rich_text_FhCWqp"
   ]
 }
