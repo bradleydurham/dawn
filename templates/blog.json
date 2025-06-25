@@ -20,9 +20,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_mnYAdE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dxCpF7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Hub for Custom Decal and Wrap Expertise",
+            "heading_size": "h2"
+          }
+        },
+        "text_RYRMYX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the GetBranded Blog—your ultimate source for everything related to high-impact decals and wraps. Whether you're looking to brand your ATM machine, upgrade your kiosk signage, or enhance visibility at a gas station, this blog is designed to help you turn everyday surfaces into powerful brand tools.</p><p>At GetBranded, we specialize in custom decal solutions that are functional, eye-catching, and built to last. This blog delivers expert insights, practical design tips, and application strategies for business owners, franchise operators, marketers, and property managers who need durable, professional-grade branding tools.</p><h3>What We Cover</h3><p>Our articles focus on real-world applications for our products, including:</p><ul><li><br/>: Learn how to maximize visibility and trust at points of service.<br/></li><li><br/>: From instructional signage to custom branding, improve user experience with clarity and style.<br/></li><li><br/>: Ensure compliance while keeping your messaging clear and authoritative.<br/></li><li><br/>: Elevate your forecourt look with pump decals, window clings, and directional signage.<br/></li></ul><p>Whether you're refreshing your brand, opening a new location, or enhancing an existing space, our blog gives you the guidance to get the job done right.</p>"
+          }
+        },
+        "button_pJbxby": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dxCpF7",
+        "text_RYRMYX",
+        "button_pJbxby"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_mnYAdE"
   ]
 }
