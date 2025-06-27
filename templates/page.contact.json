@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
           "type": "column",
           "settings": {
             "title": "Email",
-            "text": "<p><a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getranded.com<\/a><\/p>",
+            "text": "<p><a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -23,7 +32,7 @@
           "type": "column",
           "settings": {
             "title": "Phone",
-            "text": "<p><a href=\"tel:1-800-503-0314\" title=\"tel:1-800-503-0314\">1-800-503-0314<\/a><\/p>",
+            "text": "<p><a href=\"tel:1-800-503-0314\" title=\"tel:1-800-503-0314\">1-800-503-0314</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -32,7 +41,7 @@
           "type": "column",
           "settings": {
             "title": "Physical Address",
-            "text": "<p>109 Hurricane Creek Road<\/p><p>Piedmont, SC 29673<\/p>",
+            "text": "<p>109 Hurricane Creek Road</p><p>Piedmont, SC 29673</p>",
             "link_label": "",
             "link": ""
           }
@@ -73,7 +82,7 @@
         "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Need to order quickly or looking for a fast quote? Try our Custom Decal Calculator. We get to work as soon as the order is received. <\/p>",
+            "text": "<p>Need to order quickly or looking for a fast quote? Try our Custom Decal Calculator. We get to work as soon as the order is received. </p>",
             "text_style": "body"
           }
         },
@@ -81,7 +90,8 @@
           "type": "button",
           "settings": {
             "button_label": "Try Now",
-            "button_link": "shopify:\/\/products\/customcalculator",
+            "button_link": "shopify://products/customcalculator",
+            "button_link_new_window": false,
             "button_style_secondary": false
           }
         }
@@ -92,7 +102,7 @@
         "template--16969087156480__5aac1f43-c974-49bd-b250-8301f7b2e285-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Custom_db1a1f20-b081-443e-893f-a5f6e8ef82bc.jpg",
+        "image": "shopify://shop_images/Custom_db1a1f20-b081-443e-893f-a5f6e8ef82bc.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -127,10 +137,10 @@
           "type": "button",
           "settings": {
             "button_label": "Request A Quote",
-            "button_link": "shopify:\/\/pages\/quote-request",
+            "button_link": "shopify://pages/quote-request",
             "button_style_secondary": false,
             "button_label_2": "Send FeedBack",
-            "button_link_2": "shopify:\/\/pages\/feedback",
+            "button_link_2": "shopify://pages/feedback",
             "button_style_secondary_2": false
           }
         }
@@ -162,13 +172,12 @@
         "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "template--16969087156480__2574cd1e-3ec1-4bd7-aa5a-389d66d30bf5-email_form-1": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
