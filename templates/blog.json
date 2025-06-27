@@ -28,7 +28,7 @@
           "type": "heading",
           "settings": {
             "heading": "Your Hub for Custom Decal and Wrap Expertise",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_RYRMYX": {
@@ -36,23 +36,11 @@
           "settings": {
             "text": "<p>Welcome to the GetBranded Blog—your ultimate source for everything related to high-impact decals and wraps. Whether you're looking to brand your ATM machine, upgrade your kiosk signage, or enhance visibility at a gas station, this blog is designed to help you turn everyday surfaces into powerful brand tools.</p><p>At GetBranded, we specialize in custom decal solutions that are functional, eye-catching, and built to last. This blog delivers expert insights, practical design tips, and application strategies for business owners, franchise operators, marketers, and property managers who need durable, professional-grade branding tools.</p><p>Whether you're refreshing your brand, opening a new location, or enhancing an existing space, our blog gives you the guidance to get the job done right.</p>"
           }
-        },
-        "button_pJbxby": {
-          "type": "button",
-          "settings": {
-            "button_label": "SUBSCRIBE",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_dxCpF7",
-        "text_RYRMYX",
-        "button_pJbxby"
+        "text_RYRMYX"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -71,7 +59,7 @@
           "type": "heading",
           "settings": {
             "heading": "Upcoming Topics",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_H9bpEk": {
@@ -79,23 +67,42 @@
           "settings": {
             "text": "<ul><li>Custom ATM wraps and kiosk branding</li><li>Durable laundromat decals for instructions and branding</li><li>OSHA-compliant warning decals for commercial use</li><li>Gas station decals for pumps, windows, and signage</li><li>Best materials for outdoor vinyl decals</li><li>Design tips for eye-catching service decals</li><li>How to apply decals without bubbles or peeling</li><li>Local branding strategies with high-visibility decals</li></ul>"
           }
-        },
-        "button_mLaf6R": {
-          "type": "button",
-          "settings": {
-            "button_label": "SUBSCRIBE",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_HCewkT",
-        "text_H9bpEk",
-        "button_mLaf6R"
+        "text_H9bpEk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_y4yTQQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wUUw8p": {
+          "type": "heading",
+          "settings": {
+            "heading": "Past Topics",
+            "heading_size": "h2"
+          }
+        },
+        "text_aXejxq": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>ATM Wraps and Kiosk Graphics</strong>: Learn how to maximize visibility and trust at points of service.</li><li><strong>Laundromat Decals</strong>: From instructional signage to custom branding, improve user experience with clarity and style.</li><li><strong>Warning and Safety Decals</strong>: Ensure compliance while keeping your messaging clear and authoritative.</li><li><strong>Gas Station Decals</strong>: Elevate your forecourt look with pump decals, window clings, and directional signage.</li></ul><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wUUw8p",
+        "text_aXejxq"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -111,6 +118,7 @@
   "order": [
     "main",
     "rich_text_mnYAdE",
-    "rich_text_FhCWqp"
+    "rich_text_FhCWqp",
+    "rich_text_y4yTQQ"
   ]
 }
