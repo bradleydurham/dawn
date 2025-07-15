@@ -307,7 +307,7 @@
         "description": "<p>{{ section.settings.collection.metafields.custom.single_line_description.value }}</p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "laundromat",
+        "collection": "fuel-station-signage",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": true,
