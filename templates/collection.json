@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_collection_banner_bd_GNiq78": {
@@ -74,7 +83,7 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "{{ collection.metafields.custom.promo_collection_1.value }}"
+            "collection": "air-vac"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
@@ -129,10 +138,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Custom Decal Calculator",
-            "button_link_1": "shopify:\/\/products\/customcalculator",
+            "button_link_1": "shopify://products/customcalculator",
             "button_style_secondary_1": false,
             "button_label_2": "Quote Request",
-            "button_link_2": "shopify:\/\/pages\/quote-request",
+            "button_link_2": "shopify://pages/quote-request",
             "button_style_secondary_2": false
           }
         }
@@ -143,7 +152,7 @@
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
+        "image": "shopify://shop_images/Banners.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -159,7 +168,7 @@
     "05395e5e-c531-4b5a-9f98-289cf80b342a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n        <hr>\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}<\/h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        <\/div>\n    <\/div>\n<\/div>\n{%- endif -%}",
+        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n        <hr>\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}</h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        </div>\n    </div>\n</div>\n{%- endif -%}",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
