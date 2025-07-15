@@ -164,20 +164,20 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/GB_Laundry-preview_ozone.jpg",
-            "title": "Ozone Laundry Decals",
-            "text": "<p>Let your customers know you're using the latest in eco-friendly laundry technology! </p>",
-            "link_label": "Shop Ozone Laundry Decals",
-            "link": "shopify://collections/ozone-washing-decals"
+            "title": "Door & Window Decals",
+            "text": "<p>Set expectations before customers walk in and attract impulse traffic with promos or deals.</p>",
+            "link_label": "Shop Informational Decals",
+            "link": "shopify://collections/fuel-station-signage"
           }
         },
         "column_G37gED": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/GB_Laundry-preview_signage.jpg",
-            "title": "Laundromat Signage",
-            "text": "<p>Keep everyone informed with hours of operation, services offered and laundromat rules signage for your entire facility.</p>",
-            "link_label": "Shop Laundromat Signage",
-            "link": "shopify://collections/laundromat-information-decals"
+            "title": "Checkout Counter Signage",
+            "text": "<p>Encourages upsells, keep the store compliant, and speed up customer navigation with tap-to-pay, credit card acceptance and more.</p>",
+            "link_label": "Shop Payment Decals",
+            "link": "shopify://collections/credit-card-sign-sticker-network-acceptance-decal"
           }
         }
       },
