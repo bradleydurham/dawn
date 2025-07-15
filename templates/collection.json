@@ -89,13 +89,13 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "{{ collection.metafields.custom.promo_collection_2.value }}"
+            "collection": "warning-decals"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "{{ collection.metafields.custom.promo_collection_3.value }}"
+            "collection": "contactless-payments-decals"
           }
         }
       },
