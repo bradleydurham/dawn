@@ -279,7 +279,7 @@
         "description": "<p><strong>Best Sellers</strong></p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "laundromat",
+        "collection": "fuel-station",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": true,
