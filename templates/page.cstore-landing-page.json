@@ -154,10 +154,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/GB_Laundry-preview_washer.jpg",
-            "title": "Washing Machine Decals",
-            "text": "<p>Fill line, load size and more. Keep your customers informed and your laundromat looking fresh.</p>",
-            "link_label": "Shop Washing Machine Decals",
-            "link": "shopify://collections/washing-machine-decals"
+            "title": "Gas Pump Decals",
+            "text": "<p>Ensures compliance, avoid fuel mix-ups, and promotes upsells like car washes, and rewards programs.</p>",
+            "link_label": "Shop Gas Pump Decals",
+            "link": "shopify://collections/fuel-station"
           }
         },
         "column_XYbqJa": {
