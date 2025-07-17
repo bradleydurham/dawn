@@ -392,8 +392,8 @@
         "button_C8BfdT": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP ALL LAUNDRY",
-            "button_link": "shopify://collections/laundromat",
+            "button_label": "SHOP ALL C-STORE",
+            "button_link": "shopify://collections/fuel-station-signage",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
