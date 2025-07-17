@@ -376,13 +376,6 @@
     "rich_text_Dzp8Ni": {
       "type": "rich-text",
       "blocks": {
-        "heading_tUQ47n": {
-          "type": "heading",
-          "settings": {
-            "heading": "Upgrade Your Laundromat Today",
-            "heading_size": "h1"
-          }
-        },
         "text_i6MCF3": {
           "type": "text",
           "settings": {
@@ -402,7 +395,6 @@
         }
       },
       "block_order": [
-        "heading_tUQ47n",
         "text_i6MCF3",
         "button_C8BfdT"
       ],
