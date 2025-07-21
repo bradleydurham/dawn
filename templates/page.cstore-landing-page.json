@@ -302,13 +302,13 @@
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3": {
       "type": "featured-collection",
       "settings": {
-        "title": "{{ section.settings.collection.title }}",
+        "title": "The C-Store & More Collection.",
         "heading_size": "h1",
-        "description": "<p>{{ section.settings.collection.metafields.custom.single_line_description.value }}</p>",
+        "description": "<p>Browse our entire collection of decals made specifically for convenience stores, gas stations, grocery stores and bodegas. </p>",
         "show_description": false,
         "description_style": "body",
         "collection": "fuel-station-signage",
-        "products_to_show": 12,
+        "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
