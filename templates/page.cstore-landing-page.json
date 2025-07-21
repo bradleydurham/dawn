@@ -153,7 +153,7 @@
         "column_migbVz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GB_Laundry-preview_washer.jpg",
+            "image": "shopify://shop_images/GB_Product_Preview_-_Filling_Station.jpg",
             "title": "Gas Pump Decals",
             "text": "<p>Ensures compliance, avoid fuel mix-ups, and promotes upsells like car washes, and rewards programs.</p>",
             "link_label": "Shop Gas Pump Decals",
@@ -163,7 +163,7 @@
         "column_XYbqJa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GB_Laundry-preview_ozone.jpg",
+            "image": "shopify://shop_images/GB_Product_Preview_-_Window_Decals.jpg",
             "title": "Door & Window Decals",
             "text": "<p>Set expectations before customers walk in and attract impulse traffic with promos or deals.</p>",
             "link_label": "Shop Informational Decals",
@@ -173,7 +173,7 @@
         "column_G37gED": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GB_Laundry-preview_signage.jpg",
+            "image": "shopify://shop_images/GB_Product_Preview_-_Checkout_Counter_Decals.jpg",
             "title": "Checkout Counter Signage",
             "text": "<p>Encourages upsells, keep the store compliant, and speed up customer navigation with tap-to-pay, credit card acceptance and more.</p>",
             "link_label": "Shop Payment Decals",
