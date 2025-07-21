@@ -302,7 +302,7 @@
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3": {
       "type": "featured-collection",
       "settings": {
-        "title": "{{ section.settings.collection.title }}",
+        "title": "The Entire Laundry Collection",
         "heading_size": "h1",
         "description": "<p>{{ section.settings.collection.metafields.custom.single_line_description.value }}</p>",
         "show_description": false,
