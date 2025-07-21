@@ -188,7 +188,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Featured Products",
+        "title": "Featured Categories",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -274,9 +274,9 @@
     "5450a3d1-ec92-4531-8d21-9c3f40896abb": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Best Sellers",
         "heading_size": "h1",
-        "description": "<p><strong>Best Sellers</strong></p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "fuel-station",
@@ -302,7 +302,7 @@
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3": {
       "type": "featured-collection",
       "settings": {
-        "title": "The C-Store & More Collection.",
+        "title": "The Entire C-Store & More Collection.",
         "heading_size": "h1",
         "description": "<p>Browse our entire collection of decals made specifically for convenience stores, gas stations, grocery stores and bodegas. </p>",
         "show_description": false,
