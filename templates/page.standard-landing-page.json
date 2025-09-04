@@ -179,12 +179,23 @@
             "link_label": "Shop Laundromat Signage",
             "link": "shopify://collections/laundromat-information-decals"
           }
+        },
+        "column_LmzxyQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SharkSkin_Creative.jpg",
+            "title": "Design Your Own",
+            "text": "<p>With every laundromat being unique, GetBranded offers the ability to create your own, custom decals using our proprietary SharSkin® material.</p>",
+            "link_label": "Start Designing",
+            "link": "shopify://products/custom-stickers"
+          }
         }
       },
       "block_order": [
         "column_migbVz",
         "column_XYbqJa",
-        "column_G37gED"
+        "column_G37gED",
+        "column_LmzxyQ"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -192,7 +203,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
