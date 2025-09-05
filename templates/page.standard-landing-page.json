@@ -96,6 +96,15 @@
             "link": ""
           }
         },
+        "column_gPTbCB": {
+          "type": "column",
+          "settings": {
+            "title": "Easy To Clean",
+            "text": "<p>Wipe down and wash right along with the surface of your machines. No need to worry about harsh chemicals.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_j46QDc": {
           "type": "column",
           "settings": {
@@ -113,22 +122,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_gPTbCB": {
-          "type": "column",
-          "settings": {
-            "title": "Easy To Clean",
-            "text": "<p>Wipe down and wash right along with the surface of your machines. No need to worry about harsh chemicals.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_UFrxPn",
+        "column_gPTbCB",
         "column_j46QDc",
-        "column_NTR9ar",
-        "column_gPTbCB"
+        "column_NTR9ar"
       ],
       "settings": {
         "title": "",
