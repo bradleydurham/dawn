@@ -83,19 +83,19 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "dryer-decals"
+            "collection": "point-of-sale-terminal-wraps"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "laundromat-information-decals"
+            "collection": "ada-decals-handicap-signage-and-braille-stickers"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ozone-washing-decals"
+            "collection": "caution-decals"
           }
         }
       },
