@@ -83,19 +83,19 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "point-of-sale-terminal-wraps"
+            "collection": "{{ collection.metafields.custom.promo_collection_1.value }}"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ada-decals-handicap-signage-and-braille-stickers"
+            "collection": "{{ collection.metafields.custom.promo_collection_2.value }}"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "caution-decals"
+            "collection": "{{ collection.metafields.custom.promo_collection_3.value }}"
           }
         }
       },
