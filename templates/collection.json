@@ -29,8 +29,8 @@
         "buttons_dPhBqi": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "#collection-description",
+            "button_label_1": "View All Laundromat Decals",
+            "button_link_1": "shopify://pages/laundry",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -83,19 +83,19 @@
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "air-vac"
+            "collection": "dryer-decals"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "warning-decals"
+            "collection": "laundromat-information-decals"
           }
         },
         "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "contactless-payments-decals"
+            "collection": "ozone-washing-decals"
           }
         }
       },
