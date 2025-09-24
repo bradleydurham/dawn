@@ -51,6 +51,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "antigro_getbranded_2022_init_antigro_designer_BUiPGF": {
+          "type": "shopify://apps/antigro-getbranded-2022/blocks/initAntigroDesigner/3b537b20-3928-47f6-a141-d0dfab779884",
+          "settings": {
+            "product": "{{product}}",
+            "createDesignText": "",
+            "customHtml": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -67,6 +75,7 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
@@ -125,6 +134,7 @@
         "caption",
         "price",
         "quantity_selector",
+        "antigro_getbranded_2022_init_antigro_designer_BUiPGF",
         "variant_picker",
         "4ca5e63f-0040-45f3-adc9-a137a38adee2",
         "buy_buttons",
@@ -172,6 +182,7 @@
           "settings": {
             "button_label": "Learn More",
             "button_link": "shopify://pages/sharkskin",
+            "button_link_new_window": false,
             "button_style_secondary": false
           }
         }
