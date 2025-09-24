@@ -57,8 +57,17 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "antigro_getbranded_2022_init_antigro_designer_LVEEaL": {
+          "type": "shopify://apps/antigro-getbranded-2022/blocks/initAntigroDesigner/3b537b20-3928-47f6-a141-d0dfab779884",
+          "settings": {
+            "product": "{{product}}",
+            "createDesignText": "",
+            "customHtml": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
@@ -67,9 +76,9 @@
         "subscriptions_app_block_JfVdpH": {
           "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
-            "bacgkround_color": "#FFFFFF",
+            "color_text_body": "#6d7175",
+            "dividers_color": "#8f8d8d",
+            "bacgkround_color": "#ffffff",
             "border_thickness": 1,
             "border_radius": 0,
             "subscription_policy_url": "",
@@ -130,6 +139,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "antigro_getbranded_2022_init_antigro_designer_LVEEaL",
         "buy_buttons",
         "subscriptions_app_block_JfVdpH",
         "volume_discount_rWUeBt",
