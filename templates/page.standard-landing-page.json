@@ -319,7 +319,7 @@
         "description": "<p><strong>Featured Collection - LaundroWorks</strong></p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "laundro-works",
+        "collection": "laundroworks",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": true,
