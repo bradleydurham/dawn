@@ -192,7 +192,7 @@
         "type": "shopify://apps/antigro-getbranded-2022/blocks/antigroDesigner/3b537b20-3928-47f6-a141-d0dfab779884",
         "disabled": false,
         "settings": {
-          "advancedConfig": "{\nthumbSelector: \".cart-item__image\"\n}",
+          "advancedConfig": "{\nthumbSelector: \".cart-item__image\",\naddProjectCustomPropertiesToCartItem: true\n}",
           "legacyThemeConfig": ""
         }
       }
