@@ -275,7 +275,7 @@
         "heading_rh9iQ8": {
           "type": "heading",
           "settings": {
-            "heading": "Get Branded is a VapeTM partner",
+            "heading": "GetBranded is a Renvo & VapeTM partner",
             "heading_size": "h1"
           }
         },
@@ -289,8 +289,8 @@
         "buttons_WANcnY": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VapeTM vending machines",
-            "button_link_1": "https://vapetm.com",
+            "button_label_1": "Vending Machines",
+            "button_link_1": "https://gorenvo.com",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
