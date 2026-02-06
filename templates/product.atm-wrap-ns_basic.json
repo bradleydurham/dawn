@@ -1,0 +1,362 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product-bd",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "872d1030-32f8-466b-a787-dd5091932543": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"pd_20\">\n{% render 'breadcrumb' %}\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "sku_aPrk3V": {
+          "type": "sku",
+          "settings": {
+            "text_style": "uppercase"
+          }
+        },
+        "collapsible_tab_Q666jH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "icon": "clipboard",
+            "content": "{{ block.settings.page.content }}",
+            "page": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "design_options_XL6CXX": {
+          "type": "design_options",
+          "settings": {
+            "design1": "Design It For Me",
+            "design1_subtext": "<p class=\"product__text inline-richtext caption-with-letter-spacing\" style=\"line-height:16px;\">\n  We'll send you an email with next steps.<br>\n  See our production process <a href=\"#production-process\" data-link-to-production-process=\"\">below.</a>\n</p>",
+            "design2": "Upload My Own Artwork",
+            "design2_subtext": "<p class=\"product__text inline-richtext caption-with-letter-spacing\" style=\"line-height:16px;\">\n  Download a design template <a href=\"#design-template\" id=\"link-to-design-template\">here.</a> We'll send you an email with upload information.<br>\n  In the meantime, you can find out more about our production process <a href=\"#production-process\" data-link-to-production-process=\"\">below.</a>\n</p>"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "volume_discount_xHJABV": {
+          "type": "volume_discount",
+          "settings": {
+            "vol_discount_header": "",
+            "vol_dicount_1": "",
+            "vol_dicount_2": "",
+            "vol_dicount_3": "",
+            "vol_dicount_4": "",
+            "vol_dicount_5": "",
+            "vol_dicount_6": "",
+            "vol_dicount_7": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SHIPPING",
+            "icon": "truck",
+            "content": "<p>This is a custom item. Please allow 3-5 days after artwork approval for production prior to shipping.</p>",
+            "page": ""
+          }
+        },
+        "hulk_discounts_offer_table_block_Y6p3g9": {
+          "type": "shopify://apps/hulk-discounts/blocks/offer_table_block/25745434-52e7-4378-88f1-890df18a0110",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor",
+        "872d1030-32f8-466b-a787-dd5091932543",
+        "title",
+        "sku_aPrk3V",
+        "collapsible_tab_Q666jH",
+        "variant_picker",
+        "design_options_XL6CXX",
+        "quantity_selector",
+        "price",
+        "buy_buttons",
+        "volume_discount_xHJABV",
+        "collapsible-row-1",
+        "hulk_discounts_offer_table_block_Y6p3g9"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Customers also bought",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_KPgfa7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eTQTP4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sharkskin-rec-2.jpg",
+            "title": "SharkSkin®",
+            "text": "<p>Our exclusive laminated vinyl material has a textured matte finish that is durable, scuff-resistant, and UV-protected to last for years.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nCh7hi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ColorPop-rec.jpg",
+            "title": "Color Pop™",
+            "text": "<p>High-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_eTQTP4",
+        "column_nCh7hi"
+      ],
+      "settings": {
+        "title": "Material Options",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_TwAftL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qKJpJr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 1: Design",
+            "icon": "check_mark",
+            "row_content": "<p>Whether you have your own design or want us to create something great for you, we will send you an email once the purchase Is made to get started. Either way, these are the steps we will follow to ensure you have exactly what you need.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pwJiMG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 2: Proof Sent",
+            "icon": "check_mark",
+            "row_content": "<p>After the design has been applied to the template, we'll send you a pdf proof of what your product will look like.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HU34bJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 3: Approval and Feedback",
+            "icon": "check_mark",
+            "row_content": "<p>We will update your proof up to three times prior to approval.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AQybWk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 4: Production",
+            "icon": "check_mark",
+            "row_content": "<p>Once approved, we will produce the product. Please allow 3-5 days for production.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mDaNxy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Step 5: Shipment",
+            "icon": "check_mark",
+            "row_content": "<p>After your purchase Is produced, we'll ship It to the address that you provided using your preferred shipping method. Please allow 3-5 days after artwork approval for production prior to shipping.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qKJpJr",
+        "collapsible_row_pwJiMG",
+        "collapsible_row_HU34bJ",
+        "collapsible_row_AQybWk",
+        "collapsible_row_mDaNxy"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Artwork, Approval, and Production Process",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "container_color_scheme": "scheme-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_FFjPzy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_G9PUby": {
+          "type": "column",
+          "settings": {
+            "title": "Self-Installation",
+            "text": "<p>Get Branded's SharkSkin ATM wraps are designed for easy installation, taking only minutes with no prior experience needed. </p>",
+            "link_label": "Check out our DIY Installation videos",
+            "link": "https://youtube.com/playlist?list=PLb8lwkXUoLLcGsXSfP6GkO1UBDTnl-ixz&feature=shared"
+          }
+        },
+        "column_37Gyrr": {
+          "type": "column",
+          "settings": {
+            "title": "Hire a Pro",
+            "text": "<p>Get Branded can recommend a partner to help Install your wrap. Click the link below to get a quote with one of our pros.</p>",
+            "link_label": "Get a Quote From a Pro",
+            "link": "shopify://pages/installation-quote"
+          }
+        }
+      },
+      "block_order": [
+        "column_G9PUby",
+        "column_37Gyrr"
+      ],
+      "settings": {
+        "title": "Installation",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.cabinet_style_differences | metafield_tag }}</p><p>Hardware is provided by: {{ product.metafields.custom.manufacturer.value.name.value }}</p>",
+            "text_style": "body"
+          }
+        },
+        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit {{ product.metafields.custom.manufacturer.value.name.value }}",
+            "button_link": "{{ product.metafields.custom.manufacturer.value.website.value }}",
+            "button_link_new_window": true,
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-text-1",
+        "template--16974101348608__bcbe5fb8-0ae1-4def-a5cc-fa38416765aa-button-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.custom.manufacturer.value.logo.value }}",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "multicolumn_KPgfa7",
+    "collapsible_content_TwAftL",
+    "multicolumn_FFjPzy",
+    "bcbe5fb8-0ae1-4def-a5cc-fa38416765aa"
+  ]
+}
