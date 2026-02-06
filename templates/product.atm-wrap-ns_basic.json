@@ -167,9 +167,9 @@
         "column_nCh7hi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ColorPop-rec.jpg",
-            "title": "Color Pop™",
-            "text": "<p>High-quality 3M™ vinyl with ultra, high gloss laminate to make colors appear extra bright.</p>",
+            "image": "shopify://shop_images/Basic-Wrap_Material-image.jpg",
+            "title": "Basic Wraps",
+            "text": "<p>Budget-friendly wrap material with a high-gloss finish and premium adhesive. Perfect for indoor and light-use settings.</p>",
             "link_label": "",
             "link": ""
           }
