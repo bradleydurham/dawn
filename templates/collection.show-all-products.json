@@ -37,10 +37,21 @@
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
+    },
+    "custom_liquid_yeAXxN": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "{%- comment -%}\nOutputs ALL products in the current collection without pagination.\nBest used for machine-readable indexing (can be plain links/handles).\n{%- endcomment -%}\n\n{%- if collection and collection.products_count > 0 -%}\n  <div class=\"collection-index\">\n    <p>Total products: {{ collection.products_count }}</p>\n\n    <ul>\n      {%- for product in collection.products -%}\n        <li>\n          <a href=\"{{ product.url }}\">{{ product.handle }}</a>\n        </li>\n      {%- endfor -%}\n    </ul>\n  </div>\n{%- else -%}\n  <p>No products found in this collection.</p>\n{%- endif -%}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "product-grid",
-    "banner"
+    "banner",
+    "custom_liquid_yeAXxN"
   ]
 }
