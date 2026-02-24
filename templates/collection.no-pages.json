@@ -182,6 +182,16 @@
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
+    },
+    "custom_liquid_ctYnAK": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "{% for product in collections['all-products-hubsopt-link'].products %}\n  <div class=\"product\">\n    <h3>{{ product.title }}</h3>\n    <p>{{ product.price }}</p>\n  </div>\n{% endfor %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -190,6 +200,7 @@
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "05395e5e-c531-4b5a-9f98-289cf80b342a",
-    "banner"
+    "banner",
+    "custom_liquid_ctYnAK"
   ]
 }
