@@ -199,7 +199,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Featured Collections",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -484,6 +484,52 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "multicolumn_aU8XAd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3Bjwph": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.42_PM_c59e1b68-1aaf-4e44-88f2-e321a70be5ba.png",
+            "title": "The Laundry Lab",
+            "text": "<p>Check our line of branding made specially for The Laundry Lab bottle.</p>",
+            "link_label": "The Laundry Lab Collection",
+            "link": "https://getbranded.com/products/the-laundry-lab-decal-sheet"
+          }
+        },
+        "column_r3XHMC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.01_PM.png",
+            "title": "LaundroWorks",
+            "text": "<p>View our exclusive products made specifically for LaundroWorks brand equipment.</p>",
+            "link_label": "LaundroWorks Collection",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3Bjwph",
+        "column_r3XHMC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Featured Collections",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -498,6 +544,7 @@
     "featured_collection_E4ejHc",
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
     "multicolumn_eCzqJ6",
-    "rich_text_Dzp8Ni"
+    "rich_text_Dzp8Ni",
+    "multicolumn_aU8XAd"
   ]
 }
