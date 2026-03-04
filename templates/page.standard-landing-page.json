@@ -199,7 +199,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Featured Products",
+        "title": "Featured Collections",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -339,6 +339,35 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_E4ejHc": {
+      "type": "featured-collection",
+      "name": "cents collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "<p><strong>Featured Collection - The Laundry Lab</strong></p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-laundry-lab",
+        "products_to_show": 2,
+        "columns_desktop": 1,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3": {
       "type": "featured-collection",
       "settings": {
@@ -466,6 +495,7 @@
     "multirow_6gHjCC",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
     "featured_collection_3AnnTy",
+    "featured_collection_E4ejHc",
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
     "multicolumn_eCzqJ6",
     "rich_text_Dzp8Ni"
