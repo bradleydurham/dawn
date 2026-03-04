@@ -310,61 +310,49 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_3AnnTy": {
-      "type": "featured-collection",
-      "name": "cents collection",
+    "multicolumn_aU8XAd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3Bjwph": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.42_PM_c59e1b68-1aaf-4e44-88f2-e321a70be5ba.png",
+            "title": "The Laundry Lab",
+            "text": "<p>Check our line of branding made specially for The Laundry Lab bottle.</p>",
+            "link_label": "The Laundry Lab Collection",
+            "link": "https://getbranded.com/products/the-laundry-lab-decal-sheet"
+          }
+        },
+        "column_r3XHMC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.01_PM.png",
+            "title": "LaundroWorks",
+            "text": "<p>View our exclusive products made specifically for LaundroWorks brand equipment.</p>",
+            "link_label": "LaundroWorks Collection",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3Bjwph",
+        "column_r3XHMC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Featured Collections",
         "heading_size": "h1",
-        "description": "<p><strong>Featured Collection - LaundroWorks</strong></p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "laundroworks",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_E4ejHc": {
-      "type": "featured-collection",
-      "name": "cents collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "<p><strong>Featured Collection - The Laundry Lab</strong></p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "the-laundry-lab",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -484,52 +472,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "multicolumn_aU8XAd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3Bjwph": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.42_PM_c59e1b68-1aaf-4e44-88f2-e321a70be5ba.png",
-            "title": "The Laundry Lab",
-            "text": "<p>Check our line of branding made specially for The Laundry Lab bottle.</p>",
-            "link_label": "The Laundry Lab Collection",
-            "link": "https://getbranded.com/products/the-laundry-lab-decal-sheet"
-          }
-        },
-        "column_r3XHMC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-03-04_at_4.21.01_PM.png",
-            "title": "LaundroWorks",
-            "text": "<p>View our exclusive products made specifically for LaundroWorks brand equipment.</p>",
-            "link_label": "LaundroWorks Collection",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_3Bjwph",
-        "column_r3XHMC"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Featured Collections",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -540,11 +482,9 @@
     "multicolumn_xqDHKE",
     "multirow_6gHjCC",
     "5450a3d1-ec92-4531-8d21-9c3f40896abb",
-    "featured_collection_3AnnTy",
-    "featured_collection_E4ejHc",
+    "multicolumn_aU8XAd",
     "f2972df1-f5f4-4dba-97b7-e2b63bbd49b3",
     "multicolumn_eCzqJ6",
-    "rich_text_Dzp8Ni",
-    "multicolumn_aU8XAd"
+    "rich_text_Dzp8Ni"
   ]
 }
