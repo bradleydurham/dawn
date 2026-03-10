@@ -330,7 +330,7 @@
             "title": "LaundroWorks",
             "text": "<p>View our exclusive products made specifically for LaundroWorks brand equipment.</p>",
             "link_label": "LaundroWorks Collection",
-            "link": ""
+            "link": "shopify://collections/laundroworks"
           }
         }
       },
