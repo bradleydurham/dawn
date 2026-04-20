@@ -71,7 +71,7 @@
         "button_pMAWeV": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Customizable Decals",
+            "button_label": "Request A Quote",
             "button_link": "shopify://pages/quote-request",
             "button_style_secondary": false,
             "button_label_2": "Request A Quote",
