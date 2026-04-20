@@ -68,22 +68,11 @@
             "heading_size": "h1"
           }
         },
-        "button_jWHmXj": {
-          "type": "button",
-          "settings": {
-            "button_label": "Custom Decal Calculator",
-            "button_link": "shopify://products/customcalculator",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "button_pMAWeV": {
           "type": "button",
           "settings": {
             "button_label": "Shop Customizable Decals",
-            "button_link": "shopify://collections/customizable-decals",
+            "button_link": "shopify://pages/quote-request",
             "button_style_secondary": false,
             "button_label_2": "Request A Quote",
             "button_link_2": "shopify://pages/quote-request",
@@ -93,7 +82,6 @@
       },
       "block_order": [
         "heading_JkEqit",
-        "button_jWHmXj",
         "button_pMAWeV"
       ],
       "settings": {
