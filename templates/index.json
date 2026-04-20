@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -31,7 +31,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -45,7 +45,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/GB-Header-V5_e79e04cd-c8c7-438b-9b4f-fcc016250515.jpg",
+        "image": "shopify://shop_images/GB-Header-V5_e79e04cd-c8c7-438b-9b4f-fcc016250515.jpg",
         "image_overlay_opacity": 10,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
@@ -58,37 +58,84 @@
         "show_text_below": false
       }
     },
+    "rich_text_CnJnTp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JkEqit": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Braille Now Available!",
+            "heading_size": "h1"
+          }
+        },
+        "button_jWHmXj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Custom Decal Calculator",
+            "button_link": "shopify://products/customcalculator",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_pMAWeV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Customizable Decals",
+            "button_link": "shopify://collections/customizable-decals",
+            "button_style_secondary": false,
+            "button_label_2": "Request A Quote",
+            "button_link_2": "shopify://pages/quote-request",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JkEqit",
+        "button_jWHmXj",
+        "button_pMAWeV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Crypto.jpg",
+            "image": "shopify://shop_images/Column_Crypto.jpg",
             "title": "CRYPTO & ALT COINS",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/crypto-alt-coins"
+            "link": "shopify://pages/crypto-alt-coins"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Security.jpg",
+            "image": "shopify://shop_images/Column_Security.jpg",
             "title": "SECURITY",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/security"
+            "link": "shopify://pages/security"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Specialty9.jpg",
+            "image": "shopify://shop_images/Column_Specialty9.jpg",
             "title": "SPECIALTY WRAPS",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/specialty"
+            "link": "shopify://pages/specialty"
           }
         }
       },
@@ -120,31 +167,31 @@
         "ca75db75-f28d-40b1-8e2b-575c814d50be": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_ATMOperators.jpg",
+            "image": "shopify://shop_images/Column_ATMOperators.jpg",
             "title": "ATM OPERATORS",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/atm-owners-operators"
+            "link": "shopify://pages/atm-owners-operators"
           }
         },
         "2c894afe-7a3e-4e57-9d8f-a43c5d863342": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Banking.jpg",
+            "image": "shopify://shop_images/Column_Banking.jpg",
             "title": "BANKING",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/bankers"
+            "link": "shopify://pages/bankers"
           }
         },
         "6379d072-67df-40ba-ad60-f24527118190": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_CreditUnions.jpg",
+            "image": "shopify://shop_images/Column_CreditUnions.jpg",
             "title": "CREDIT UNIONS",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/credit-unions"
+            "link": "shopify://pages/credit-unions"
           }
         }
       },
@@ -184,7 +231,7 @@
           "type": "button",
           "settings": {
             "button_label": "Custom Decal Calculator",
-            "button_link": "shopify:\/\/products\/customcalculator",
+            "button_link": "shopify://products/customcalculator",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -195,10 +242,10 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Customizable Decals",
-            "button_link": "shopify:\/\/collections\/customizable-decals",
+            "button_link": "shopify://collections/customizable-decals",
             "button_style_secondary": false,
             "button_label_2": "Request A Quote",
-            "button_link_2": "shopify:\/\/pages\/quote-request",
+            "button_link_2": "shopify://pages/quote-request",
             "button_style_secondary_2": false
           }
         }
@@ -223,31 +270,31 @@
         "b63eee5c-4417-4260-ba67-4945f1294f2c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Retail.jpg",
+            "image": "shopify://shop_images/Column_Retail.jpg",
             "title": "RETAIL",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/retail"
+            "link": "shopify://pages/retail"
           }
         },
         "865786d4-d3ac-4886-a601-96fc0131f6cc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Cstore.jpg",
+            "image": "shopify://shop_images/Column_Cstore.jpg",
             "title": "C-STORE",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/c-stores"
+            "link": "shopify://pages/c-stores"
           }
         },
         "a9e7569b-92e6-4550-b75b-263db99088ca": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Column_Hospitality.jpg",
+            "image": "shopify://shop_images/Column_Hospitality.jpg",
             "title": "HOSPITALITY",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/pages\/hospitality"
+            "link": "shopify://pages/hospitality"
           }
         }
       },
@@ -286,14 +333,14 @@
         "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Save 30% on 50 Packs of Stock Decals (excludes custom orders)<\/p>"
+            "text": "<p>Save 30% on 50 Packs of Stock Decals (excludes custom orders)</p>"
           }
         },
         "template--16969086894336__6edd2eff-f7cc-428f-8ac6-6debae78ba0e-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Shop All Decals",
-            "button_link": "shopify:\/\/collections\/all-stock-decals",
+            "button_link": "shopify://collections/all-stock-decals",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -333,8 +380,7 @@
         },
         "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-price-1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-variant_picker-1": {
           "type": "variant_picker",
@@ -344,8 +390,7 @@
         },
         "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-quantity_selector-1": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16969086894336__1d188e17-350d-45ca-b51f-7b77c72cb55b-buy_buttons-1": {
           "type": "buy_buttons",
@@ -384,8 +429,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/SXHmpfNfgbE",
-        "cover_image": "shopify:\/\/shop_images\/GetBranded-Hype-Video-THUMBNAIL_0c6d5ce1-1d9f-47b6-a292-3d80415106d0.jpg",
+        "video_url": "https://youtu.be/SXHmpfNfgbE",
+        "cover_image": "shopify://shop_images/GetBranded-Hype-Video-THUMBNAIL_0c6d5ce1-1d9f-47b6-a292-3d80415106d0.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
@@ -396,6 +441,7 @@
   },
   "order": [
     "image_banner",
+    "rich_text_CnJnTp",
     "multicolumn",
     "d22b16eb-68af-44d2-8da0-c12f121f2f0e",
     "e9da02a6-a77d-443c-93f4-6e35d1790e26",
