@@ -83,15 +83,15 @@
         "heading_PXmwtt": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Custom Braille Now Available!",
             "heading_size": "h1"
           }
         },
         "button_BM4KzY": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Request a Quote",
+            "button_link": "shopify://pages/quote-request",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
