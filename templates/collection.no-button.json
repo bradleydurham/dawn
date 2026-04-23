@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_collection_banner_bd_LxGyGQ": {
@@ -68,6 +77,42 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_878xi6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RRrzF6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Braille Now Available!",
+            "heading_size": "h1"
+          }
+        },
+        "button_TnDhTC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify://pages/quote-request",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RRrzF6",
+        "button_TnDhTC"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "34bf2c81-31ae-43d4-a307-3139501a5ed2": {
       "type": "collection-list",
       "blocks": {
@@ -129,10 +174,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Custom Decal Calculator",
-            "button_link_1": "shopify:\/\/products\/customcalculator",
+            "button_link_1": "shopify://products/customcalculator",
             "button_style_secondary_1": false,
             "button_label_2": "Quote Request",
-            "button_link_2": "shopify:\/\/pages\/quote-request",
+            "button_link_2": "shopify://pages/quote-request",
             "button_style_secondary_2": false
           }
         }
@@ -143,7 +188,7 @@
         "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banners.jpg",
+        "image": "shopify://shop_images/Banners.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -169,6 +214,7 @@
   "order": [
     "image_collection_banner_bd_LxGyGQ",
     "product-grid",
+    "rich_text_878xi6",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "banner"
