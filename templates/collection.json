@@ -77,6 +77,42 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_aFg6Ti": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PXmwtt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "button_BM4KzY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PXmwtt",
+        "button_BM4KzY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "34bf2c81-31ae-43d4-a307-3139501a5ed2": {
       "type": "collection-list",
       "blocks": {
@@ -187,6 +223,7 @@
   "order": [
     "image_collection_banner_bd_GNiq78",
     "product-grid",
+    "rich_text_aFg6Ti",
     "34bf2c81-31ae-43d4-a307-3139501a5ed2",
     "4876907b-1831-40fd-8ec7-f327f05e6e55",
     "05395e5e-c531-4b5a-9f98-289cf80b342a",
