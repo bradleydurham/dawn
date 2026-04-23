@@ -90,7 +90,7 @@
         "button_TnDhTC": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Request a Quote",
             "button_link": "shopify://pages/quote-request",
             "button_style_secondary": false,
             "button_label_2": "",
