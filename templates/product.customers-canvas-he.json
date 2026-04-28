@@ -57,6 +57,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "customers_canvas_personalize_button_ea4Y38": {
+          "type": "shopify://apps/customers-canvas/blocks/personalize_button/2347945d-0917-4f90-853f-efd40e167c29",
+          "settings": {
+            "personalize_button_text": "Edit Artwork",
+            "default_button_text": "Add to cart"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -67,9 +74,12 @@
         "subscriptions_app_block_JfVdpH": {
           "type": "shopify://apps/subscriptions/blocks/app-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
           "settings": {
+            "widget_style": "card",
+            "widget_style_card_selector": "radio_button",
             "subscription_policy_url": "",
-            "color_text_body": "#6D7175",
-            "dividers_color": "#8F8D8D",
+            "color_text_body": "#6d7175",
+            "dividers_color": "#8f8d8d",
+            "background_color": "#ffffff",
             "border_thickness": 1,
             "border_radius": 0,
             "product": "{{product}}"
@@ -129,6 +139,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "customers_canvas_personalize_button_ea4Y38",
         "buy_buttons",
         "subscriptions_app_block_JfVdpH",
         "volume_discount_rWUeBt",
