@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -15,7 +24,7 @@
           "settings": {
             "heading": "What is SharkSkin®?",
             "icon": "question_mark",
-            "row_content": "<p>SharkSkin® is the name of our exclusive material which combines high-quality vinyl, 3M™ adhesive, eco-friendly UV stable ink, and a matte, textured laminate. The result is an easy-to-use, durable and long-lasting material for a variety of products. <a href=\"\/pages\/sharkskin\" title=\"Material Overview\">Read more about SharkSkin® here.<\/a><\/p>",
+            "row_content": "<p>SharkSkin® is the name of our exclusive material which combines high-quality vinyl, 3M™ adhesive, eco-friendly UV stable ink, and a matte, textured laminate. The result is an easy-to-use, durable and long-lasting material for a variety of products. <a href=\"/pages/sharkskin\" title=\"Material Overview\">Read more about SharkSkin® here.</a></p>",
             "page": ""
           }
         },
@@ -24,16 +33,16 @@
           "settings": {
             "heading": "What is ColorPop™?",
             "icon": "question_mark",
-            "row_content": "<p>ColorPop™is the combination of high-quality vinyl, 3M™ adhesive,  eco-friendly UV stable ink, and a glossy, smooth laminate that shows colors at their maximum vibrance. <\/p>",
+            "row_content": "<p>ColorPop™is the combination of high-quality vinyl, 3M™ adhesive,  eco-friendly UV stable ink, and a glossy, smooth laminate that shows colors at their maximum vibrance. </p>",
             "page": ""
           }
         },
         "1465f6d3-f5f2-4bdc-9a15-b510cc32b370": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "On what materials\/surfaces can SharkSkin® and ColorPop™ decals be used?",
+            "heading": "On what materials/surfaces can SharkSkin® and ColorPop™ decals be used?",
             "icon": "question_mark",
-            "row_content": "<p>Our vinyl decals can be applied to porous and non-porous surfaces, including but not limited to, plastic, glass, metal, unfinished wood, and powder-coated surfaces.<\/p><p>Not suitable for painted automobile finishes, drywall, painted or stained wood, and apparel or other fabrics that are washed and dried at high temperatures.<\/p>",
+            "row_content": "<p>Our vinyl decals can be applied to porous and non-porous surfaces, including but not limited to, plastic, glass, metal, unfinished wood, and powder-coated surfaces.</p><p>Not suitable for painted automobile finishes, drywall, painted or stained wood, and apparel or other fabrics that are washed and dried at high temperatures.</p>",
             "page": ""
           }
         },
@@ -42,7 +51,7 @@
           "settings": {
             "heading": "Will the decals leave a residue or ruin the surface?",
             "icon": "question_mark",
-            "row_content": "<p>In most cases, decals will remove cleanly without leaving residue or adhesive. An alcohol solution may be used to remove any remaining residue.<br\/><\/p><p>Not suitable for painted automobile finishes, drywall, painted or stained wood,  and apparel or other fabrics that are washed and dried in high temperatures.<\/p>",
+            "row_content": "<p>In most cases, decals will remove cleanly without leaving residue or adhesive. An alcohol solution may be used to remove any remaining residue.<br/></p><p>Not suitable for painted automobile finishes, drywall, painted or stained wood,  and apparel or other fabrics that are washed and dried in high temperatures.</p>",
             "page": ""
           }
         },
@@ -51,7 +60,7 @@
           "settings": {
             "heading": "Are decals removable?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, you can remove decals by peeling them off the surface. They will remain in place until intentionally removed.<\/p>",
+            "row_content": "<p>Yes, you can remove decals by peeling them off the surface. They will remain in place until intentionally removed.</p>",
             "page": ""
           }
         },
@@ -60,7 +69,7 @@
           "settings": {
             "heading": "How do I clean installed decals and wraps?",
             "icon": "question_mark",
-            "row_content": "<p>SharkSkin® and ColorPop™ vinyl are waterproof, dishwasher safe, and can be cleaned with disinfectant, glass cleaner, alcohol, or any household cleaner. <\/p>",
+            "row_content": "<p>SharkSkin® and ColorPop™ vinyl are waterproof, dishwasher safe, and can be cleaned with disinfectant, glass cleaner, alcohol, or any household cleaner. </p>",
             "page": ""
           }
         },
@@ -69,7 +78,7 @@
           "settings": {
             "heading": "How do I install decals?",
             "icon": "question_mark",
-            "row_content": "<p>For best results, apply decals in a dry environment with temperatures between 40 degrees and 80 degrees Fahrenheit, and not in direct sunlight.<\/p><p><strong>NEVER APPLY TO A WET SURFACE. DRY INSTALL ONLY. <\/strong><\/p><p>Materials Needed: <br\/>An alcohol solution (either 50\/50 water-alcohol, denatured alcohol, or rubbing alcohol) and microfiber cloths.<\/p><p><strong>STEPS:<\/strong><\/p><p>Prepare the Surface for Decal Installation<\/p><p>1. Clean the area thoroughly with rubbing or denatured alcohol using a microfiber cloth.<\/p><p>2. To avoid a residue that will prevent the decal from adhering to your surface, do not use household cleaning products. Especially avoid products that contain ammonia or degreasers.<\/p><p>Installation<\/p><p>1. Completely remove the liner from the decal <\/p><p>2. Place onto the install surface using firm pressure with your hand or microfiber cloth<\/p>",
+            "row_content": "<p>For best results, apply decals in a dry environment with temperatures between 40 degrees and 80 degrees Fahrenheit, and not in direct sunlight.</p><p><strong>NEVER APPLY TO A WET SURFACE. DRY INSTALL ONLY. </strong></p><p>Materials Needed: <br/>An alcohol solution (either 50/50 water-alcohol, denatured alcohol, or rubbing alcohol) and microfiber cloths.</p><p><strong>STEPS:</strong></p><p>Prepare the Surface for Decal Installation</p><p>1. Clean the area thoroughly with rubbing or denatured alcohol using a microfiber cloth.</p><p>2. To avoid a residue that will prevent the decal from adhering to your surface, do not use household cleaning products. Especially avoid products that contain ammonia or degreasers.</p><p>Installation</p><p>1. Completely remove the liner from the decal </p><p>2. Place onto the install surface using firm pressure with your hand or microfiber cloth</p>",
             "page": ""
           }
         },
@@ -78,7 +87,7 @@
           "settings": {
             "heading": "How do I install my wrap?",
             "icon": "question_mark",
-            "row_content": "<p>Outdoor wrap installation is relatively easy in moderate temperatures and low wind environments. Read all steps and tips below.<\/p><p>NEVER APPLY TO A WET SURFACE. DRY INSTALL ONLY. <\/p><p>Materials Needed: <br\/>An alcohol solution (either 50\/50 water-alcohol, denatured alcohol, or rubbing alcohol) and microfiber cloths<\/p><p>STEPS: <a href=\"https:\/\/youtu.be\/qVYRiAXKiIo\" target=\"_blank\" title=\"Wrap installation tutorial\">Watch the video tutorial here<\/a>.<\/p><p>Prepare the Surface for Installation<\/p><p>1. Remove any caulk from the metal surface, as adhesive will not stick to caulk.<\/p><p>2. Clean the area thoroughly with rubbing or denatured alcohol using a microfiber cloth. <\/p><p>3. To avoid a residue that will prevent the wrap from adhering to your surface, do not use household cleaning products. Especially avoid products that contain ammonia or degreasers.<\/p><p>Installation <\/p><p>1. Begin with the back panel, if your wrap has a back, and peel 5”- 6” of liner down from the top edge of the wrap panel. Add a crease in the liner  to keep it  away from the adhesive.<\/p><p>2. Align the wrap at the top edge of the back panel, making sure it is straight. <\/p><p>3. Press along the top edge of the wrap, securing it in place. Readjust the alignment, if needed, before continuing.<\/p><p>4. Press across and downward, making sure to work out any air bubbles, as you go. Reposition and make adjustments as needed. (The back panel wrap may have small sections that extend around corners to the side panels.) <\/p><p>5. Pull away manageable sections of the liner as you go. Do not remove large sections, as the adhesive may stick to unintended materials and surfaces. <\/p><p>6. After smoothing the wrap across and down the panel, firmly press all edges again for security. <\/p><p>7. Repeat the process for all sides. <br\/><\/p><p>PRO TIPS:<\/p><ul><li>Install in a dry environment. Do not use a wet application method.<\/li><li>Install when temperatures are between 40 - 80 degrees F<\/li><li>Do not apply in direct sunlight<\/li><li>Avoid wind speeds over 10mph<\/li><li>It is recommended to have a box cutter or knife available, in the event you need to trim details around machine cut-outs.<\/li><\/ul>",
+            "row_content": "<p>Outdoor wrap installation is relatively easy in moderate temperatures and low wind environments. Read all steps and tips below.</p><p>NEVER APPLY TO A WET SURFACE. DRY INSTALL ONLY. </p><p>Materials Needed: <br/>An alcohol solution (either 50/50 water-alcohol, denatured alcohol, or rubbing alcohol) and microfiber cloths</p><p>STEPS: <a href=\"https://youtu.be/qVYRiAXKiIo\" target=\"_blank\" title=\"Wrap installation tutorial\">Watch the video tutorial here</a>.</p><p>Prepare the Surface for Installation</p><p>1. Remove any caulk from the metal surface, as adhesive will not stick to caulk.</p><p>2. Clean the area thoroughly with rubbing or denatured alcohol using a microfiber cloth. </p><p>3. To avoid a residue that will prevent the wrap from adhering to your surface, do not use household cleaning products. Especially avoid products that contain ammonia or degreasers.</p><p>Installation </p><p>1. Begin with the back panel, if your wrap has a back, and peel 5”- 6” of liner down from the top edge of the wrap panel. Add a crease in the liner  to keep it  away from the adhesive.</p><p>2. Align the wrap at the top edge of the back panel, making sure it is straight. </p><p>3. Press along the top edge of the wrap, securing it in place. Readjust the alignment, if needed, before continuing.</p><p>4. Press across and downward, making sure to work out any air bubbles, as you go. Reposition and make adjustments as needed. (The back panel wrap may have small sections that extend around corners to the side panels.) </p><p>5. Pull away manageable sections of the liner as you go. Do not remove large sections, as the adhesive may stick to unintended materials and surfaces. </p><p>6. After smoothing the wrap across and down the panel, firmly press all edges again for security. </p><p>7. Repeat the process for all sides. <br/></p><p>PRO TIPS:</p><ul><li>Install in a dry environment. Do not use a wet application method.</li><li>Install when temperatures are between 40 - 80 degrees F</li><li>Do not apply in direct sunlight</li><li>Avoid wind speeds over 10mph</li><li>It is recommended to have a box cutter or knife available, in the event you need to trim details around machine cut-outs.</li></ul>",
             "page": ""
           }
         },
@@ -87,7 +96,7 @@
           "settings": {
             "heading": "When do I use a wet application method?",
             "icon": "question_mark",
-            "row_content": "<p>Our products are not transfer decals, so you will never use a wet application for SharkSkin® or ColorPop™ materials.<\/p>",
+            "row_content": "<p>Our products are not transfer decals, so you will never use a wet application for SharkSkin® or ColorPop™ materials.</p>",
             "page": ""
           }
         },
@@ -96,7 +105,7 @@
           "settings": {
             "heading": "Approximately how long will the product last under normal wear and tear?",
             "icon": "question_mark",
-            "row_content": "<p>SharkSkin® decals and wraps are made of vinyl with high tack permanent adhesive rated 5 years for outdoor use, even in direct sunlight.<\/p>",
+            "row_content": "<p>SharkSkin® decals and wraps are made of vinyl with high tack permanent adhesive rated 5 years for outdoor use, even in direct sunlight.</p>",
             "page": ""
           }
         },
@@ -105,7 +114,7 @@
           "settings": {
             "heading": "Are decal samples available for material and adhesive reference?",
             "icon": "question_mark",
-            "row_content": "<p>Sample decals are mailed by the U.S. Postal Service for a delivery fee of $5. Expedited services are available.<\/p>",
+            "row_content": "<p>Sample decals are mailed by the U.S. Postal Service for a delivery fee of $5. Expedited services are available.</p>",
             "page": ""
           }
         },
@@ -114,7 +123,7 @@
           "settings": {
             "heading": "Is there a warranty on decals and wraps?",
             "icon": "question_mark",
-            "row_content": "<p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. <\/p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. <\/p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.<\/p>",
+            "row_content": "<p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. </p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. </p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.</p>",
             "page": ""
           }
         },
@@ -123,7 +132,7 @@
           "settings": {
             "heading": "Do you offer a template service for new equipment?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, we offer many services for new products, including creating templates, marketing materials, photography, QR code creation, website development, and more. Reach out to our team to discuss your project.<\/p><p>Read more about our custom kiosk templating service <a href=\"\/products\/gbadd-on-top-secret-project\" title=\"Custom Kiosk Templating Service\">here.<\/a> <\/p>",
+            "row_content": "<p>Yes, we offer many services for new products, including creating templates, marketing materials, photography, QR code creation, website development, and more. Reach out to our team to discuss your project.</p><p>Read more about our custom kiosk templating service <a href=\"/products/gbadd-on-top-secret-project\" title=\"Custom Kiosk Templating Service\">here.</a> </p>",
             "page": ""
           }
         },
@@ -132,7 +141,7 @@
           "settings": {
             "heading": "What material is the topper insert?",
             "icon": "question_mark",
-            "row_content": "<p>Our topper inserts are rigid plastic, printed with UV-stable ink that adheres to the smooth insert surface to prevent smudges.<\/p>",
+            "row_content": "<p>Our topper inserts are rigid plastic, printed with UV-stable ink that adheres to the smooth insert surface to prevent smudges.</p>",
             "page": ""
           }
         }
@@ -176,16 +185,16 @@
           "settings": {
             "heading": "How do I place an order?",
             "icon": "question_mark",
-            "row_content": "<p>Custom orders are easy at GetBranded. Place your order through any product page. Many custom products have design options for your input and selection, and if we require additional information, a representative will contact you. You will receive a proof for approval prior to production of custom items. Production begins upon receipt of approval. <\/p>",
+            "row_content": "<p>Custom orders are easy at GetBranded. Place your order through any product page. Many custom products have design options for your input and selection, and if we require additional information, a representative will contact you. You will receive a proof for approval prior to production of custom items. Production begins upon receipt of approval. </p>",
             "page": ""
           }
         },
         "70c109a2-a3b3-4c95-900e-73f9827e5694": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What make\/model machine do I have?",
+            "heading": "What make/model machine do I have?",
             "icon": "question_mark",
-            "row_content": "<p>Most ATMs\/kiosks have an informational placard inside the cabinet, including manufacturer name, model, serial number, manufactured date and a barcode. Often it can be found inside the top of the cabinet, on the left side wall. <\/p><p>We can also assist in identifying the make and model of other kiosks by images. If you still have a question about your model, send us a picture of the front and the side of the cabinet for assistance. <\/p>",
+            "row_content": "<p>Most ATMs/kiosks have an informational placard inside the cabinet, including manufacturer name, model, serial number, manufactured date and a barcode. Often it can be found inside the top of the cabinet, on the left side wall. </p><p>We can also assist in identifying the make and model of other kiosks by images. If you still have a question about your model, send us a picture of the front and the side of the cabinet for assistance. </p>",
             "page": ""
           }
         },
@@ -194,16 +203,16 @@
           "settings": {
             "heading": "What is your standard production time?",
             "icon": "question_mark",
-            "row_content": "<p>3-5 business days for production on most products. <\/p><p>High quantity orders may require more time, in which case we will contact you about production times and options for shipping in stages as the products are completed.<\/p>",
+            "row_content": "<p>3-5 business days for production on most products. </p><p>High quantity orders may require more time, in which case we will contact you about production times and options for shipping in stages as the products are completed.</p>",
             "page": ""
           }
         },
         "62a194ca-bf59-4db9-959c-ac987f03b5bb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Are there discounts available? Can any decal be bought as a bundle\/pack?",
+            "heading": "Are there discounts available? Can any decal be bought as a bundle/pack?",
             "icon": "question_mark",
-            "row_content": "<p>Most decals have options for quantity discounts. See the individual product page for details.<\/p>",
+            "row_content": "<p>Most decals have options for quantity discounts. See the individual product page for details.</p>",
             "page": ""
           }
         },
@@ -212,7 +221,7 @@
           "settings": {
             "heading": "Can I create my own decal or wrap and send in the artwork?",
             "icon": "question_mark",
-            "row_content": "<p>Yes. If you would like your logo added to an existing wrap or decal design, please use the <a href=\"\/pages\/file-upload\" title=\"File Upload\">File Upload<\/a> option to submit your information. If you have an artwork design for a custom wrap or custom decal, you may submit your order using your own artwork through any product page or use the <a href=\"\/pages\/quote-request\" title=\"Quote Request\">Quote Request<\/a> form. Read the Tips for uploading artwork files section below.<\/p>",
+            "row_content": "<p>Yes. If you would like your logo added to an existing wrap or decal design, please use the <a href=\"/pages/file-upload\" title=\"File Upload\">File Upload</a> option to submit your information. If you have an artwork design for a custom wrap or custom decal, you may submit your order using your own artwork through any product page or use the <a href=\"/pages/quote-request\" title=\"Quote Request\">Quote Request</a> form. Read the Tips for uploading artwork files section below.</p>",
             "page": ""
           }
         },
@@ -221,7 +230,7 @@
           "settings": {
             "heading": "Do you provide an artwork template I can use to create my design?",
             "icon": "question_mark",
-            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. Find templates <a href=\"\/pages\/templates\" title=\"Templates\">here<\/a>.<\/p>",
+            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. Find templates <a href=\"/pages/templates\" title=\"Templates\">here</a>.</p>",
             "page": ""
           }
         },
@@ -230,7 +239,16 @@
           "settings": {
             "heading": "How do I make payment on an unpaid order?",
             "icon": "question_mark",
-            "row_content": "<p>Orders that DO NOT include the GB- prefix can only be paid via check. Please make your check payable to GetBranded.com and send it to: 109 Hurricane Creek Rd. Piedmont, SC 29673. All new orders and orders containing the GB- prefix can be paid online.<\/p>",
+            "row_content": "<p>Orders that DO NOT include the GB- prefix can only be paid via check. Please make your check payable to GetBranded.com and send it to: 109 Hurricane Creek Rd. Piedmont, SC 29673. All new orders and orders containing the GB- prefix can be paid online.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9PjJVC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does GetBranded Maintain Color Tolerances?",
+            "icon": "question_mark",
+            "row_content": "<p>In print production, color accuracy is defined by process.</p><p>A true, exact color match exists only within the Pantone Matching System (PMS), where inks are precisely formulated and controlled. This level of consistency is typically achieved through traditional processes such as offset printing and screen printing, where spot colors are mixed to a fixed standard.</p><p>In contrast, digital printing operates within the CMYK color model (process color) environment. While color profiles are created and calibrated for digital presses, they simulate color rather than replicate it exactly. Because of this, there is always an acceptable tolerance range in color reproduction.</p><p>This variance is controlled, but not eliminated.</p><p>Color shift in CMYK output can be influenced by several factors, including:</p><ul><li>Ink batch variations from the manufacturer</li><li>Environmental conditions such as humidity and temperature during production</li><li>Substrate differences (material color, coating, and absorbency)</li><li>Press calibration and operator settings</li></ul><p>These variables introduce slight, but industry-accepted, deviations from the intended color target.</p><p>For color-critical applications, Pantone spot colors are recommended. For all digital CMYK production, a reasonable variance should be expected and is considered standard within the printing industry.</p><h3>CMYK Tolerance Use Case – The Coca-Cola Company</h3><p>A brand like The Coca-Cola Company is globally recognized for its signature red, which is defined by a specific Pantone color for consistency across all media.</p><p>However, when producing large-format graphics, decals, or wraps using CMYK digital printing, that Pantone red must be converted into a CMYK profile. Even with precise color calibration and profiling, slight variations can occur from run to run or across different materials.</p><p></p><p>For example:</p><ul><li>A Coca-Cola red printed on a gloss vinyl may appear slightly more vibrant than the same file printed on a matte laminate</li><li>Environmental conditions during production can subtly shift the warmth or depth of the red</li><li>Different print devices or ink sets may render the same CMYK values with minor visual differences</li></ul><p>These differences fall within accepted CMYK tolerances and do not indicate a defect; rather, they reflect the natural limitations of process color reproduction.</p><p>For this reason, when producing branded materials for companies like Coca-Cola in CMYK, approved proofs and tolerance expectations are critical to ensure alignment before full production.</p><p></p><h3>Color Control & Quality Assurance Summary</h3><p>We take extensive measures to ensure all colors remain within an acceptable CMYK tolerance range throughout production.</p><p>This includes maintaining consistent temperature and humidity levels in our print environment, using custom-built color profiles tailored to each material and print process, and calibrating our equipment to industry standards.</p><p>In addition, every production run is supported by visual spot-checking, in which the approved color proof is compared directly with the printed output for each wrap. This ensures that local color consistency is maintained across all units and that any variation remains within acceptable, industry-recognized tolerances.</p><p>While minor variation is inherent to CMYK printing, our process is designed to control, minimize, and standardize those variables—delivering a consistent, repeatable result that aligns with approved expectations.</p>",
             "page": ""
           }
         }
@@ -242,7 +260,8 @@
         "62a194ca-bf59-4db9-959c-ac987f03b5bb",
         "6e809e51-265f-4e07-9975-a85367a24a5d",
         "9de539b8-3b10-4689-9e88-6ae0625900cd",
-        "be37478f-c99c-4d41-b230-8fe128518ba8"
+        "be37478f-c99c-4d41-b230-8fe128518ba8",
+        "collapsible_row_9PjJVC"
       ],
       "settings": {
         "caption": "",
@@ -267,7 +286,7 @@
           "settings": {
             "heading": "What logo and graphics file types can you use for my order?",
             "icon": "question_mark",
-            "row_content": "<ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator<\/li><li>Preferred logo format: <strong>Vector<\/strong><\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>. <\/p><p>Tips for uploading artwork files:<\/p><ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator<\/li><li>Preferred logo format: Vector<\/li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)<\/li><li>Fonts: Outline all fonts and include all fonts used with the artwork<\/li><li>Colors: CYMK for printing purposes. If PMS colors are provided, they will be converted to CMYK for print production<\/li><li>Before production, our team will let you know there are issues with low resolution and if vector art files are needed. <\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>. <\/p>",
+            "row_content": "<ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator</li><li>Preferred logo format: <strong>Vector</strong></li></ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"/products/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here</a>. </p><p>Tips for uploading artwork files:</p><ul><li>Use one of the following file types: InDesign CC, Vector EPS, or Adobe Illustrator</li><li>Preferred logo format: Vector</li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)</li><li>Fonts: Outline all fonts and include all fonts used with the artwork</li><li>Colors: CYMK for printing purposes. If PMS colors are provided, they will be converted to CMYK for print production</li><li>Before production, our team will let you know there are issues with low resolution and if vector art files are needed. </li></ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"/products/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here</a>. </p>",
             "page": ""
           }
         },
@@ -276,7 +295,7 @@
           "settings": {
             "heading": "Why are vector files needed for large print jobs?",
             "icon": "question_mark",
-            "row_content": "<p>Using a Vector format allows you to create striking images that are scalable with zero loss in quality. With the vector format, you can use the same design file for large projects, including billboards and banners, and small projects like apparel embroidery and business cards.<\/p><p>If you have a raster file that comes from a camera using pixel data, we can reproduce your file in vector and convert the color space to CMYK. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "row_content": "<p>Using a Vector format allows you to create striking images that are scalable with zero loss in quality. With the vector format, you can use the same design file for large projects, including billboards and banners, and small projects like apparel embroidery and business cards.</p><p>If you have a raster file that comes from a camera using pixel data, we can reproduce your file in vector and convert the color space to CMYK. <a href=\"/products/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here</a>.</p>",
             "page": ""
           }
         },
@@ -285,16 +304,16 @@
           "settings": {
             "heading": "What is a raster file?",
             "icon": "question_mark",
-            "row_content": "<p>Raster images typically come from cameras using pixel data. This means that when you zoom in on a Raster image, you can see the pixels, and the image becomes blurry.<\/p><p>If you have a raster file, we can reproduce your file in vector format that is needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "row_content": "<p>Raster images typically come from cameras using pixel data. This means that when you zoom in on a Raster image, you can see the pixels, and the image becomes blurry.</p><p>If you have a raster file, we can reproduce your file in vector format that is needed for printing. <a href=\"/products/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here</a>.</p>",
             "page": ""
           }
         },
         "efa1bda1-0e42-42b6-b659-6b8fd5287fb0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is the required file size\/resolution for my logos and images?",
+            "heading": "What is the required file size/resolution for my logos and images?",
             "icon": "question_mark",
-            "row_content": "<ul><li>Preferred logo format: Vector<\/li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)<\/li><\/ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"\/products\/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here<\/a>.<\/p>",
+            "row_content": "<ul><li>Preferred logo format: Vector</li><li>Images: minimum size 300 DPI or PPI, at the size the image will be printed. (For example, an image that will be printed at 20 inches by 20 inches, needs to be that scale in the file.)</li></ul><p>If you have a lower resolution raster file, we can reproduce your file in the vector format needed for printing. <a href=\"/products/logo-vectorization\" title=\"Logo Vectorization\">Learn more about vectorization here</a>.</p>",
             "page": ""
           }
         },
@@ -303,7 +322,7 @@
           "settings": {
             "heading": "What color formats can be used in my artwork?",
             "icon": "question_mark",
-            "row_content": "<ul><li>CMYK color builds are preferred for achieving a printed color match. <\/li><li>RGB will be converted to CMYK for print production, however, the color may not exactly match the RGB color as there is not an exact conversion into CMYK. If you would like an exact color match, provide a CMYK color build. Color proofs are available.<\/li><li>PMS will be converted to CMYK for print production, however, the color may not exactly match the PMS color. If you would like an exact color match, provide a CMYK color build. Color proofs are available. <\/li><li>Hex codes are used for digital color builds and can be converted to CMYK, however, the color match is less precise as it must be converted to RGB and then CMYK. A color proof is highly recommended if you are asking for a Hex value. <\/li><li>Photos of color references and paint color codes are not usable.<\/li><\/ul><p>Color proofs are available - shipping charges apply.<\/p>",
+            "row_content": "<ul><li>CMYK color builds are preferred for achieving a printed color match. </li><li>RGB will be converted to CMYK for print production, however, the color may not exactly match the RGB color as there is not an exact conversion into CMYK. If you would like an exact color match, provide a CMYK color build. Color proofs are available.</li><li>PMS will be converted to CMYK for print production, however, the color may not exactly match the PMS color. If you would like an exact color match, provide a CMYK color build. Color proofs are available. </li><li>Hex codes are used for digital color builds and can be converted to CMYK, however, the color match is less precise as it must be converted to RGB and then CMYK. A color proof is highly recommended if you are asking for a Hex value. </li><li>Photos of color references and paint color codes are not usable.</li></ul><p>Color proofs are available - shipping charges apply.</p>",
             "page": ""
           }
         },
@@ -312,7 +331,7 @@
           "settings": {
             "heading": "Can GetBranded design my decal or wrap?",
             "icon": "question_mark",
-            "row_content": "<p>Yes. Creation of a graphic design is included with the purchase of a full wrap. <\/p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. <\/p><p>For information about other custom projects, reach out using the <a href=\"\/pages\/custom-project\" title=\"Custom Project\">Custom Project form.<\/a><\/p>",
+            "row_content": "<p>Yes. Creation of a graphic design is included with the purchase of a full wrap. </p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. </p><p>For information about other custom projects, reach out using the <a href=\"/pages/custom-project\" title=\"Custom Project\">Custom Project form.</a></p>",
             "page": ""
           }
         },
@@ -321,7 +340,7 @@
           "settings": {
             "heading": "Is graphic design included with my order?",
             "icon": "question_mark",
-            "row_content": "<p>Creation of a graphic design is included with the purchase of a full wrap. <\/p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. <\/p>",
+            "row_content": "<p>Creation of a graphic design is included with the purchase of a full wrap. </p><p>Many products can be customized with your company logo. See product pages for additional information about customization options. </p>",
             "page": ""
           }
         },
@@ -330,7 +349,7 @@
           "settings": {
             "heading": "Do you offer graphic design services for non-wrap projects?",
             "icon": "question_mark",
-            "row_content": "<p>Yes. Read more about our <a href=\"\/products\/contact-graphic-design\" title=\"Contract Graphic Design\">graphic design services here<\/a>.<\/p>",
+            "row_content": "<p>Yes. Read more about our <a href=\"/products/contact-graphic-design\" title=\"Contract Graphic Design\">graphic design services here</a>.</p>",
             "page": ""
           }
         },
@@ -339,7 +358,7 @@
           "settings": {
             "heading": "Do you provide an artwork template I can use to create my design?",
             "icon": "question_mark",
-            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. <a href=\"\/pages\/templates\" title=\"Templates\">Find templates here<\/a>.<\/p>",
+            "row_content": "<p>Yes. If you choose to provide your own artwork, we can provide a design-only template for you to apply your custom design. Your design-only art file will be applied to a print template for your specific model during the production process. <a href=\"/pages/templates\" title=\"Templates\">Find templates here</a>.</p>",
             "page": ""
           }
         }
@@ -378,7 +397,7 @@
           "settings": {
             "heading": "Where do I go for additional assistance?",
             "icon": "question_mark",
-            "row_content": "<p>Reach out to our team via phone or email. <a href=\"tel:1-800–503-0314\" title=\"tel:1-800–503-0314\">1-800–503-0314<\/a> or <a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com<\/a><\/p><p>To request a quote on a special project, you may use the <a href=\"\/pages\/quote-request\" title=\"Quote Request\">Quote Request Form<\/a>.<\/p>",
+            "row_content": "<p>Reach out to our team via phone or email. <a href=\"tel:1-800–503-0314\" title=\"tel:1-800–503-0314\">1-800–503-0314</a> or <a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com</a></p><p>To request a quote on a special project, you may use the <a href=\"/pages/quote-request\" title=\"Quote Request\">Quote Request Form</a>.</p>",
             "page": ""
           }
         },
@@ -387,7 +406,7 @@
           "settings": {
             "heading": "Do you offer international shipping options?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, we offer international shipping.<\/p>",
+            "row_content": "<p>Yes, we offer international shipping.</p>",
             "page": ""
           }
         },
@@ -396,7 +415,7 @@
           "settings": {
             "heading": "How much is shipping?",
             "icon": "question_mark",
-            "row_content": "<p>We offer many shipping options. Prices vary by carrier and delivery timelines.<\/p>",
+            "row_content": "<p>We offer many shipping options. Prices vary by carrier and delivery timelines.</p>",
             "page": ""
           }
         },
@@ -405,7 +424,7 @@
           "settings": {
             "heading": "Can I use my own shipping account?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, additional fees apply. If you want to ship using a different carrier, we will provide you with the dimensions and weight to create the shipping label and schedule the pickup. If you provide a shipping label and schedule pickup, we will ship using your account. <\/p>",
+            "row_content": "<p>Yes, additional fees apply. If you want to ship using a different carrier, we will provide you with the dimensions and weight to create the shipping label and schedule the pickup. If you provide a shipping label and schedule pickup, we will ship using your account. </p>",
             "page": ""
           }
         },
@@ -414,7 +433,7 @@
           "settings": {
             "heading": "Can my order ship to multiple locations?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, a single order can ship to multiple locations. Additional fees apply. <\/p>",
+            "row_content": "<p>Yes, a single order can ship to multiple locations. Additional fees apply. </p>",
             "page": ""
           }
         },
@@ -423,16 +442,16 @@
           "settings": {
             "heading": "What happens after I order?",
             "icon": "question_mark",
-            "row_content": "<p>Upon your order confirmation, the GetBranded team will begin fulfilling your order. If any of your items are custom and enough information has been provided, our designers will begin preparing proofs for your review and approval. If we need more information, a salesperson will contact you to gather this information, and then a proof will be provided. <\/p>",
+            "row_content": "<p>Upon your order confirmation, the GetBranded team will begin fulfilling your order. If any of your items are custom and enough information has been provided, our designers will begin preparing proofs for your review and approval. If we need more information, a salesperson will contact you to gather this information, and then a proof will be provided. </p>",
             "page": ""
           }
         },
         "89f086ba-b828-4563-8d24-5032dd708e6b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What are the return\/cancellation policies?",
+            "heading": "What are the return/cancellation policies?",
             "icon": "question_mark",
-            "row_content": "<p>Custom orders are final and can not be canceled once production begins. <\/p><p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. <\/p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. <\/p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.<\/p>",
+            "row_content": "<p>Custom orders are final and can not be canceled once production begins. </p><p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. </p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. </p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.</p>",
             "page": ""
           }
         }
