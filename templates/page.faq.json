@@ -495,9 +495,9 @@
         "collapsible_row_BYbyAw": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer international shipping options?",
+            "heading": "What are raster files?",
             "icon": "question_mark",
-            "row_content": "<p>Yes, we offer international shipping.</p>",
+            "row_content": "<p><strong>Raster images</strong> (JPG, PNG, TIFF) are pixel-based.</p><p>They rely entirely on resolution.</p><p>→ For print, the standard is:</p><p><strong>250 DPI or greater at full scale</strong></p><p>That means if you're printing a <strong>48\" x 48\" graphic</strong>, the image must actually be built at 48\" x 48\" at 250 DPI—not scaled up later.</p><p>Anything less?</p><p>You get softness, pixelation, and loss of detail.</p>",
             "page": ""
           }
         },
