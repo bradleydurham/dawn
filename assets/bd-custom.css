@@ -24,6 +24,7 @@ html {
 
 .announcement-bar__message.bd-left {
   display: flex;
+  justify-content: flex-start;
 }
 
 .announcement-bar:empty {
