@@ -488,7 +488,7 @@
           "settings": {
             "heading": "What are vector files?",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p><strong>Vector files</strong> (AI, EPS, SVG) are built using mathematical paths.</p><p>They are resolution-independent, meaning they scale infinitely with <strong>perfectly clean lines</strong>.</p><p>→ Best used for:</p><ul><li>Logos</li><li>Typography</li><li>Line art</li><li>Brand assets</li></ul><p>If it needs to be sharp at <em>any size</em>, it should be vector.</p>",
             "page": ""
           }
         },
