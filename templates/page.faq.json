@@ -558,15 +558,25 @@
         "collapsible_row_PUp69n": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Are images created with AI good for printing?",
+            "heading": "Can I use my AI generated image for printing?",
             "icon": "question_mark",
             "row_content": "<h3><strong>AI Images: Fast Creation, Hard Production</strong></h3><p>AI has changed the creative process—no question.</p><p>You can generate a stunning visual in seconds.</p><p>But here’s the problem:</p><p><strong>AI generates images—not production-ready files.</strong></p><p>Most AI outputs are:</p><ul><li>Raster-based</li><li>Low to medium resolution</li><li>Not built at real-world scale</li><li>Not color-managed for CMYK</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GdpLVh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will my AI generated image be good enough quality for printing?",
+            "icon": "question_mark",
+            "row_content": "<h3><strong>The Real Challenge: Scaling AI to Print</strong></h3><p>Let’s take a real-world example:</p><p>You want to print a <strong>48\" x 48\" wall graphic</strong>.</p><p>To do it correctly:</p><ul><li>File must be built at full size</li><li>At <strong>250 DPI</strong></li><li>In <strong>CMYK color space</strong></li><li>With clean detail and no artifacts</li></ul><p>Now here’s the issue:</p><p>That AI-generated image is:</p><ul><li>Unique</li><li>Not layered</li><li>Not reconstructable using stock assets</li></ul><p>To rebuild that image properly at print resolution…</p><p>A human designer would need to:</p><ul><li>Recreate composition</li><li>Source or rebuild assets</li><li>Color correct for CMYK</li><li>Upscale intelligently without degradation</li></ul><p><strong>Estimated effort:</strong></p><ul><li>30–40 hours</li><li>At ~$100/hour = <strong>$3,000–$4,000</strong></li></ul>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_PUp69n"
+        "collapsible_row_PUp69n",
+        "collapsible_row_GdpLVh"
       ],
       "settings": {
         "caption": "",
