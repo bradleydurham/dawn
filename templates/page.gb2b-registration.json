@@ -43,10 +43,54 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "rich_text_FM63zN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rnp4hd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Add Additional Account Holders",
+            "heading_size": "h1"
+          }
+        },
+        "text_CQiz3Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please submit the form linked below to create accounts for any addiontal account holders you wish to have on your B2B account. </p>"
+          }
+        },
+        "button_wkPM8y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rnp4hd",
+        "text_CQiz3Q",
+        "button_wkPM8y"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "1777486983a9234820"
+    "1777486983a9234820",
+    "rich_text_FM63zN"
   ]
 }
