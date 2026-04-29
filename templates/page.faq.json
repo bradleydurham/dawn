@@ -488,7 +488,7 @@
           "settings": {
             "heading": "What are vector files?",
             "icon": "question_mark",
-            "row_content": "<p>Reach out to our team via phone or email. <a href=\"tel:1-800–503-0314\" title=\"tel:1-800–503-0314\">1-800–503-0314</a> or <a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com</a></p><p>To request a quote on a special project, you may use the <a href=\"/pages/quote-request\" title=\"Quote Request\">Quote Request Form</a>.</p>",
+            "row_content": "",
             "page": ""
           }
         },
