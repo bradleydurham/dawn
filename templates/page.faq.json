@@ -572,11 +572,21 @@
             "row_content": "<h3><strong>The Real Challenge: Scaling AI to Print</strong></h3><p>Let’s take a real-world example:</p><p>You want to print a <strong>48\" x 48\" wall graphic</strong>.</p><p>To do it correctly:</p><ul><li>File must be built at full size</li><li>At <strong>250 DPI</strong></li><li>In <strong>CMYK color space</strong></li><li>With clean detail and no artifacts</li></ul><p>Now here’s the issue:</p><p>That AI-generated image is:</p><ul><li>Unique</li><li>Not layered</li><li>Not reconstructable using stock assets</li></ul><p>To rebuild that image properly at print resolution…</p><p>A human designer would need to:</p><ul><li>Recreate composition</li><li>Source or rebuild assets</li><li>Color correct for CMYK</li><li>Upscale intelligently without degradation</li></ul><p><strong>Estimated effort:</strong></p><ul><li>30–40 hours</li><li>At ~$100/hour = <strong>$3,000–$4,000</strong></li></ul>",
             "page": ""
           }
+        },
+        "collapsible_row_iEmdXB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why does my AI image look bad when printed?",
+            "icon": "question_mark",
+            "row_content": "<h3><strong>The Bottom Line</strong></h3><p>AI accelerates ideation—but <strong>print demands precision</strong>.</p><p>There’s a gap between:</p><p><em>What looks good on screen</em></p><p>and</p><p><em>What performs in the physical world</em></p><p>Bridging that gap requires:</p><ul><li>Proper file setup (vector vs. raster)</li><li>Correct resolution (250 DPI at scale)</li><li>Color management (CMYK vs. Pantone expectations)</li><li>Skilled production knowledge</li></ul><h3><strong>AI Creates. Print Proves.</strong></h3><p>If it’s going to live in the real world—on a wall, a kiosk, or a wrap—</p><p>it has to be engineered, not just generated.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_PUp69n",
-        "collapsible_row_GdpLVh"
+        "collapsible_row_GdpLVh",
+        "collapsible_row_iEmdXB"
       ],
       "settings": {
         "caption": "",
