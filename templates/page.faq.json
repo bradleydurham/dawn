@@ -479,6 +479,97 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_NkVfQU": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_ak6F3x": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are vector files?",
+            "icon": "question_mark",
+            "row_content": "<p>Reach out to our team via phone or email. <a href=\"tel:1-800–503-0314\" title=\"tel:1-800–503-0314\">1-800–503-0314</a> or <a href=\"mailto:sales@getbranded.com\" title=\"mailto:sales@getbranded.com\">sales@getbranded.com</a></p><p>To request a quote on a special project, you may use the <a href=\"/pages/quote-request\" title=\"Quote Request\">Quote Request Form</a>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BYbyAw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer international shipping options?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, we offer international shipping.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_epX9Dj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much is shipping?",
+            "icon": "question_mark",
+            "row_content": "<p>We offer many shipping options. Prices vary by carrier and delivery timelines.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mDUEah": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use my own shipping account?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, additional fees apply. If you want to ship using a different carrier, we will provide you with the dimensions and weight to create the shipping label and schedule the pickup. If you provide a shipping label and schedule pickup, we will ship using your account. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_M7rKkN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can my order ship to multiple locations?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, a single order can ship to multiple locations. Additional fees apply. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eiXyxj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What happens after I order?",
+            "icon": "question_mark",
+            "row_content": "<p>Upon your order confirmation, the GetBranded team will begin fulfilling your order. If any of your items are custom and enough information has been provided, our designers will begin preparing proofs for your review and approval. If we need more information, a salesperson will contact you to gather this information, and then a proof will be provided. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_taJBnt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the return/cancellation policies?",
+            "icon": "question_mark",
+            "row_content": "<p>Custom orders are final and can not be canceled once production begins. </p><p>When installed correctly, SharkSkin® decals and wraps are rated 5 years outdoor durability. We have a 5 year no-fade guarantee. </p><p>If there is an issue with your order, contact us within two weeks of receipt and provide a photograph referencing the quality issue. We will reproduce any workmanship errors or defective items after verifying the problem. Defective materials must be returned to us, at our cost, prior to reproduction. </p><p>We do not allow returns for reasons unrelated to quality, such as incorrect information provided during the ordering process or the decision to try a different product.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_ak6F3x",
+        "collapsible_row_BYbyAw",
+        "collapsible_row_epX9Dj",
+        "collapsible_row_mDUEah",
+        "collapsible_row_M7rKkN",
+        "collapsible_row_eiXyxj",
+        "collapsible_row_taJBnt"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Vector vs. Raster — Know the Difference</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -486,6 +577,7 @@
     "cdda0e45-e151-4cda-a290-57251e93963e",
     "8cdea21f-c62d-4def-86bb-01a3ab572b70",
     "2e3c0ed3-c409-4645-beab-45fb3cf6ace6",
-    "fcc70751-a775-4ce1-aea2-17bb21253be6"
+    "fcc70751-a775-4ce1-aea2-17bb21253be6",
+    "collapsible_content_NkVfQU"
   ]
 }
