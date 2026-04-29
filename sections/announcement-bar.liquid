@@ -28,7 +28,7 @@
     {%- endif -%}
     {% comment %} BD code start {% endcomment %}
     {%- if section.settings.show_social == blank -%}
-      <div class="bd-mobile-hide">
+      {% comment %}  <div class="bd-mobile-hide">
         <div class="announcement-bar__message bd-left">
           <a class="link--text phone" href="tel:18005030314">{% render 'icon-bd-phone' %} 1.800.503.0314</a>
 
@@ -36,7 +36,7 @@
             {%- render 'icon-bd-mail' %} sales@getbranded.com</a
           >
         </div>
-      </div>
+      </div> {% endcomment %}
     {%- endif -%}
     {% comment %} BD code end {% endcomment %}
     {%- if section.blocks.size == 1 -%}
