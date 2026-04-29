@@ -532,20 +532,10 @@
             "row_content": "<p>Here’s where expectations really break:</p><ul><li><strong>Pantone (PMS)</strong> = the only way to achieve a <em>true, repeatable, perfect color match</em></li><li><strong>CMYK</strong> = process printing (what most large-format and digital printing uses)</li></ul><p>With CMYK, there is always an <strong>acceptable tolerance range</strong>.</p><p>Why?</p><p>Because color output is influenced by:</p><ul><li>Ink manufacturing variations</li><li>Temperature and humidity during production</li><li>Substrate (vinyl, laminate, etc.)</li><li>Printer calibration and profiles</li></ul><p>Even with perfect files, <strong>print is a controlled variable—not an exact science</strong>.</p>",
             "page": ""
           }
-        },
-        "collapsible_row_AMAw4B": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What are raster files?",
-            "icon": "question_mark",
-            "row_content": "<p><strong>Raster images</strong> (JPG, PNG, TIFF) are pixel-based.</p><p>They rely entirely on resolution.</p><p>→ For print, the standard is:</p><p><strong>250 DPI or greater at full scale</strong></p><p>That means if you're printing a <strong>48\" x 48\" graphic</strong>, the image must actually be built at 48\" x 48\" at 250 DPI—not scaled up later.</p><p>Anything less?</p><p>You get softness, pixelation, and loss of detail.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
-        "collapsible_row_BzW3Nz",
-        "collapsible_row_AMAw4B"
+        "collapsible_row_BzW3Nz"
       ],
       "settings": {
         "caption": "",
