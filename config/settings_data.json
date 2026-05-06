@@ -493,7 +493,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "#Details-HeaderMenu-8 > summary > span, #Details-HeaderMenu-8 > summary > svg {color: purple;}"
+      "#Details-HeaderMenu-7 > summary > span,#Details-HeaderMenu-7 > summary > svg {color: purple;}"
     ]
   }
 }
