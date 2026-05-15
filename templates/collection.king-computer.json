@@ -1,0 +1,232 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_collection_banner_bd_GNiq78": {
+      "type": "image-collection-banner-bd",
+      "blocks": {
+        "heading_gTjxFh": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ collection.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_EqM9kJ": {
+          "type": "text",
+          "settings": {
+            "text": "{{ collection.metafields.custom.single_line_description.value }}",
+            "text_style": "body"
+          }
+        },
+        "buttons_dPhBqi": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify://pages/laundry",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gTjxFh",
+        "text_EqM9kJ",
+        "buttons_dPhBqi"
+      ],
+      "settings": {
+        "image": "{{ collection.image }}",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_aFg6Ti": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PXmwtt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Braille Now Available!",
+            "heading_size": "h1"
+          }
+        },
+        "button_BM4KzY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request a Quote",
+            "button_link": "shopify://pages/quote-request",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PXmwtt",
+        "button_BM4KzY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-15c888e1-a376-481e-8154-6045c2ab2ed8",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "34bf2c81-31ae-43d4-a307-3139501a5ed2": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.promo_collection_1.value }}"
+          }
+        },
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.promo_collection_2.value }}"
+          }
+        },
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.promo_collection_3.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-1",
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-2",
+        "template--16969087484160__34bf2c81-31ae-43d4-a307-3139501a5ed2-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Related Categories",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4876907b-1831-40fd-8ec7-f327f05e6e55": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't see what you need? We Customize.",
+            "heading_size": "h1"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our graphic artists make the most of valuable marketing space with custom graphics for every element of your kiosk, including decals, wraps, topper inserts, machine headers, screen graphics, and more.",
+            "text_style": "body"
+          }
+        },
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Custom Decal Calculator",
+            "button_link_1": "shopify://products/customcalculator",
+            "button_style_secondary_1": false,
+            "button_label_2": "Quote Request",
+            "button_link_2": "shopify://pages/quote-request",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-heading-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-text-1",
+        "template--16969087484160__4876907b-1831-40fd-8ec7-f327f05e6e55-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banners.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "05395e5e-c531-4b5a-9f98-289cf80b342a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{%- if collection.description != blank -%}\n<div class=\"page-width\">\n    <div id=\"collection-description\">\n        <hr>\n    <div>\n    <div class=\"collection-hero__text-wrapper bd-collection-center\">\n        <h1 class=\"collection-hero__title\">{{ collection.title }}</h1>\n    \n        <div class=\"collection-hero__description rte\">\n            {{ collection.description }}\n        </div>\n    </div>\n</div>\n{%- endif -%}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    }
+  },
+  "order": [
+    "image_collection_banner_bd_GNiq78",
+    "product-grid",
+    "rich_text_aFg6Ti",
+    "34bf2c81-31ae-43d4-a307-3139501a5ed2",
+    "4876907b-1831-40fd-8ec7-f327f05e6e55",
+    "05395e5e-c531-4b5a-9f98-289cf80b342a",
+    "banner"
+  ]
+}
