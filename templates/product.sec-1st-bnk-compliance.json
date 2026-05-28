@@ -60,9 +60,9 @@
         "4ca5e63f-0040-45f3-adc9-a137a38adee2": {
           "type": "customize_content",
           "settings": {
-            "c_content_1": "List Networks",
-            "c_content_2": "",
-            "c_content_3": "Customization Details"
+            "c_content_1": "Company Name",
+            "c_content_2": "Phone Number",
+            "c_content_3": ""
           }
         },
         "buy_buttons": {
@@ -172,6 +172,7 @@
           "settings": {
             "button_label": "Learn More",
             "button_link": "shopify://pages/sharkskin",
+            "button_link_new_window": false,
             "button_style_secondary": false
           }
         }
