@@ -160,6 +160,8 @@
                 </a>
               {%- endif -%}
             </div>
+            {%- when 'custom_liquid' -%}
+              {{ block.settings.custom_liquid }}
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -468,6 +470,17 @@
           "id": "button_style_secondary_2",
           "default": false,
           "label": "t:sections.image-banner.blocks.buttons.settings.button_style_secondary_2.label"
+        }
+      ]
+    },
+    {
+      "type": "custom_liquid",
+      "name": "Custom Liquid",
+      "settings": [
+        {
+          "type": "liquid",
+          "id": "custom_liquid",
+          "label": "Custom Liquid"
         }
       ]
     }
