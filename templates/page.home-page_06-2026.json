@@ -34,22 +34,17 @@
             "text_style": "body"
           }
         },
-        "buttons_YB9gWE": {
-          "type": "buttons",
+        "custom_liquid_adQL9K": {
+          "type": "custom_liquid",
           "settings": {
-            "button_label_1": "What are you looking for?",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "custom_liquid": "<button type=\"button\" class=\"button\" id=\"hs-chat-trigger\">\n  What are you looking for?\n</button>\n\n<script>\n  (function () {\n    var btn = document.getElementById('hs-chat-trigger');\n    if (!btn) return;\n\n    function openChat() {\n      if (window.HubSpotConversations && window.HubSpotConversations.widget) {\n        window.HubSpotConversations.widget.open();\n      }\n    }\n\n    btn.addEventListener('click', function () {\n      if (window.HubSpotConversations) {\n        openChat();\n      } else {\n        window.hsConversationsOnReady = window.hsConversationsOnReady || [];\n        window.hsConversationsOnReady.push(openChat);\n      }\n    });\n  })();\n</script>"
           }
         }
       },
       "block_order": [
         "heading_fGjNFN",
         "text_ytJyim",
-        "buttons_YB9gWE"
+        "custom_liquid_adQL9K"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
